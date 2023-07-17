@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,4.48,5.772,"tell me what happened.","tell me what happened",4,4,1,1.292,3.09597523219814,1.292,0
 "2",2,5.856,8.316,"we just broke up.","we just broke up",4,8,1,2.46,1.6260162601626,3.752,0
 "3",3,8.9,10.609,"i don't understand.","i dont understand",3,11,1,1.709,1.75541252194266,5.461,0

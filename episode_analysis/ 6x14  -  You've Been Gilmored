@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,5.741,7.441,"the roses are amazing, mom.","the roses are amazing mom",5,5,1,1.7,2.94117647058824,1.7,0
 "2",2,7.772,8.712,"thank you, lorelai.","thank you lorelai",3,8,1,0.94,3.19148936170213,2.64,0
 "3",3,8.827,10.206,"i like them, too, grandma.","i like them too grandma",5,13,1,1.379,3.62581580855693,4.019,0

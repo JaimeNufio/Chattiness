@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,60.791,62.69,"- i've got too much stuff. 
 - what?"," ive got too much stuff   what",7,7,2,1.899,3.68615060558188,1.899,0
 "2",2,63.206,64.84,"stuff! and it's your fault.","stuff and its your fault",5,12,2,1.634,3.05997552019584,3.533,0

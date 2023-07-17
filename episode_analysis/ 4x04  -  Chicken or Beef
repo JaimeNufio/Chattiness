@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,31.71,33.187,"oh, crap!","oh crap",2,2,1,1.477,1.354096140826,1.477,0
 "2",2,33.255,36.264,"what's going on? is it the smoke detector? are we on fire?","whats going on is it the smoke detector are we on fire",12,14,1,3.009,3.98803589232303,4.486,0
 "3",3,36.336,37.933,"it's not the smoke detector, it's the alarm!","its not the smoke detector its the alarm",8,22,1,1.597,5.00939261114589,6.083,0

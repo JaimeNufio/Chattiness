@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,23.498,27.852,"""twenty-three is old. it's almost twenty-five, which is, like, almost mid-twenties.""","twentythree is old its almost twentyfive which is like almost midtwenties",11,11,1,4.354,2.52641249425815,4.354,0
 "2",2,27.934,29.653,"- she did not say that.
 - she did say that."," she did not say that  she did say that",10,21,1,1.719,5.81733566026761,6.073,0

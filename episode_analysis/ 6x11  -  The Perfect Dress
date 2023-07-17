@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,19.334,20.53,"what in the hell do you think you're doing?","what in the hell do you think youre doing",9,9,1,1.196,7.52508361204012,1.196,0
 "2",2,20.617,21.66,"i was just getting some coffee.","i was just getting some coffee",6,15,1,1.043,5.75263662511985,2.239,0
 "3",3,21.744,22.826,"you came behind my counter.","you came behind my counter",5,20,1,1.082,4.62107208872458,3.321,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.711,5.005,"i hate crossword puzzles.
 they make me feel stupid.","i hate crossword puzzles they make me feel stupid",9,9,1,2.294,3.9232781168265,2.294,0
 "2",2,5.088,7.841,"- then don't do them.

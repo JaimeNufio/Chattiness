@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,45.566,47.087,"oh, i know! how about... no.","oh i know how about no",6,6,1,1.521,3.9447731755424,1.521,0
 "2",2,47.398,49.892,"no, no, you can't keep doing that.","no no you cant keep doing that",7,13,1,2.494,2.80673616680032,4.015,0
 "3",3,49.99,51.888,"you can't just start a thought and then say no.","you cant just start a thought and then say no",10,23,1,1.898,5.2687038988409,5.913,0

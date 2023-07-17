@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.227,1.706,"previously on
 ""gilmore girls""...","previously on gilmore girls",4,4,1,1.479,2.70453008789723,1.479,0
 "2",2,1.716,3.756,"here. this came a

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.299,5.051,"oh, now come on. come on.
 you have got to be kidding me.","oh now come on come on you have got to be kidding me",13,13,1,2.752,4.72383720930233,2.752,0
 "2",2,5.102,6.374,"luke, come down here.","luke come down here",4,17,1,1.272,3.14465408805032,4.024,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,8.619,10.522,"- morning.
 - morning."," morning  morning",3,3,1,1.903,1.57645822385707,1.903,0
 "2",2,11.326,13.763,"hey, would you be horrified if i started clipping coupons again?","hey would you be horrified if i started clipping coupons again",11,14,1,2.437,4.5137464095199,4.34,0

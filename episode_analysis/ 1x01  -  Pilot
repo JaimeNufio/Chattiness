@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,51.05,53.677,"please, luke.","please luke",2,2,1,2.627,0.761324704986676,2.627,0
 "2",2,53.752,55.514,"how many cups
 have you had this morning?","how many cups have you had this morning",8,10,1,1.762,4.54029511918275,4.389,0

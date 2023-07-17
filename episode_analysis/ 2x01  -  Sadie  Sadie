@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.169,3.462,"previously on gilmore girls:","previously on gilmore girls",4,4,1,1.293,3.09358081979892,1.293,0
 "2",2,3.504,5.005,"- i'm going in.
 - you can't."," im going in  you cant",6,10,1,1.501,3.99733510992672,2.794,0

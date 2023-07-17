@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,13.615,15.69,"mmm, very good. not too spicy.","mmm very good not too spicy",6,6,1,2.075,2.89156626506024,2.075,0
 "2",2,15.691,18.101,"i pack it very tightly.
 it strangles the spice.","i pack it very tightly it strangles the spice",9,15,1,2.41,3.7344398340249,4.485,0

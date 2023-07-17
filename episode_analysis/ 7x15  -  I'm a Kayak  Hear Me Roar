@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,4.906,5.828,"yes?","yes",1,1,1,0.922000000000001,1.08459869848156,0.922000000000001,0
 "2",2,6.34,8.646,"um, paris, it's lorelai.","um paris its lorelai",4,5,1,2.306,1.73460537727667,3.228,0
 "3",3,9.159,11.208,"come in. the door is open.","come in the door is open",6,11,1,2.049,2.92825768667643,5.277,0

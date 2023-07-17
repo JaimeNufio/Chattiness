@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,54.928,56.297,"- morning. 
 - morning."," morning   morning",3,3,1,1.369,2.19138056975895,1.369,0
 "2",2,56.538,58.494,"someone woke up in project mode today.","someone woke up in project mode today",7,10,1,1.956,3.57873210633946,3.325,0

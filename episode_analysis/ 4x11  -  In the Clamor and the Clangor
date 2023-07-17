@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,27.63,28.283,"kleenex.","kleenex",1,1,1,0.653000000000002,1.53139356814701,0.653000000000002,0
 "2",2,29.559,30.906,"i'm gonna miss stan.","im gonna miss stan",4,5,1,1.347,2.96956198960654,2,0
 "3",3,31.013,32.472,"i know, i'm gonna miss him too.","i know im gonna miss him too",7,12,1,1.459,4.79780671692941,3.459,0

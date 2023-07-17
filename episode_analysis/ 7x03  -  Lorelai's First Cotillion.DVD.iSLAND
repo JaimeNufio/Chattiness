@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.121,2.721,"hey, punch me in the stomach.","hey punch me in the stomach",6,6,1,2.6,2.30769230769231,2.6,0
 "2",2,2.73,3.332,"what ?","what ",1,7,1,0.602,1.66112956810631,3.202,0
 "3",3,3.341,5.057,"real quick --

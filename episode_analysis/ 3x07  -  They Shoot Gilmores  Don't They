@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,63.58,65.331,"- what about that one? 
 - hm, no."," what about that one   hm no",7,7,2,1.751,3.99771559109079,1.751,0
 "2",2,65.397,66.38,"- why not? 

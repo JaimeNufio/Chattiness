@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,4.505,5.589,"yes?","yes",1,1,1,1.084,0.922509225092251,1.084,0
 "2",2,5.672,7.174,"- hey.
 - hello."," hey  hello",3,4,1,1.502,1.99733688415446,2.586,0

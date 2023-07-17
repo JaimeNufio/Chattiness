@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,5.304,6.528,"psst! lorelai!","psst lorelai",2,2,1,1.224,1.63398692810458,1.224,0
 "2",2,6.764,7.507,"jackson!","jackson",1,3,1,0.742999999999999,1.34589502018843,1.967,0
 "3",3,7.792,9.584,"shh! just come here a sec!","shh just come here a sec",6,9,1,1.792,3.34821428571429,3.759,0

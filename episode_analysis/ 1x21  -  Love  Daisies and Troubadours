@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.4,3.818,"previously on gilmore girls...","previously on gilmore girls",4,4,1,1.418,2.82087447108604,1.418,0
 "2",2,3.901,4.902,"i'm dean.","im dean",2,6,1,1.001,1.998001998002,2.419,0
 "3",3,4.986,6.362,"- max medina.

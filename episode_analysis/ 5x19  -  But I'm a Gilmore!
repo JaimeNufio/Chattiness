@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,27.157,28.341,"founder's day punch?","founders day punch",3,3,1,1.184,2.53378378378378,1.184,0
 "2",2,28.729,29.758,"abba zabbas.","abba zabbas",2,5,1,1.029,1.94363459669582,2.213,0
 "3",3,29.943,32.456,"good morning vietnam!","good morning vietnam",3,8,1,2.513,1.19379228014325,4.726,0

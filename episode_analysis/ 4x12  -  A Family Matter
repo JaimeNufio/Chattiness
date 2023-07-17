@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,9.573,10.658,"unbelievable.","unbelievable",1,1,1,1.085,0.921658986175116,1.085,0
 "2",2,17.627,19.747,"- hello? 
 - there are no empty tables at luke's."," hello   there are no empty tables at lukes",9,10,1,2.12,4.24528301886792,3.205,0

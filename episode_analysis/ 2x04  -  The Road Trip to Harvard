@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.294,4.004,"previously on gilmore girls:","previously on gilmore girls",4,4,1,1.71,2.33918128654971,1.71,0
 "2",2,4.087,6.548,"max has asked me to marry him.","max has asked me to marry him",7,11,1,2.461,2.84437220642015,4.171,0
 "3",3,6.632,7.674,"yeah, i figured.","yeah i figured",3,14,1,1.042,2.87907869481766,5.213,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,30.574,31.693,"hey","hey",1,1,1,1.119,0.893655049151028,1.119,0
 "2",2,31.728,34.31,"well, well, well i always
 suspected this day would come.","well well well i always suspected this day would come",10,11,1,2.582,3.87296669248644,3.701,0

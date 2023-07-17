@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,36.223,38.042,"i smell meat, is that meat?","i smell meat is that meat",6,6,1,1.819,3.29851566794942,1.819,0
 "2",2,38.278,40.018,"why, yes, miss, it is meat.","why yes miss it is meat",6,12,1,1.74,3.44827586206896,3.559,0
 "3",3,40.08,42.841,"oh, he called me miss. there's meat and a miss, i'm happy.","oh he called me miss theres meat and a miss im happy",12,24,1,2.761,4.34625135820354,6.32000000000001,0

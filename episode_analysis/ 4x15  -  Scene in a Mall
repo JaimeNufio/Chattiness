@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,84.29,85.259,"don't.","dont",1,1,2,0.969000000000008,1.03199174406604,0.969000000000008,0
 "2",2,86.223,88.711,"- you okay? 
 - well, you hurt my feelings just now."," you okay   well you hurt my feelings just now",10,11,2,2.488,4.01929260450161,3.45700000000001,0

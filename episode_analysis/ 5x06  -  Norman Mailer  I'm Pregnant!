@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.679,4.993,"- hey.
 - hey, you back. ready?"," hey  hey you back ready",6,6,1,2.314,2.59291270527226,2.314,0
 "2",2,5.112,6.075,"- almost.

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,11.916,12.826,"- oh, my god!
 - what is that?"," oh my god  what is that",7,7,1,0.91,7.69230769230769,0.91,0
 "2",2,12.899,14.932,"- is it in the house?

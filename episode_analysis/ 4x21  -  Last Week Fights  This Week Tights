@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.645,3.752,"no, no, boys. you go clockwise!","no no boys you go clockwise",6,6,1,3.107,1.9311232700354,3.107,0
 "2",2,4.059,6.173,"clockwise! can't you tell time?","clockwise cant you tell time",5,11,1,2.114,2.36518448438978,5.221,0
 "3",3,6.282,9.389,"the other way, boys! they're not getting it, miss patty.","the other way boys theyre not getting it miss patty",10,21,1,3.107,3.21853878339234,8.328,0

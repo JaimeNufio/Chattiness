@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.2,3.617,"previously on gilmore girls.","previously on gilmore girls",4,4,1,1.417,2.82286520818631,1.417,0
 "2",2,3.701,5.118,"- she's not here yet.
 - all right."," shes not here yet  all right",7,11,1,1.417,4.94001411432604,2.834,0

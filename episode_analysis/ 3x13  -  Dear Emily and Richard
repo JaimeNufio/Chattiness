@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,63.321,65.793,"mom, i swear, it was aunt maureen.","mom i swear it was aunt maureen",7,7,2,2.47200000000001,2.83171521035598,2.47200000000001,0
 "2",2,65.875,68.476,"aunt maureen would never hike up her skirt in public.","aunt maureen would never hike up her skirt in public",10,17,2,2.601,3.84467512495194,5.07300000000001,0
 "3",3,68.553,70.457,"she would after half a gallon of eggnog.","she would after half a gallon of eggnog",8,25,2,1.904,4.20168067226892,6.977,0

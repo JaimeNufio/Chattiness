@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.493,2.721,"is she still asleep?","is she still asleep",4,4,1,1.228,3.25732899022801,1.228,0
 "2",2,2.722,4.999,"yeah, so let's be super-quiet.","yeah so lets be superquiet",5,9,1,2.277,2.19587176108915,3.505,0
 "3",3,5,6.563,"super-quiet, davey!","superquiet davey",2,11,1,1.563,1.27959053103007,5.068,0

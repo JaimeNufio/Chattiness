@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,64.414,66.496,"morning, al. morning, fred. morning, sam.","morning al morning fred morning sam",6,6,2,2.08199999999999,2.88184438040347,2.08199999999999,0
 "2",2,66.665,69.533,"cider mill's opening saturday. big parade and free cider for one and all.","cider mills opening saturday big parade and free cider for one and all",13,19,2,2.86799999999999,4.53277545327755,4.94999999999999,0
 "3",3,69.585,70.203,"thank you.","thank you",2,21,2,0.617999999999995,3.23624595469258,5.56799999999998,0

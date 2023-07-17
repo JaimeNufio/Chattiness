@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.96,3.711,"previously on gilmore girls...","previously on gilmore girls",4,4,1,1.751,2.28440890919475,1.751,0
 "2",2,3.753,6.13,"i want to know
 why you won't paint this place.","i want to know why you wont paint this place",10,14,1,2.377,4.20698359276399,4.128,0

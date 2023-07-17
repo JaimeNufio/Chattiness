@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,3.418,5.41,"hi. hello. yes,","hi hello yes",3,3,1,1.992,1.50602409638554,1.992,0
 "2",2,5.476,6.936,"i'm here to pick up my daughter.","im here to pick up my daughter",7,10,1,1.46,4.79452054794521,3.452,0
 "3",3,7.05,7.998,"your daughter's name?","your daughters name",3,13,1,0.948,3.16455696202532,4.4,0

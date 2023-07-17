@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,7.112,9.878,"ugh, raisins. what are the pruney red things?","ugh raisins what are the pruney red things",8,8,1,2.766,2.89226319595083,2.766,0
 "2",2,9.911,11.031,"dried cranberries","dried cranberries",2,10,1,1.12,1.78571428571428,3.886,0
 "3",3,11.064,12.447,"gone. what's this?","gone whats this",3,13,1,1.383,2.16919739696313,5.269,0

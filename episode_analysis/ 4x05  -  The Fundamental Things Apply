@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,6.61,7.406,"what are you doing?","what are you doing",4,4,1,0.795999999999999,5.02512562814071,0.795999999999999,0
 "2",2,8.211,9.454,"well, i'm gardening.","well im gardening",3,7,1,1.243,2.41351568785197,2.039,0
 "3",3,9.859,10.828,"what are you doing?","what are you doing",4,11,1,0.968999999999999,4.12796697626419,3.008,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,64.251,65.703,"- are you serious? 
 - i am serious."," are you serious   i am serious",7,7,2,1.452,4.82093663911846,1.452,0
 "2",2,65.764,67.29,"we can really rehearse in your garage?","we can really rehearse in your garage",7,14,2,1.52600000000001,4.58715596330272,2.97800000000001,0

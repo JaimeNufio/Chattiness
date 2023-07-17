@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.658,2.845,"okay, i got a meeting in half an hour,
 so i better run.","okay i got a meeting in half an hour so i better run",13,13,1,2.187,5.94421582075903,2.187,0
 "2",2,2.855,4.106,"okay, well, have a great day.","okay well have a great day",6,19,1,1.251,4.79616306954436,3.438,0

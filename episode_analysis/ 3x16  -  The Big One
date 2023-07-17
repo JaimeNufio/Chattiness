@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,15.26,16.496,"- mail! 
 - mail!"," mail   mail",3,3,1,1.236,2.42718446601942,1.236,0
 "2",2,16.63,17.781,"hurry up! where are your shoes?","hurry up where are your shoes",6,9,1,1.151,5.2128583840139,2.387,0

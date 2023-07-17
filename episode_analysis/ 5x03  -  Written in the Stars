@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,17.212,19.705,"shaken, not stirred, please, jeeves.
 - his name is robert.","shaken not stirred please jeeves  his name is robert",9,9,1,2.493,3.6101083032491,2.493,0
 "2",2,20.584,23.648,"i thought every butler's name was jeeves.

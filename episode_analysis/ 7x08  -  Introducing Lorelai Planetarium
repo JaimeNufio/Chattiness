@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.058,2.571,"it's me, and your father.
 we're home.","its me and your father were home",7,7,1,2.513,2.78551532033426,2.513,0
 "2",2,2.581,4.578,"i don't know if you forgot,

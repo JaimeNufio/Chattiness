@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.215,3.772,"previously on gilmore girls...","previously on gilmore girls",4,4,1,1.557,2.56904303147078,1.557,0
 "2",2,3.849,4.837,"i did what you said.","i did what you said",5,9,1,0.988,5.06072874493927,2.545,0
 "3",3,4.917,7.885,"i had it worked out

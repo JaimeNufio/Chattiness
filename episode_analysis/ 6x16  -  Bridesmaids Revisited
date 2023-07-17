@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.886,3.423,"lane, we're getting backed up here.","lane were getting backed up here",6,6,1,1.537,3.90370852309694,1.537,0
 "2",2,3.424,4.663,"done in a sec.","done in a sec",4,10,1,1.239,3.22841000807102,2.776,0
 "3",3,6.562,7.922,"- hey.

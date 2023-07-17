@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.321,3.075,"hello?
 gilmore residence.","hello gilmore residence",3,3,1,1.754,1.71037628278221,1.754,0
 "2",2,3.084,4.476,"hey, mom, it's me.","hey mom its me",4,7,1,1.392,2.8735632183908,3.146,0

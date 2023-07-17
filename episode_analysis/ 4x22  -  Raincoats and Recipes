@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,7.741,9.655,"oh, hi! great!","oh hi great",3,3,1,1.914,1.56739811912226,1.914,0
 "2",2,9.793,12.767,"i'm still on my finals sleep schedule, and, man, am i wired.","im still on my finals sleep schedule and man am i wired",12,15,1,2.974,4.03496973772697,4.888,0
 "3",3,12.846,15.329,"what time is it? like, 3:00 in the morning? i cannot tell anymore.","what time is it like 300 in the morning i cannot tell anymore",13,28,1,2.483,5.23560209424084,7.371,0

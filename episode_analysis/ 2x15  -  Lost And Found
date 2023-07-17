@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.461,4.129,"previously on gilmore girls:","previously on gilmore girls",4,4,1,1.668,2.39808153477218,1.668,0
 "2",2,4.171,7.549,"- your nephew's coming to visit.
 - no, he's coming to stay."," your nephews coming to visit  no hes coming to stay",11,15,1,3.378,3.25636471284784,5.046,0

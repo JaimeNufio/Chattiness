@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,6.32,9.156,"this, boys and girls, is a story of true love.","this boys and girls is a story of true love",10,10,1,2.836,3.52609308885755,2.836,0
 "2",2,9.239,12.95,"a beautiful girl from one county,
 a handsome boy from another.","a beautiful girl from one county a handsome boy from another",11,21,1,3.711,2.96416060361089,6.547,0

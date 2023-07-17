@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.241,2.122,"previously on
 ""gilmore girls""...","previously on gilmore girls",4,4,1,1.881,2.12652844231792,1.881,0
 "2",2,2.132,3.39,"i'm not going anywhere.","im not going anywhere",4,8,1,1.258,3.17965023847377,3.139,0

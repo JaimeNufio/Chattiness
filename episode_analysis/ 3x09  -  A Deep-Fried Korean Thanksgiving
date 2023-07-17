@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,55.598,56.561,"i like these women.","i like these women",4,4,1,0.963000000000001,4.15368639667705,0.963000000000001,0
 "2",2,56.724,57.624,"i love these women.","i love these women",4,8,1,0.900000000000006,4.44444444444442,1.86300000000001,0
 "3",3,66.735,68.086,"- poor edie. 

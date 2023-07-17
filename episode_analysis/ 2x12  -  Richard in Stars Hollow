@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.377,5.047,"- thanks. is it cold out there!
 - i know, it's freezing."," thanks is it cold out there  i know its freezing",11,11,1,2.67,4.11985018726592,2.67,0
 "2",2,5.13,6.924,"come on in. sit by the fire.","come on in sit by the fire",7,18,1,1.794,3.90189520624303,4.464,0

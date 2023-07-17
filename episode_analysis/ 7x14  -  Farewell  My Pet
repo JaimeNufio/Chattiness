@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.428,1.696,"you're looking good, dad.","youre looking good dad",4,4,1,1.268,3.15457413249211,1.268,0
 "2",2,1.835,4.079,"i'd say you shaved a few
 minutes off your last lap.","id say you shaved a few minutes off your last lap",11,15,1,2.244,4.90196078431373,3.512,0

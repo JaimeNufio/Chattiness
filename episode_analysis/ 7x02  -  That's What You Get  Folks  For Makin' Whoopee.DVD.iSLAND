@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,129.887,130.747,"morning, rory.","morning rory",2,2,3,0.860000000000014,2.3255813953488,0.860000000000014,0
 "2",2,130.759,132.539,"please tell me you haven't
 been standing there all night.","please tell me you havent been standing there all night",10,12,3,1.77999999999997,5.61797752808997,2.63999999999999,0

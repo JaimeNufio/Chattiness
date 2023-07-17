@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,18.663,19.829,"and we're home.","and were home",3,3,1,1.166,2.57289879931389,1.166,0
 "2",2,19.963,22.24,"how long does a freakin' van ride take?","how long does a freakin van ride take",8,11,1,2.277,3.51339481774265,3.443,0
 "3",3,22.301,23.095,"not that long!","not that long",3,14,1,0.794,3.77833753148614,4.237,0

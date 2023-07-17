@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.179,4.056,"hey. you built me a shelf. that's so nice.","hey you built me a shelf thats so nice",9,9,1,2.877,3.12825860271116,2.877,0
 "2",2,4.107,7.246,"it was anything but nice. i kept using your crazy toothpaste.","it was anything but nice i kept using your crazy toothpaste",11,20,1,3.139,3.50430073271743,6.016,0
 "3",3,7.301,8.418,"there's nothing crazy about my toothpaste.","theres nothing crazy about my toothpaste",6,26,1,1.117,5.3715308863026,7.133,0

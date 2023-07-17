@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,5.494,6.408,"hey.","hey",1,1,1,0.914000000000001,1.09409190371991,0.914000000000001,0
 "2",2,6.685,7.449,"what?","what",1,2,1,0.764,1.30890052356021,1.678,0
 "3",3,7.915,10.607,"make an occasional noise so i know

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,29.174,31.051,"you are hilarious!","you are hilarious",3,3,1,1.877,1.59829515183804,1.877,0
 "2",2,34.007,39.167,"okay, see, last night, when i said to you, <91>tomorrow, no matter what, make sure i get up at seven,","okay see last night when i said to you 91tomorrow no matter what make sure i get up at seven",20,23,1,5.16,3.87596899224806,7.037,0
 "3",3,39.244,44.421,"what i actually meant was, <91>tomorrow, no matter what, make sure i have the option of getting up at seven","what i actually meant was 91tomorrow no matter what make sure i have the option of getting up at seven",20,43,1,5.177,3.86324125941665,12.214,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,7.489,8.23,"hi.","hi",1,1,1,0.741000000000001,1.34952766531714,0.741000000000001,0
 "2",2,8.286,10.036,"hey. haven't started yet.","hey havent started yet",4,5,1,1.75,2.28571428571429,2.491,0
 "3",3,10.108,11.275,"oh, good. sorry i'm late.","oh good sorry im late",5,10,1,1.167,4.28449014567267,3.658,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,45.019,45.76,"well.","well",1,1,1,0.741,1.34952766531714,0.741,0
 "2",2,45.856,47.239,"i<92>d say three years.","i92d say three years",4,5,1,1.383,2.89226319595084,2.124,0
 "3",3,47.377,48.642,"i<92>d say more like four.","i92d say more like four",5,10,1,1.265,3.95256916996047,3.389,0

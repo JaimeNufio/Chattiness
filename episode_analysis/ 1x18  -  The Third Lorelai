@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,5.586,7.382,"everyone's awfully quiet tonight.","everyones awfully quiet tonight",4,4,1,1.796,2.2271714922049,1.796,0
 "2",2,7.454,9.717,"- sorry, mom, i'm just tired.
 - me, too."," sorry mom im just tired  me too",8,12,1,2.263,3.53513035793195,4.059,0

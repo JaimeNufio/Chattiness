@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,60.666,62.668,"- it's culs-de-sac. 
 - no way!"," its culsdesac   no way",5,5,2,2.002,2.49750249750249,2.002,0
 "2",2,62.74,63.43,"it is.","it is",2,7,2,0.689999999999998,2.89855072463769,2.692,0

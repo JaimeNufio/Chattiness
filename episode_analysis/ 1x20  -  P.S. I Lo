@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.4,4.193,"previously on gilmore girls...","previously on gilmore girls",4,4,1,1.793,2.23089793641941,1.793,0
 "2",2,4.526,7.445,"i really miss you.","i really miss you",4,8,1,2.919,1.3703323055841,4.712,0
 "3",3,8.572,10.031,"do you want to come in?","do you want to come in",6,14,1,1.459,4.11240575736806,6.171,0

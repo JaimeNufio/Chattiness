@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.944,4.81,"oh! winded-- too many steps.","oh winded too many steps",5,5,1,1.866,2.67952840300107,1.866,0
 "2",2,4.856,6.068,"i said i'd carry them.","i said id carry them",5,10,1,1.212,4.12541254125413,3.078,0
 "3",3,6.129,7.534,"need water. gunga din!","need water gunga din",4,14,1,1.405,2.84697508896797,4.483,0

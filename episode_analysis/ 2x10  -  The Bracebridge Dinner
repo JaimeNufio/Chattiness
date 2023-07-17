@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,8.467,11.637,"- how do you like that mouth?
 - it's not very mouth-like."," how do you like that mouth  its not very mouthlike",11,11,1,3.17,3.47003154574133,3.17,0
 "2",2,11.678,13.931,"- i think it works.

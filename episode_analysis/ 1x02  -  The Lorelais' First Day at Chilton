@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,4.6,6.362,"- that's nice.
 - thank you."," thats nice  thank you",5,5,1,1.762,2.83768444948922,1.762,0
 "2",2,6.801,8.325,"don't move, please.","dont move please",3,8,1,1.524,1.96850393700788,3.286,0

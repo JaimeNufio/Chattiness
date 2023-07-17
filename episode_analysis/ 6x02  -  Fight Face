@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,4.666,5.694,"it's big.","its big",2,2,1,1.028,1.94552529182879,1.028,0
 "2",2,5.776,6.793,"that's what she said.","thats what she said",4,6,1,1.017,3.93313667649951,2.045,0
 "3",3,6.859,8.481,"- good one.

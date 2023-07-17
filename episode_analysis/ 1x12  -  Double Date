@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.08,3.664,"previously on gilmore girls:","previously on gilmore girls",4,4,1,1.584,2.52525252525253,1.584,0
 "2",2,3.747,5.873,"- you're an amazing woman.
 - thanks for noticing."," youre an amazing woman  thanks for noticing",8,12,1,2.126,3.76293508936971,3.71,0

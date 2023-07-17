@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.252,3.754,"previously on gilmore girls:","previously on gilmore girls",4,4,1,1.502,2.66311584553928,1.502,0
 "2",2,3.837,6.465,"- what do you mean you had an accident?
 - jess swerved..."," what do you mean you had an accident  jess swerved",11,15,1,2.628,4.18569254185693,4.13,0

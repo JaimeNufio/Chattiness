@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,5.268,6.218,"okay, let's see.","okay lets see",3,3,1,0.95,3.1578947368421,0.95,0
 "2",2,7.129,9.894,"looks like harvard definitely has the smallest class sizes.","looks like harvard definitely has the smallest class sizes",9,12,1,2.765,3.25497287522604,3.715,0
 "3",3,9.986,11.779,"okay, we've got our first entry here.","okay weve got our first entry here",7,19,1,1.793,3.90407138873397,5.508,0

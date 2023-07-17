@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,18.272,22.053,"so is this more or less fun than watching the same t.v. show at the same time?","so is this more or less fun than watching the same tv show at the same time",17,17,1,3.781,4.49616503570484,3.781,0
 "2",2,22.285,23.843,"i think it's more.","i think its more",4,21,1,1.558,2.56739409499358,5.339,0
 "3",3,24.606,25.999,"you know, if we died right now,","you know if we died right now",7,28,1,1.393,5.02512562814071,6.732,0

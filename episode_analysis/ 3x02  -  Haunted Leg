@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,7.407,9.025,"well, this is nice, isn<92>t it?","well this is nice isn92t it",6,6,1,1.618,3.70828182941904,1.618,0
 "2",2,13.547,17.326,"- so, grandma, grandpa is traveling again, huh? 
 - yes, he is."," so grandma grandpa is traveling again huh   yes he is",11,17,1,3.779,2.91082296903943,5.397,0

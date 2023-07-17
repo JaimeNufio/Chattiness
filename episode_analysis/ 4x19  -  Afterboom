@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,37.372,39.267,"oh, i left a tip this time.","oh i left a tip this time",7,7,1,1.895,3.69393139841688,1.895,0
 "2",2,39.451,41.75,"and i didn't put it under the water glass, 'cause i know you hate that,","and i didnt put it under the water glass cause i know you hate that",15,22,1,2.299,6.52457590256634,4.194,0
 "3",3,41.806,44.177,"and i made sure it didn't touch the syrup, 'cause that makes it sticky,","and i made sure it didnt touch the syrup cause that makes it sticky",14,36,1,2.371,5.90468156895824,6.565,0

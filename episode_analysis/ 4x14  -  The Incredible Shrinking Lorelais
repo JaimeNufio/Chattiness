@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.26,2.569,"- oh, i love them. 
 - ooh, i love them, too."," oh i love them   ooh i love them too",10,10,1,2.309,4.3308791684712,2.309,0
 "2",2,2.646,4.801,"with an unbridled passion. good one, huh?","with an unbridled passion good one huh",7,17,1,2.155,3.24825986078886,4.464,0

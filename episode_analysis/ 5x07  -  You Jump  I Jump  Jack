@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,65.685,67.675,"- oh, i'm late.
 - i know."," oh im late  i know",6,6,2,1.98999999999999,3.01507537688443,1.98999999999999,0
 "2",2,67.742,69.768,"blame the insane people driving in front of me.","blame the insane people driving in front of me",9,15,2,2.026,4.44225074037513,4.01599999999999,0

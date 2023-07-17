@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,6.635,7.718,"hey, you're up.","hey youre up",3,3,1,1.083,2.77008310249307,1.083,0
 "2",2,7.827,9.034,"hey, you're cooking.","hey youre cooking",3,6,1,1.207,2.48550124275062,2.29,0
 "3",3,9.09,12.413,"yep, making the works. even threw a couple blintzes in there to confuse you.","yep making the works even threw a couple blintzes in there to confuse you",14,20,1,3.323,4.21306048751128,5.613,0

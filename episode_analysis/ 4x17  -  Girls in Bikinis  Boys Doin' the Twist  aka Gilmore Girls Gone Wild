@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,5.104,5.996,"this is humiliating.","this is humiliating",3,3,1,0.892,3.36322869955157,0.892,0
 "2",2,6.093,8.114,"oh, no, we passed humiliating two minutes ago.","oh no we passed humiliating two minutes ago",8,11,1,2.021,3.95843641761504,2.913,0
 "3",3,8.54,11.151,"luke's gonna be completely out of doughnuts by the time we get there.","lukes gonna be completely out of doughnuts by the time we get there",13,24,1,2.611,4.97893527384144,5.524,0

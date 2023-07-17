@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,4.341,6.593,"is there something long and sharp
 sticking out of my head?","is there something long and sharp sticking out of my head",11,11,1,2.252,4.88454706927176,2.252,0
 "2",2,6.594,7.299,"no.","no",1,12,1,0.705,1.41843971631206,2.957,0

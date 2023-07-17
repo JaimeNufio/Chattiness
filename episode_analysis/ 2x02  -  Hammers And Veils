@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.503,4.505,"- rory?
 - living room."," rory  living room",4,4,1,2.002,1.998001998002,2.002,0
 "2",2,4.671,6.673,"i need your advice on something.","i need your advice on something",6,10,1,2.002,2.997002997003,4.004,0

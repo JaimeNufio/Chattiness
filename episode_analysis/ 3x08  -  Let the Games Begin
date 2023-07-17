@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,9.442,11.266,"mmkay, still walking, all<92>s good.","mmkay still walking all92s good",5,5,1,1.824,2.74122807017544,1.824,0
 "2",2,16.408,17.197,"mmkay.","mmkay",1,6,1,0.788999999999998,1.26742712294043,2.613,0
 "3",3,17.559,19.259,"- how are you? 

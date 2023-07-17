@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,11.4,12.772,"your impatience is very distracting.","your impatience is very distracting",5,5,1,1.372,3.64431486880467,1.372,0
 "2",2,12.854,13.83,"i said nothing.","i said nothing",3,8,1,0.976000000000001,3.07377049180328,2.348,0
 "3",3,13.892,14.692,"i'm getting a vibe.","im getting a vibe",4,12,1,0.800000000000001,5,3.148,0

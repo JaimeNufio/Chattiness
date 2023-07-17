@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,12.131,12.879,"hey.","hey",1,1,1,0.747999999999999,1.33689839572193,0.747999999999999,0
 "2",2,13.063,13.805,"hey.","hey",1,2,1,0.741999999999999,1.34770889487871,1.49,0
 "3",3,14.348,16.094,"did i wake you?

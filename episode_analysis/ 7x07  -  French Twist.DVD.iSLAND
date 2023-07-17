@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.007,2.585,"okay, sweetie, what do we say to
 mommy when we see her at the airport?","okay sweetie what do we say to mommy when we see her at the airport",15,15,1,2.578,5.81846392552366,2.578,0
 "2",2,2.618,3.474,"bonjour!","bonjour",1,16,1,0.856,1.16822429906542,3.434,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.943,2.871,"are you sure we got
 enough plain onesies?","are you sure we got enough plain onesies",8,8,1,1.928,4.149377593361,1.928,0
 "2",2,2.901,6.836,"let me see. 40 people have

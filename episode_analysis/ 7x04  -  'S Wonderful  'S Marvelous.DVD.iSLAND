@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.758,3.391,"let me bottom-line it for you.","let me bottomline it for you",6,6,1,1.633,3.67421922841396,1.633,0
 "2",2,3.406,5.646,"snakes are gross.
 snakes are scary and slithery,","snakes are gross snakes are scary and slithery",8,14,1,2.24,3.57142857142857,3.873,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.96,3.295,"previously on gilmore girls:","previously on gilmore girls",4,4,1,1.335,2.99625468164794,1.335,0
 "2",2,3.337,5.506,"the person who buys the basket
 wins the company...","the person who buys the basket wins the company",9,13,1,2.169,4.149377593361,3.504,0

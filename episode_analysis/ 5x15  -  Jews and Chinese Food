@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.639,2.988,"oh, sure. thanks.","oh sure thanks",3,3,1,1.349,2.2238695329874,1.349,0
 "2",2,14.82,15.584,"come in.","come in",2,5,1,0.763999999999999,2.61780104712042,2.113,0
 "3",3,17.387,19.467,"hi! hello. i'm sorry, do i have the wrong room?","hi hello im sorry do i have the wrong room",10,15,1,2.08,4.80769230769231,4.193,0

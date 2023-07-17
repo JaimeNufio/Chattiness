@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.765,3.338,"- get the wrapper. 
 - what wrapper?"," get the wrapper   what wrapper",6,6,1,1.573,3.81436745073109,1.573,0
 "2",2,3.568,5.883,"- the tootsie roll wrapper. 

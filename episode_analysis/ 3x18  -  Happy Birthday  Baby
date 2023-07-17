@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,6.608,8.593,"richard, please, we are starving!","richard please we are starving",5,5,1,1.985,2.51889168765743,1.985,0
 "2",2,8.817,10.477,"i will be right there, emily.","i will be right there emily",6,11,1,1.66,3.6144578313253,3.645,0
 "3",3,10.646,12.331,"- this is ridiculous. 

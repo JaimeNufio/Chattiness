@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.705,4.769,"this feels so decadent. isn't this decadent?","this feels so decadent isnt this decadent",7,7,1,2.064,3.39147286821705,2.064,0
 "2",2,4.929,5.701,"very decadent.","very decadent",2,9,1,0.771999999999999,2.59067357512954,2.836,0
 "3",3,5.726,6.934,"are there more marshmallows?","are there more marshmallows",4,13,1,1.208,3.31125827814569,4.044,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,5.151,7.285,"hey, you know what's great about you going off to college?","hey you know whats great about you going off to college",11,11,1,2.134,5.15463917525773,2.134,0
 "2",2,7.368,8.515,"my newfound independence?","my newfound independence",3,14,1,1.147,2.615518744551,3.281,0
 "3",3,8.672,11.869,"oh, no. my new batch of youth-oriented catalogs.","oh no my new batch of youthoriented catalogs",8,22,1,3.197,2.5023459493275,6.478,0

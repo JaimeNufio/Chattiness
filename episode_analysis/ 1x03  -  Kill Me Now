@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.211,3.67,"previously on gilmore girls. ","previously on gilmore girls ",4,4,1,1.459,2.74160383824537,1.459,0
 "2",2,3.754,5.923,"independence inn. michel speaking.","independence inn michel speaking",4,8,1,2.169,1.84416781927155,3.628,0
 "3",3,6.006,7.216,"i fixed the peach sauce.","i fixed the peach sauce",5,13,1,1.21,4.13223140495868,4.838,0

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.033,1.401,"previously on
 ""gilmore girls""...","previously on gilmore girls",4,4,1,1.368,2.92397660818713,1.368,0
 "2",2,1.411,2.603,"you are leaving for london.","you are leaving for london",5,9,1,1.192,4.19463087248322,2.56,0

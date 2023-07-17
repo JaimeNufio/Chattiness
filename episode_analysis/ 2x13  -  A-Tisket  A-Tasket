@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.252,3.962,"previously on gilmore girls:","previously on gilmore girls",4,4,1,1.71,2.33918128654971,1.71,0
 "2",2,4.004,5.214,"luke is a great guy.","luke is a great guy",5,9,1,1.21,4.13223140495867,2.92,0
 "3",3,5.297,6.381,"he's very special.","hes very special",3,12,1,1.084,2.76752767527675,4.004,0

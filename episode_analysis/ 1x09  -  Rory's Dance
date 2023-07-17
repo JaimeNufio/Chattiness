@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,3.295,5.756,"your grandfather called
 and told me to tell you...","your grandfather called and told me to tell you",9,9,1,2.461,3.65704997968306,2.461,0
 "2",2,5.839,8.634,"he's bringing you back

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,10.341,12.734,"hi... let's get us a little breakfast.","hi lets get us a little breakfast",7,7,1,2.393,2.9251984956122,2.393,0
 "2",2,13.442,15.104,"come on. come, paul anka.","come on come paul anka",5,12,1,1.662,3.00842358604092,4.055,0
 "3",3,31.464,35.701,"breakfast! get it while it's room-temperature

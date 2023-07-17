@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,0.864,5.512,"okay. toothbrush, hairbrush,
 hypoallergenic pillow,","okay toothbrush hairbrush hypoallergenic pillow",5,5,1,4.648,1.07573149741824,4.648,0
 "2",2,5.524,8.082,"chenille blanket --

@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,1.915,5.296,"- this is sublime. 
 - it was the golden age of television."," this is sublime   it was the golden age of television",11,11,1,3.381,3.25347530316474,3.381,0
 "2",2,5.367,7.434,"the music, the costumes, the sets.","the music the costumes the sets",6,17,1,2.067,2.90275761973875,5.448,0

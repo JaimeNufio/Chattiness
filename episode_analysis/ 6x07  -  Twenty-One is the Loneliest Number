@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.711,3.896,"what about rory?","what about rory",3,3,1,1.185,2.53164556962025,1.185,0
 "2",2,4.88,6.857,"i don't like what i see in that girl.","i dont like what i see in that girl",9,12,1,1.977,4.55235204855842,3.162,0
 "3",3,6.898,7.678,"my eyes?","my eyes",2,14,1,0.78,2.56410256410256,3.942,0

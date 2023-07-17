@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,57.013,58.031,"get away from me, christopher.","get away from me christopher",5,5,1,1.018,4.91159135559921,1.018,0
 "2",2,58.083,60.606,"- i just want to talk.
 - get some coffee, christopher!"," i just want to talk  get some coffee christopher",10,15,2,2.523,3.96353547364248,3.541,0

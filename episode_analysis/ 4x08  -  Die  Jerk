@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,66.082,69.254,"- more broccoli, grandpa?
 - absolutely. staves off the cancer."," more broccoli grandpa  absolutely staves off the cancer",9,9,2,3.17200000000001,2.8373266078184,3.17200000000001,0
 "2",2,69.331,72.366,"- staves off my appetite.

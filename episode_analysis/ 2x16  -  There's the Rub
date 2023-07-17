@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,4.379,5.797,"here you go.","here you go",3,3,1,1.418,2.11565585331453,1.418,0
 "2",2,7.758,9.927,"jeez! sorry, folks.","jeez sorry folks",3,6,1,2.169,1.38312586445367,3.587,0
 "3",3,10.511,11.595,"here.","here",1,7,1,1.084,0.92250922509225,4.671,0

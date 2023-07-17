@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,31.297,31.934,"hello?","hello",1,1,1,0.637,1.56985871271585,0.637,0
 "2",2,32.128,33.424,"- they know. 
 - who knows?"," they know   who knows",5,6,1,1.296,3.85802469135803,1.933,0

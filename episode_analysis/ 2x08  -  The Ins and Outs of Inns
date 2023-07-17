@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.794,4.379,"- how's the meal?
 - tasty."," hows the meal  tasty",5,5,1,1.585,3.15457413249211,1.585,0
 "2",2,4.463,5.714,"very tasty. new cook?","very tasty new cook",4,9,1,1.251,3.19744204636291,2.836,0

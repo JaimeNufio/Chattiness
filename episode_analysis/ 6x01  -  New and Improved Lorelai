@@ -1,4 +1,4 @@
-"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","duration","subtitleWPM","cumTimeSpeaking","rollingWPM"
 "1",1,2.409,3.401,"what?","what",1,1,1,0.992,1.00806451612903,0.992,0
 "2",2,4.236,7.09,"- luke. will you -
 - yes."," luke will you   yes",5,6,1,2.854,1.75192711983181,3.846,0
