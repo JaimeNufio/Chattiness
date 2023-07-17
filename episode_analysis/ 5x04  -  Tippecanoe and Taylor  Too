@@ -1,0 +1,956 @@
+"","n","start","end","subtitle","cleanWords","wordCount","cumWordCount","minute","subtitleLength","subtitleWPM","cumTimeSpeaking","rollingWPM"
+"1",1,6.635,7.718,"hey, you're up.","hey youre up",3,3,1,1.083,2.77008310249307,1.083,0
+"2",2,7.827,9.034,"hey, you're cooking.","hey youre cooking",3,6,1,1.207,2.48550124275062,2.29,0
+"3",3,9.09,12.413,"yep, making the works. even threw a couple blintzes in there to confuse you.","yep making the works even threw a couple blintzes in there to confuse you",14,20,1,3.323,4.21306048751128,5.613,0
+"4",4,12.467,14.242,"wow. where did all this come from?","wow where did all this come from",7,27,1,1.775,3.94366197183099,7.388,0
+"5",5,14.283,14.98,"what?","what",1,28,1,0.697000000000001,1.43472022955523,8.085,1.81442978710383
+"6",6,15.021,18.01,"the food, the pans, the bowls, the spatula.","the food the pans the bowls the spatula",8,36,1,2.989,2.67648042823687,11.074,2.02524355785793
+"7",7,18.052,21.154,"food's from doose's, pans and bowls, you had, and the spatula's mine.","foods from dooses pans and bowls you had and the spatulas mine",12,48,1,3.102,3.86847195357834,14.176,2.19205903130914
+"8",8,21.23,23.51,"- you travel with a spatula?
+- sometimes."," you travel with a spatula  sometimes",7,55,1,2.28,3.07017543859649,16.456,2.25640820115378
+"9",9,23.607,27.84,"you've actually found yourself in scraping and flipping situations without the trusty spatula before?","youve actually found yourself in scraping and flipping situations without the trusty spatula before",14,69,1,4.233,3.30734703519962,20.689,2.28428242059115
+"10",10,27.881,29.284,"your coffee should be ready in a minute.","your coffee should be ready in a minute",8,77,1,1.403,5.70206699928725,22.092,2.33154228048008
+"11",11,30.319,31.64,"smells good.","smells good",2,79,1,1.321,1.51400454201362,23.413,2.36343463741633
+"12",12,33.816,35.587,"- hey, luke?
+- yep?"," hey luke  yep",4,83,1,1.771,2.25861095426313,25.184,2.36931301203741
+"13",13,36.374,39.473,"you cooking this is so sweet...","you cooking this is so sweet",6,89,1,3.099,1.93610842207164,28.283,2.37465005141041
+"14",14,40.431,41.388,"but?","but",1,90,1,0.957000000000001,1.04493207941484,29.24,2.38466376999316
+"15",15,41.465,43.13,"i just figured, you know, we'd go to luke's for breakfast.","i just figured you know wed go to lukes for breakfast",11,101,1,1.665,6.60660660660661,30.905,2.38387117592602
+"16",16,43.161,44.007,"why?","why",1,102,1,0.845999999999997,1.18203309692672,31.751,2.40687609739656
+"17",17,44.074,45.965,"because i like luke's breakfast.","because i like lukes breakfast",5,107,1,1.89100000000001,2.64410364886303,33.642,2.44565794833422
+"18",18,46.037,47.225,"- i am luke.
+- i know."," i am luke  i know",6,113,1,1.188,5.05050505050504,34.83,2.50625768011511
+"19",19,47.292,48.864,"- this is the same stuff i make at the diner.
+- i know."," this is the same stuff i make at the diner  i know",13,126,1,1.572,8.26972010178119,36.402,2.57096293895155
+"20",20,48.909,49.59,"so what's the difference?","so whats the difference",4,130,1,0.681000000000004,5.87371512481641,37.083,2.62252869040256
+"21",21,49.642,52.074,"well, the difference is, while you are luke, we're not at luke's.","well the difference is while you are luke were not at lukes",12,142,1,2.432,4.9342105263158,39.515,2.6801517947612
+"22",22,52.11,52.571,"so?","so",1,143,1,0.460999999999999,2.16919739696313,39.976,2.73854004010139
+"23",23,52.606,56.979,"well, i have my things, you know? i have certain things. and one of my things is going to luke's.","well i have my things you know i have certain things and one of my things is going to lukes",20,163,1,4.373,4.57351932311914,44.349,2.78941363410139
+"24",24,57.035,60.604,"and just because i now have ""dating luke""","and just because i now have dating luke",8,171,2,3.569,2.24152423648081,47.918,2.82969414553567
+"25",25,60.716,62.994,"doesn't mean i want to lose my ""cooking luke. ""","doesnt mean i want to lose my cooking luke ",9,180,2,2.278,3.95083406496927,50.196,2.8767424859542
+"26",26,63.051,64.961,"but i am cooking, and i am luke.","but i am cooking and i am luke",8,188,2,1.91,4.18848167539268,52.106,2.91576370353773
+"27",27,65.037,68.344,"look, it's like tommy lee having a starbucks at his house.","look its like tommy lee having a starbucks at his house",11,199,2,3.30699999999999,3.32627759298459,55.413,2.95572689596401
+"28",28,68.397,68.929,"what?","what",1,200,2,0.531999999999996,1.87969924812031,55.945,2.98358890555245
+"29",29,68.986,72.114,"on the surface, it sounds great. but half the reason you go to a starbucks","on the surface it sounds great but half the reason you go to a starbucks",15,215,2,3.128,4.79539641943734,59.073,3.01231997828666
+"30",30,72.155,74.386,"is to go to a starbucks, you know, to go out and see the people.","is to go to a starbucks you know to go out and see the people",15,230,2,2.23099999999999,6.7234424025101,61.304,3.03704071003861
+"31",31,74.428,76.353,"tommy lee has a starbucks in his house?","tommy lee has a starbucks in his house",8,238,2,1.92500000000001,4.15584415584413,63.229,3.05908163101084
+"32",32,76.405,77.57,"""cribs,"" baby. watch it.","cribs baby watch it",4,242,2,1.16499999999999,3.43347639484981,64.394,3.08086698588849
+"33",33,77.613,79.635,"like a whole starbucks with workers and everything?","like a whole starbucks with workers and everything",8,250,2,2.02200000000001,3.95647873392679,66.416,3.09961903471715
+"34",34,79.692,84.274,"the point is that, while some things have changed - and that's great -","the point is that while some things have changed  and thats great ",12,262,2,4.58199999999999,2.61894369271061,70.998,3.11090362259071
+"35",35,84.334,86.645,"i don't want everything to change completely.","i dont want everything to change completely",7,269,2,2.31099999999999,3.0289917784509,73.309,3.1126092646442
+"36",36,86.711,88.298,"okay. i'll see you at luke's.","okay ill see you at lukes",6,275,2,1.587,3.78071833648392,74.896,3.11559668208723
+"37",37,88.375,89.788,"ah, i'll see you at luke's!","ah ill see you at lukes",6,281,2,1.413,4.24628450106158,76.309,3.11944867968972
+"38",38,90.622,91.29,"hello?","hello",1,282,2,0.667999999999992,1.49700598802397,76.977,3.12360507380987
+"39",39,91.345,94.369,"""cultural disenfranchisement with women's role models"" - do you have it?","cultural disenfranchisement with womens role models  do you have it",10,292,2,3.024,3.30687830687831,80.001,3.13183953778054
+"40",40,94.421,95.528,"oh, god, i hope not.","oh god i hope not",5,297,2,1.107,4.51671183378501,81.108,3.14342629617268
+"41",41,95.583,97.554,"it's the book for the class i'm officially late to.","its the book for the class im officially late to",10,307,2,1.971,5.07356671740232,83.079,3.15407513397662
+"42",42,97.916,100.371,"- what are you looking for?
+- a big, boring book."," what are you looking for  a big boring book",10,317,2,2.45500000000001,4.07331975560079,85.534,3.1624992330557
+"43",43,100.432,101.544,"- who is that?
+- it's luke?"," who is that  its luke",6,323,2,1.11199999999999,5.39568345323744,86.646,3.17695725505582
+"44",44,101.6,102.781,"- who's that?
+- it's rory."," whos that  its rory",5,328,2,1.18100000000001,4.23370025402197,87.827,3.19154528471046
+"45",45,102.833,105.574,"luke. it's pretty early in the morning for luke to be there.","luke its pretty early in the morning for luke to be there",12,340,2,2.741,4.37796424662532,90.568,3.2054003185674
+"46",46,105.635,107.422,"unless, perhaps, he woke up there.","unless perhaps he woke up there",6,346,2,1.78700000000001,3.35758254057078,92.355,3.21924811620419
+"47",47,107.483,108.593,"well, he did.","well he did",3,349,2,1.11,2.7027027027027,93.465,3.23658123636066
+"48",48,108.645,110.402,"""he did"" what? are you talking about me?","he did what are you talking about me",8,357,2,1.75699999999999,4.55321570859422,95.222,3.25285940780437
+"49",49,110.463,112.033,"- man, that's weird.
+- what's weird?"," man thats weird  whats weird",6,363,2,1.57000000000001,3.8216560509554,96.792,3.26913850880175
+"50",50,112.086,113.007,"who's weird? i'm weird?","whos weird im weird",4,367,2,0.921000000000006,4.34310532030399,97.713,3.28401566717184
+"51",51,113.058,115.357,"the thought of luke running around naked in my kitchen. it's weird.","the thought of luke running around naked in my kitchen its weird",12,379,2,2.29900000000001,5.21966072205305,100.012,3.29658260361711
+"52",52,115.413,118.261,"luke is not running around naked in your kitchen. he is sitting at the table,","luke is not running around naked in your kitchen he is sitting at the table",15,394,2,2.848,5.26685393258427,102.86,3.30942572361496
+"53",53,118.347,119.33,"and, yes, he is naked.","and yes he is naked",5,399,2,0.98299999999999,5.08646998982711,103.843,3.31963696355191
+"54",54,119.397,123.135,"don't do that. don't tell her i'm naked. i'm not naked. i'm not naked!","dont do that dont tell her im naked im not naked im not naked",14,413,3,3.73800000000001,3.74531835205991,107.581,3.32902428019858
+"55",55,123.211,125.25,"- he sounds naked.
+- well, the chairs are cold."," he sounds naked  well the chairs are cold",9,422,3,2.039,4.41392839627268,109.62,3.33913943714199
+"56",56,125.45,128.787,"- he actually tried to make me breakfast.
+- really?"," he actually tried to make me breakfast  really",9,431,3,3.337,2.69703326341025,112.957,3.34948264013307
+"57",57,128.854,131.348,"- yeah, naked.
+- okay, that's it, i'm gone."," yeah naked  okay thats it im gone",8,439,3,2.49400000000003,3.20769847634319,115.451,3.35726085869044
+"58",58,131.413,135.202,"oh, no, no, no. sorry, don't, no. rory, luke is fully dressed.","oh no no no sorry dont no rory luke is fully dressed",12,451,3,3.78899999999999,3.16706254948536,119.24,3.26718166738516
+"59",59,135.284,137.073,"he never came in the house.","he never came in the house",6,457,3,1.78900000000002,3.35382895472328,121.029,3.17992832738773
+"60",60,137.138,140.65,"he just stood outside all night playing ""in your eyes"" on a boom box.","he just stood outside all night playing in your eyes on a boom box",14,471,3,3.512,3.98633257403189,124.541,3.09277338163555
+"61",61,140.723,143.41,"i have to go. if you find the book, bring it to friday-night dinner, okay?","i have to go if you find the book bring it to fridaynight dinner okay",15,486,3,2.68699999999998,5.5824339411984,127.228,3.00824157069496
+"62",62,143.461,145.187,"- you got it.
+- go back to your dirtiness."," you got it  go back to your dirtiness",9,495,3,1.726,5.2143684820394,128.954,2.9248056755643
+"63",63,202.992,203.858,"thanks a lot.","thanks a lot",3,498,4,0.866000000000014,3.4642032332563,129.82,2.84397960306993
+"64",64,204.099,207.938,"i photographed it before you moved it, so if there's any damage, you'll be hearing from my lawyer.","i photographed it before you moved it so if theres any damage youll be hearing from my lawyer",18,516,4,3.839,4.68872102109925,133.659,2.76523718870743
+"65",65,208.01,209.792,"- hi.
+- hi. introduce me to your friend."," hi  hi introduce me to your friend",8,524,4,1.78200000000001,4.48933782267113,135.441,2.68885076531928
+"66",66,209.859,212.69,"this is a blou printing press, 18th century.","this is a blou printing press 18th century",8,532,4,2.83099999999999,2.82585658777818,138.272,2.60968522599376
+"67",67,212.746,213.724,"and it's here because?","and its here because",4,536,4,0.97799999999998,4.08997955010233,139.25,2.5302343290699
+"68",68,213.775,216.816,"it's asher's. he left it to me. it's beautiful, don't you think?","its ashers he left it to me its beautiful dont you think",12,548,4,3.041,3.9460703715883,142.291,2.54963333845461
+"69",69,216.887,219.904,"yeah. think it goes great with the entire width of the room.","yeah think it goes great with the entire width of the room",12,560,4,3.017,3.97746105402718,145.308,2.56780562092105
+"70",70,219.97,222.448,"i know it's a little cumbersome, but we don't have to leave it right here.","i know its a little cumbersome but we dont have to leave it right here",15,575,4,2.47800000000001,6.05326876513315,147.786,2.58403341225141
+"71",71,222.515,225.24,"we could move it about six inches in any direction.","we could move it about six inches in any direction",10,585,4,2.72500000000002,3.66972477064217,150.511,2.60120286400907
+"72",72,225.306,226.396,"paris, we can't just leave it here.","paris we cant just leave it here",7,592,4,1.09000000000003,6.42201834862367,151.601,2.61877128204529
+"73",73,226.457,227.922,"- i have nowhere else to put it.
+- but..."," i have nowhere else to put it  but",9,601,4,1.465,6.1433447098976,153.066,2.63686350569657
+"74",74,227.994,229.796,"you have to think of the benefits of having it here.","you have to think of the benefits of having it here",11,612,4,1.80199999999999,6.1043285238624,154.868,2.6537374857852
+"75",75,229.857,230.452,"like?","like",1,613,4,0.594999999999999,1.68067226890757,155.463,2.66871499516668
+"76",76,230.523,234.569,"no one else will have one, which means it's unique, which makes us unique.","no one else will have one which means its unique which makes us unique",14,627,4,4.04600000000002,3.46020761245673,159.509,2.68302487621608
+"77",77,234.63,238.859,"kids our age do crazy things to make themselves unique - piercings, blue hair, kabbalah.","kids our age do crazy things to make themselves unique  piercings blue hair kabbalah",14,641,4,4.22900000000001,3.31047528966658,163.738,2.69985009545633
+"78",78,238.909,241.47,"it will be a great conversation piece. we'll be the talk of branford.","it will be a great conversation piece well be the talk of branford",13,654,5,2.56100000000001,5.07614213197968,166.299,2.71426847252579
+"79",79,241.536,242.33,"i believe we will.","i believe we will",4,658,5,0.794000000000011,5.03778337531479,167.093,2.72821106142761
+"80",80,242.386,243.907,"we can print our own newsletter, if you'd like.","we can print our own newsletter if youd like",9,667,5,1.52100000000002,5.91715976331355,168.614,2.74198700990677
+"81",81,243.969,245.591,"""the eccentric gazette"". i love it.","the eccentric gazette i love it",6,673,5,1.62200000000001,3.69913686806409,170.236,2.7557484560322
+"82",82,245.69,249.718,"it's from asher. just try it for a while. i promise if it gets in the way, we'll get rid of it.","its from asher just try it for a while i promise if it gets in the way well get rid of it",22,695,5,4.02799999999999,5.46176762661372,174.264,2.77171954285101
+"83",83,249.887,252.063,"paris, it's on my book bag.","paris its on my book bag",6,701,5,2.17599999999999,2.75735294117649,176.44,2.78651399298329
+"84",84,252.539,255.115,"i'm late for class, and you put a printing press on my book bag?","im late for class and you put a printing press on my book bag",14,715,5,2.57600000000002,5.43478260869561,179.016,2.79998207659378
+"85",85,255.172,258.422,"well, sorry. it's from my dead boyfriend, okay?","well sorry its from my dead boyfriend okay",8,723,5,3.25000000000003,2.46153846153844,182.266,2.81354421936821
+"86",86,258.484,262.933,"i apologize if my grief is inconveniencing you. maybe i'll just put myself on an iceberg","i apologize if my grief is inconveniencing you maybe ill just put myself on an iceberg",16,739,5,4.44900000000001,3.59631377837715,186.715,2.82540208094959
+"87",87,262.999,265.888,"and float myself out to sea so that no one will have to deal with my suffering.","and float myself out to sea so that no one will have to deal with my suffering",17,756,5,2.88899999999995,5.88438906195925,189.604,2.83257444480452
+"88",88,265.953,268.524,"well, just get that thing off my bag before you go.","well just get that thing off my bag before you go",11,767,5,2.57100000000003,4.27849085958766,192.175,2.84085028614529
+"89",89,268.658,272.282,"this is outrageous, and he will call me back","this is outrageous and he will call me back",9,776,5,3.62399999999997,2.48344370860929,195.799,2.84858818347593
+"90",90,272.365,276.629,"and it had better be in a timely manner, or i will come down there and introduce myself,","and it had better be in a timely manner or i will come down there and introduce myself",18,794,5,4.26400000000001,4.22138836772982,200.063,2.85806645190811
+"91",91,276.691,280.177,"and, oh, the fun we'll have. tst!","and oh the fun well have tst",7,801,5,3.48599999999999,2.00803212851406,203.549,2.86616881439141
+"92",92,280.791,281.975,"i hate this chair!","i hate this chair",4,805,5,1.18400000000003,3.3783783783783,204.733,2.87215371123358
+"93",93,282.092,284.586,"what's the matter honey - justin and cameron having trouble again?","whats the matter honey  justin and cameron having trouble again",10,815,5,2.49400000000003,4.00962309542898,207.227,2.87825955948548
+"94",94,284.673,288.538,"i just got off the phone with the very promising young man working as taylor's assistant","i just got off the phone with the very promising young man working as taylors assistant",16,831,5,3.86500000000001,4.13971539456661,211.092,2.88486070435256
+"95",95,288.611,290.403,"to try and talk to the man about this.","to try and talk to the man about this",9,840,5,1.79200000000003,5.02232142857134,212.884,2.89075826640755
+"96",96,290.485,292.569,"no, no. he rejected it again?","no no he rejected it again",6,846,5,2.084,2.87907869481765,214.968,2.89813232418342
+"97",97,292.66,294.852,"i believe that is what the bright red letters say.","i believe that is what the bright red letters say",10,856,5,2.19200000000001,4.56204379562042,217.16,2.90679442988292
+"98",98,294.923,297.181,"we only need two lousy parking spaces. what is his problem?","we only need two lousy parking spaces what is his problem",11,867,5,2.25799999999998,4.87156775907887,219.418,2.91488621027568
+"99",99,297.274,299.04,"oh, the list is long.","oh the list is long",5,872,5,1.76600000000002,2.83125707814266,221.184,2.92043559990434
+"100",100,299.107,300.76,"- this is the third time, michel.
+- i know."," this is the third time michel  i know",9,881,6,1.65300000000002,5.44464609800356,222.837,2.92475475051066
+"101",101,300.853,304.503,"this is the third time that ""bus-and-truck-tour mussolini"" has rejected our permit.","this is the third time that busandtrucktour mussolini has rejected our permit",12,893,6,3.64999999999998,3.28767123287673,226.487,2.93043451193386
+"102",102,304.569,305.968,"and i was there for every show.","and i was there for every show",7,900,6,1.399,5.00357398141529,227.886,2.93584653659563
+"103",103,306.054,307.329,"what is rejection code ""m""?","what is rejection code m",5,905,6,1.27500000000003,3.92156862745088,229.161,2.94193837202087
+"104",104,308.461,312.039,"""applicant's name does not match name listed on articles of incorporation. ""","applicants name does not match name listed on articles of incorporation ",11,916,6,3.57799999999997,3.07434320849639,232.739,2.9503965027622
+"105",105,312.1,313.381,"ohh! is he serious?!","ohh is he serious",4,920,6,1.28099999999995,3.1225604996098,234.02,2.9586877505574
+"106",106,313.458,315.762,"apparently you did not put your middle name on this application.","apparently you did not put your middle name on this application",11,931,6,2.30399999999997,4.77430555555561,236.324,2.96645396591766
+"107",107,315.844,318.875,"however, you did put your middle name on the articles of incorporation.","however you did put your middle name on the articles of incorporation",12,943,6,3.03100000000001,3.95908940943582,239.355,2.97089461978823
+"108",108,318.957,320.985,"so the names don't match, and taylor has no idea who you are.","so the names dont match and taylor has no idea who you are",13,956,6,2.02800000000002,6.41025641025635,241.383,2.9754617672379
+"109",109,321.092,324.604,"oh, i'm the person whose foot is going to prevent him from sitting down. that's who i am.","oh im the person whose foot is going to prevent him from sitting down thats who i am",18,974,6,3.512,5.125284738041,244.895,2.9807434708012
+"110",110,324.67,328.004,"you always promise to hurt him, but then you don't. you're a taylor tease.","you always promise to hurt him but then you dont youre a taylor tease",14,988,6,3.334,4.1991601679664,248.229,2.98707833082113
+"111",111,328.288,329.202,"i'm getting coffee.","im getting coffee",3,991,6,0.913999999999987,3.28227571115978,249.143,2.99179445023985
+"112",112,331.629,332.899,"ah, perfect timing!","ah perfect timing",3,994,6,1.26999999999998,2.36220472440948,250.413,2.99397730002459
+"113",113,332.965,334.738,"oh, sookie, i really need some coffee.","oh sookie i really need some coffee",7,1001,6,1.77299999999997,3.94811054709539,252.186,2.99388469127
+"114",114,334.891,335.637,"first this.","first this",2,1003,6,0.745999999999981,2.68096514745315,252.932,2.99120906903801
+"115",115,335.699,338.438,"but it's right over there, and - okay, what am i looking at?","but its right over there and  okay what am i looking at",12,1015,6,2.73899999999998,4.38116100766707,255.671,2.98714938619247
+"116",116,338.638,340.835,"- jackson's tomatoes.
+- here we go."," jacksons tomatoes  here we go",6,1021,6,2.197,2.73099681383705,257.868,2.98299009810429
+"117",117,344.941,346.749,"- where are you going?
+- i was just gonna get a little..."," where are you going  i was just gonna get a little",12,1033,6,1.80799999999999,6.63716814159295,259.676,2.98203095806036
+"118",118,346.8,347.618,"eat this.","eat this",2,1035,6,0.817999999999984,2.44498777506117,260.494,2.98042301425608
+"119",119,348.991,350.727,"isn't that the greatest tomato you've ever eaten?","isnt that the greatest tomato youve ever eaten",8,1043,6,1.73599999999999,4.6082949308756,262.23,2.97952093948347
+"120",120,350.787,352.34,"- it's good.
+- good?"," its good  good",4,1047,6,1.55300000000005,2.57566001287821,263.783,2.97859646481005
+"121",121,352.396,354.025,"- it's great.
+- great?"," its great  great",4,1051,6,1.62899999999996,2.45549416820141,265.412,2.97852594682172
+"122",122,354.235,355.811,"all i wanted was a cup of coffee.","all i wanted was a cup of coffee",8,1059,6,1.57599999999996,5.07614213197981,266.988,2.98010793212951
+"123",123,356.035,359.41,"oh, thank you. sorry, jackson. this is one rocking tomato.","oh thank you sorry jackson this is one rocking tomato",10,1069,6,3.375,2.96296296296296,270.363,2.98084823484675
+"124",124,359.482,362.498,"this is the first batch grown in my brand-new hydroponic greenhouse.","this is the first batch grown in my brandnew hydroponic greenhouse",11,1080,7,3.01600000000002,3.64721485411138,273.379,2.98168754728458
+"125",125,362.574,364.904,"- jackson designed it himself.
+- built most of it myself, too."," jackson designed it himself  built most of it myself too",11,1091,7,2.32999999999998,4.72103004291849,275.709,2.98436878107427
+"126",126,364.971,365.958,"you know what this means.","you know what this means",5,1096,7,0.987000000000023,5.0658561296858,276.696,2.98768025829923
+"127",127,366.209,369.292,"the best tomatoes on the east coast, and in october.","the best tomatoes on the east coast and in october",10,1106,7,3.08299999999997,3.2435939020435,279.779,2.99071793410042
+"128",128,369.61,371.213,"huh! october!","huh october",2,1108,7,1.60300000000001,1.24766063630692,281.382,2.99451127527393
+"129",129,371.324,374.889,"- heh. it sure ain't november.
+- this means year-round vegetables."," heh it sure aint november  this means yearround vegetables",10,1118,7,3.565,2.80504908835905,284.947,2.99745756930324
+"130",130,375.052,378.205,"i am never gonna be a slave to mother nature again. if i wanna make it...","i am never gonna be a slave to mother nature again if i wanna make it",16,1134,7,3.15299999999996,5.07453219156365,288.1,2.99709822329623
+"131",131,378.273,379.435,"then i'm gonna grow it.","then im gonna grow it",5,1139,7,1.16199999999998,4.30292598967306,289.262,2.9916183790708
+"132",132,379.528,381.817,"aw, you two really found each other, didn't you?","aw you two really found each other didnt you",9,1148,7,2.28899999999999,3.93184796854524,291.551,2.98470595056003
+"133",133,381.99,383.434,"do you want another piece of tomato?","do you want another piece of tomato",7,1155,7,1.44400000000002,4.84764542936282,292.995,2.97845599356169
+"134",134,383.669,384.54,"do i?","do i",2,1157,7,0.871000000000038,2.29621125143503,293.866,2.97298829577294
+"135",135,387.591,388.784,"boys, leave us, please.","boys leave us please",4,1161,7,1.19299999999998,3.35289186923726,295.059,2.96561545481749
+"136",136,395.656,397.268,"ben franklin was out of his mind.","ben franklin was out of his mind",7,1168,7,1.61200000000002,4.34243176178654,296.671,2.95633729296713
+"137",137,399.05,400.233,"- hey.
+- hey."," hey  hey",3,1171,7,1.18299999999999,2.53592561284871,297.854,2.94706061615353
+"138",138,401.345,403.448,"so, come on in. dean, you remember paris.","so come on in dean you remember paris",8,1179,7,2.10299999999995,3.8040893961009,299.957,2.93730184199773
+"139",139,403.54,405.46,"yes, i do. uh, how you doing, paris?","yes i do uh how you doing paris",8,1187,7,1.91999999999996,4.16666666666676,301.877,2.92727794530794
+"140",140,405.714,406.545,"i'm fine.","im fine",2,1189,7,0.831000000000017,2.40673886883268,302.708,2.91977086336647
+"141",141,408.696,409.412,"what's that?","whats that",2,1191,7,0.715999999999951,2.79329608938566,303.424,2.91598658091046
+"142",142,409.654,413.877,"uh, that's a printing press. haven't you heard? tats are out, movable type is in.","uh thats a printing press havent you heard tats are out movable type is in",15,1206,7,4.22300000000001,3.55197726734548,307.647,2.91425139620062
+"143",143,414.051,414.799,"i've heard that.","ive heard that",3,1209,7,0.74799999999999,4.01069518716583,308.395,2.91322233728852
+"144",144,416.304,417.39,"so, my room's in there.","so my rooms in there",5,1214,7,1.08600000000001,4.60405156537748,309.481,2.91160651976253
+"145",145,418.511,420.794,"- nice to see you again, paris.
+- right back at you."," nice to see you again paris  right back at you",11,1225,8,2.28299999999996,4.81822163819544,311.764,2.91105903964149
+"146",146,422.592,424.5,"you're back with farmer boy? what gives?","youre back with farmer boy what gives",7,1232,8,1.90800000000002,3.66876310272534,313.672,2.91296394986591
+"147",147,424.619,426.001,"- paris...
+- i thought he was married."," paris  i thought he was married",7,1239,8,1.38199999999995,5.06512301013044,315.054,2.9154218999006
+"148",148,426.124,427.195,"he was - now he's not.","he was  now hes not",5,1244,8,1.07099999999997,4.66853408029892,316.125,2.91872464177253
+"149",149,427.338,429.693,"well, well - hoss returns. who would've thunk?","well well  hoss returns who wouldve thunk",7,1251,8,2.35499999999996,2.97239915074315,318.48,2.92327748075804
+"150",150,429.77,431.972,"- i'm going in my room now.
+- just hold on."," im going in my room now  just hold on",10,1261,8,2.202,4.54132606721163,320.682,2.92780214550961
+"151",151,432.141,434.07,"- we have to figure this out.
+- figure what out?"," we have to figure this out  figure what out",10,1271,8,1.92899999999997,5.18403317781241,322.611,2.93369850580773
+"152",152,434.167,436.619,"you're going to be bringing boys home now. we need a system.","youre going to be bringing boys home now we need a system",12,1283,8,2.45200000000006,4.89396411092974,325.063,2.94069792499453
+"153",153,436.693,439.666,"i'm not bringing ""boys"" home. i'm bringing ""boy"" home. that boy - that's it.","im not bringing boys home im bringing boy home that boy  thats it",13,1296,8,2.97300000000001,4.37268752102252,328.036,2.94831534647844
+"154",154,439.754,441.085,"- i assume you're having sex.
+- paris!"," i assume youre having sex  paris",7,1303,8,1.33099999999996,5.2592036063112,329.367,2.95638502676953
+"155",155,441.183,444.458,"you're having sex. well, luckily, i just bought some noise-reducing headphones,","youre having sex well luckily i just bought some noisereducing headphones",11,1314,8,3.27499999999998,3.35877862595422,332.642,2.9648090456515
+"156",156,444.526,445.765,"- so that'll help.
+- oh boy."," so thatll help  oh boy",6,1320,8,1.23899999999998,4.84261501210663,333.881,2.97323088670186
+"157",157,445.821,448.893,"if i put the headphones on, then stuff towels under the door, that should do the trick.","if i put the headphones on then stuff towels under the door that should do the trick",17,1337,8,3.072,5.53385416666666,336.953,2.98158261754249
+"158",158,448.944,451.778,"hey, if you've got extra towels to stuff, i got a location suggestion.","hey if youve got extra towels to stuff i got a location suggestion",13,1350,8,2.834,4.58715596330275,339.787,2.98953922972039
+"159",159,451.827,453.531,"- how loud are you?
+- paris, stop."," how loud are you  paris stop",7,1357,8,1.70400000000001,4.10798122065726,341.491,2.99798915583229
+"160",160,453.604,456.481,"look, i don't care. i just need the information to formulate a good plan.","look i dont care i just need the information to formulate a good plan",14,1371,8,2.87700000000001,4.86618004866178,344.368,3.00717560053897
+"161",161,456.547,458.451,"i mean, you look all small and squeaky, but sometimes,","i mean you look all small and squeaky but sometimes",10,1381,8,1.904,5.25210084033614,346.272,3.01764900506418
+"162",162,458.52,461.283,"it's exactly the bunny-looking girls who can blow the roof off the barn.","its exactly the bunnylooking girls who can blow the roof off the barn",13,1394,8,2.76300000000003,4.70503076366263,349.035,3.02635848578781
+"163",163,461.611,464.777,"- i know, just give me a three-minute warning.
+- i'm walking away now."," i know just give me a threeminute warning  im walking away now",13,1407,8,3.166,4.10612760581175,352.201,3.02825003800309
+"164",164,464.836,467.982,"that way, i have time to put everything in place. put headphones on, et cetera.","that way i have time to put everything in place put headphones on et cetera",15,1422,8,3.14599999999996,4.76795931341392,355.347,3.02942277547077
+"165",165,468.043,469.774,"- bye.
+- is he gonna be coming over a lot?"," bye  is he gonna be coming over a lot",10,1432,8,1.73099999999999,5.77700751010978,357.078,3.02943182321137
+"166",166,469.875,473.265,"probably, right? he's at his peak now, and it's probably one of the only things he's good at so...","probably right hes at his peak now and its probably one of the only things hes good at so",19,1451,8,3.38999999999999,5.60471976401182,360.468,3.02803794270201
+"167",167,473.346,474.632,"- three-minute warning!
+- right."," threeminute warning  right",4,1455,8,1.286,3.1104199066874,361.754,3.02582012422809
+"168",168,483.417,484.186,"bread.","bread",1,1456,9,0.769000000000005,1.3003901170351,362.523,3.02402415392554
+"169",169,484.278,486.716,"that's $1.10, so we're at $17.33.","thats 110 so were at 1733",6,1462,9,2.43799999999999,2.46103363412634,364.961,3.02131720452127
+"170",170,486.778,488.097,"- and jam.
+- generic."," and jam  generic",4,1466,9,1.31899999999996,3.03260045489016,366.28,3.01847130505953
+"171",171,488.256,491.599,"- yes, mom.
+- $1.40, so we're at $18.73."," yes mom  140 so were at 1873",8,1474,9,3.34300000000002,2.39306012563564,369.623,3.01451733781146
+"172",172,491.666,493.695,"yo, john nash, enough with the numbers.","yo john nash enough with the numbers",7,1481,9,2.029,3.44997535731888,371.652,3.01152007721659
+"173",173,493.801,495.132,"i'm just keeping track so we don't go over.","im just keeping track so we dont go over",9,1490,9,1.33100000000002,6.76183320811411,372.983,3.01416707861262
+"174",174,495.446,497.093,"it's too much pressure. i can't think.","its too much pressure i cant think",7,1497,9,1.64699999999999,4.25015179113542,374.63,3.01723604096166
+"175",175,497.165,498.706,"if we use coupons, it would stretch our money.","if we use coupons it would stretch our money",9,1506,9,1.541,5.84036340038937,376.171,3.02099779682743
+"176",176,498.773,502.578,"dude, the only thing more un-rock 'n' roll than coupons is that shirt you're wearing.","dude the only thing more unrock n roll than coupons is that shirt youre wearing",15,1521,9,3.80499999999995,3.94218134034171,379.976,3.02545530275116
+"177",177,502.618,504.355,"i've asked you about this shirt. you never said anything.","ive asked you about this shirt you never said anything",10,1531,9,1.73700000000002,5.75705238917666,381.713,3.03067639214521
+"178",178,504.425,506.003,"we're not using coupons.","were not using coupons",4,1535,9,1.57799999999997,2.5348542458809,383.291,3.0359475943476
+"179",179,506.136,507.498,"get enough brewskis there, buddy?","get enough brewskis there buddy",5,1540,9,1.36199999999997,3.67107195301037,384.653,3.04203318869532
+"180",180,507.561,509.352,"don't worry, i'm using my own money for this.","dont worry im using my own money for this",9,1549,9,1.791,5.02512562814071,386.444,3.04731433748327
+"181",181,509.407,510.688,"- okay, just<85>
+- just what?"," okay just85  just what",5,1554,9,1.28100000000001,3.90320062451208,387.725,3.05258406017731
+"182",182,510.739,512.772,"i'm not sure why you need all that beer, that's all.","im not sure why you need all that beer thats all",11,1565,9,2.03300000000007,5.41072306935544,389.758,3.05772750359326
+"183",183,512.864,516.654,"we've got gigs coming up, and i've kinda learned through experience that if you say to people,","weve got gigs coming up and ive kinda learned through experience that if you say to people",17,1582,9,3.78999999999996,4.48548812664912,393.548,3.06338161463014
+"184",184,516.685,520.446,"""hey, wanna come back for some beers?"" and you don't have beer, they get pissed and leave.","hey wanna come back for some beers and you dont have beer they get pissed and leave",17,1599,9,3.76100000000008,4.52007444828493,397.309,3.07016511030625
+"185",185,520.507,521.378,"- people?
+- right."," people  right",3,1602,9,0.871000000000095,3.44431687715232,398.18,3.07698914565171
+"186",186,521.46,523.206,"- meaning ""girls"".
+- i would prefer it be girls."," meaning girls  i would prefer it be girls",9,1611,9,1.74599999999998,5.15463917525779,399.926,3.08364880520869
+"187",187,523.288,526.078,"good. well then, stock up, then, hef. get some extra for jimmy caan.","good well then stock up then hef get some extra for jimmy caan",13,1624,9,2.78999999999996,4.65949820788537,402.716,3.08863458854474
+"188",188,526.155,527.164,"hey, guys. how you doing?","hey guys how you doing",5,1629,9,1.00900000000001,4.95540138751232,403.725,3.09292387018716
+"189",189,527.235,529.602,"great. hope you're not here for beer. i think we're buying it all up.","great hope youre not here for beer i think were buying it all up",14,1643,9,2.36699999999996,5.91465990705544,406.092,3.09560340671809
+"190",190,529.668,532.264,"- i'm just here for diapers.
+- any of your girlfriends need diapers?"," im just here for diapers  any of your girlfriends need diapers",12,1655,9,2.596,4.62249614791987,408.688,3.09854089490669
+"191",191,532.33,534.804,"- what is your problem?
+- problem? no problem."," what is your problem  problem no problem",8,1663,9,2.47399999999993,3.23362974939378,411.162,3.10052726802434
+"192",192,535.715,536.446,"milk.","milk",1,1664,9,0.730999999999995,1.36798905608756,411.893,3.10198663377295
+"193",193,536.953,538.181,"lane, that was a real brand. lane.","lane that was a real brand lane",7,1671,9,1.22800000000007,5.70032573289872,413.121,3.10323345200612
+"194",194,538.271,542.405,"that makes $27, $28, $29, $30, and $10 makes $40.","that makes 27 28 29 30 and 10 makes 40",10,1681,10,4.13400000000001,2.41896468311562,417.255,3.10377988901665
+"195",195,542.466,546.099,"and here - here, take a balloon for the little miss. election's on tuesday.","and here  here take a balloon for the little miss elections on tuesday",13,1694,10,3.63300000000004,3.5783099366914,420.888,3.1034035268379
+"196",196,546.538,548.249,"morning, maggie. how's the family?","morning maggie hows the family",5,1699,10,1.71100000000001,2.92226767971944,422.599,3.10349075420258
+"197",197,548.341,551.008,"a pain in my rear. don't say i said that.","a pain in my rear dont say i said that",10,1709,10,2.66700000000003,3.74953130858638,425.266,3.1051869398175
+"198",198,551.085,552.442,"- morning, jackson.
+- hi, taylor."," morning jackson  hi taylor",5,1714,10,1.35699999999997,3.68459837877679,426.623,3.10653658304516
+"199",199,552.519,553.769,"hey, are these the best you got?","hey are these the best you got",7,1721,10,1.25,5.6,427.873,3.10878713423582
+"200",200,553.864,556.415,"unfortunately, october's a terrible time for tomatoes.","unfortunately octobers a terrible time for tomatoes",7,1728,10,2.55099999999993,2.74402195217569,430.424,3.1111493851858
+"201",201,556.609,559.088,"i guess i could always go with canned. i hate canned.","i guess i could always go with canned i hate canned",11,1739,10,2.47899999999993,4.43727309398964,432.903,3.11430179530794
+"202",202,559.164,561.744,"hey, if you're needing more, taylor, i got a nice crop of tomatoes.","hey if youre needing more taylor i got a nice crop of tomatoes",13,1752,10,2.58000000000004,5.0387596899224,435.483,3.1167959961777
+"203",203,561.811,563.43,"we could work something out.","we could work something out",5,1757,10,1.61899999999991,3.0883261272392,437.102,3.11893738716763
+"204",204,563.501,567.966,"well, that's nice of you to offer. you're growing them in that big new greenhouse, right?","well thats nice of you to offer youre growing them in that big new greenhouse right",16,1773,10,4.46500000000003,3.5834266517357,441.567,3.12059328743079
+"205",205,568.032,570.766,"- built it with my own two hands.
+- that's very industrious."," built it with my own two hands  thats very industrious",11,1784,10,2.73399999999992,4.02340892465264,444.301,3.12251760901507
+"206",206,570.838,572.436,"too bad about what's happening with all that.","too bad about whats happening with all that",8,1792,10,1.59800000000007,5.00625782227763,445.899,3.12339092620384
+"207",207,572.605,573.799,"yeah<85> what?","yeah85 what",2,1794,10,1.19399999999996,1.67504187604696,447.093,3.12350133214127
+"208",208,573.862,576.184,"- nice cukes, though.
+- beautiful cukes."," nice cukes though  beautiful cukes",6,1800,10,2.322,2.58397932816537,449.415,3.12401993150253
+"209",209,576.246,579.64,"i love cukes in a tricolore salad - adds a nice crunch.","i love cukes in a tricolore salad  adds a nice crunch",11,1811,10,3.39400000000001,3.2410135533294,452.809,3.12457064069917
+"210",210,579.742,581.79,"uh, ""too bad about all"" what, taylor?","uh too bad about all what taylor",7,1818,10,2.048,3.41796875,454.857,3.12496024761311
+"211",211,581.913,584.453,"oh, you know - the greenhouse.","oh you know  the greenhouse",5,1823,10,2.53999999999996,1.9685039370079,457.397,3.12450688984442
+"212",212,584.515,586.225,"the greenhouse? what about the greenhouse?","the greenhouse what about the greenhouse",6,1829,10,1.71000000000004,3.50877192982449,459.107,3.12492547233536
+"213",213,586.326,587.786,"wait - aren't the cukes three for $1?","wait  arent the cukes three for 1",7,1836,10,1.46000000000004,4.79452054794509,460.567,3.12560218479564
+"214",214,587.859,589.67,"- they're two for $1.
+- it said three."," theyre two for 1  it said three",8,1844,10,1.81099999999992,4.41744892324702,462.378,3.12703279726648
+"215",215,589.748,591.784,"barry, i need a price check on cucumbers.","barry i need a price check on cucumbers",8,1852,10,2.03599999999994,3.92927308447948,464.414,3.1284543271044
+"216",216,591.862,593.74,"- taylor?
+- jackson, please."," taylor  jackson please",4,1856,10,1.87800000000004,2.12992545260911,466.292,3.13076536801241
+"217",217,593.807,596.988,"this is not the proper forum to discuss the problem with your greenhouse.","this is not the proper forum to discuss the problem with your greenhouse",13,1869,10,3.18100000000004,4.08676516818605,469.473,3.13375539922758
+"218",218,597.044,600.172,"- what problem?!
+- barry, if you hear me, yell ""10-4."""," what problem  barry if you hear me yell 104",10,1879,11,3.12800000000004,3.19693094629152,472.601,3.13660015425552
+"219",219,600.248,603.761,"i'll check the price on the stupid cucumbers! just tell me what's up with the greenhouse!","ill check the price on the stupid cucumbers just tell me whats up with the greenhouse",16,1895,11,3.51299999999992,4.55451181326512,476.114,3.13927768793976
+"220",220,603.821,605.915,"jackson, this is my place of business.","jackson this is my place of business",7,1902,11,2.09399999999994,3.34288443170975,478.208,3.14141293589222
+"221",221,605.988,609.751,"the unpleasantness with your structure will all be settled at the next town meeting.","the unpleasantness with your structure will all be settled at the next town meeting",14,1916,11,3.76299999999992,3.72043582248214,481.970999999999,3.14380223251028
+"222",222,609.833,613.995,"- i'm not hearing a ""10-4,"" barry.
+- i can't go to the town meeting. i'm watching the baby."," im not hearing a 104 barry  i cant go to the town meeting im watching the baby",18,1934,11,4.16200000000003,4.32484382508406,486.132999999999,3.14550716450942
+"223",223,614.123,617.062,"- oh, i'd get a babysitter if i was you.
+- 10-4."," oh id get a babysitter if i was you  104",11,1945,11,2.93899999999996,3.74276964954071,489.071999999999,3.14782229595905
+"224",224,617.165,619.858,"- you were out smoking again, weren't you, barry?
+- no."," you were out smoking again werent you barry  no",10,1955,11,2.69299999999998,3.71333085777945,491.764999999999,3.1495645968958
+"225",225,619.919,623.002,"- don't lie. i'll smell your breath.
+-10-4."," dont lie ill smell your breath 104",8,1963,11,3.08299999999997,2.5948751216348,494.847999999999,3.15191848240288
+"226",226,623.258,625.746,"i don't like the tone of that ""10-4.""","i dont like the tone of that 104",8,1971,11,2.48799999999994,3.21543408360136,497.335999999999,3.15420094455949
+"227",227,626.575,629.653,"i usually like grocery shopping. this stripped it of all enjoyment.","i usually like grocery shopping this stripped it of all enjoyment",11,1982,11,3.07799999999997,3.57374918778431,500.413999999999,3.15639915169076
+"228",228,629.73,632.229,"i thought you hated grocery shopping with the guys. you always bicker.","i thought you hated grocery shopping with the guys you always bicker",12,1994,11,2.49900000000002,4.80192076830728,502.912999999999,3.15903001961121
+"229",229,632.387,635.915,"but that's fun bickering. that's bickering we'll look back on in 20 years,","but thats fun bickering thats bickering well look back on in 20 years",13,2007,11,3.52800000000002,3.68480725623581,506.440999999999,3.16238227626727
+"230",230,635.976,638.084,"slap each other on the backs and say, ""wha-ho, good times. ""","slap each other on the backs and say whaho good times ",11,2018,11,2.10800000000006,5.21821631878543,508.548999999999,3.16689515203142
+"231",231,638.167,640.108,"so you'll be dickens characters in 20 years?","so youll be dickens characters in 20 years",8,2026,11,1.94099999999992,4.12158681092238,510.489999999999,3.17160851291729
+"232",232,640.2,642.213,"you know what i mean. i know - i have no right","you know what i mean i know  i have no right",11,2037,11,2.01299999999992,5.46448087431716,512.502999999999,3.17694353706024
+"233",233,642.264,645.305,"to be bothered by zach luring women back to the apartment with cheap beer,","to be bothered by zach luring women back to the apartment with cheap beer",14,2051,11,3.04099999999994,4.6037487668531,515.543999999999,3.18232449305207
+"234",234,645.346,649.104,"because i haven't told him i like him. i mean, if i had told him i like him","because i havent told him i like him i mean if i had told him i like him",18,2069,11,3.75800000000004,4.78978179882912,519.301999999999,3.18752861711407
+"235",235,649.175,651.439,"and he was doing that, he'd be a creep of the first order.","and he was doing that hed be a creep of the first order",13,2082,11,2.26400000000001,5.74204946996464,521.565999999999,3.19202182283605
+"236",236,651.525,654.056,"as it is, he's just exhibiting basic guy behavior -","as it is hes just exhibiting basic guy behavior ",9,2091,11,2.53100000000006,3.55590675622275,524.096999999999,3.19687469777984
+"237",237,654.127,658.208,"grunt, grunt, caveman stuff, which, to be honest, is a bit of the appeal of zach.","grunt grunt caveman stuff which to be honest is a bit of the appeal of zach",16,2107,11,4.08100000000002,3.92060769419258,528.177999999999,3.20134274119773
+"238",238,658.279,660.28,"- so why don't you tell him?
+- there's a danger here."," so why dont you tell him  theres a danger here",11,2118,12,2.00099999999998,5.49725137431291,530.178999999999,3.2054140052173
+"239",239,660.358,662.381,"- the roommate thing.
+- the band thing."," the roommate thing  the band thing",7,2125,12,2.02300000000002,3.46020761245671,532.201999999999,3.20864500469063
+"240",240,662.596,665.934,"need i mention the rock 'n' roll casualties from intraband dating?","need i mention the rock n roll casualties from intraband dating",11,2136,12,3.33799999999997,3.29538645895749,535.539999999999,3.21111556575546
+"241",241,666.011,668.094,"- i know they're numerous.
+- not that there's not success stories."," i know theyre numerous  not that theres not success stories",11,2147,12,2.08300000000008,5.28084493518942,537.622999999999,3.21360083606288
+"242",242,668.166,671.843,"i mean, you've got your cramps, your yo la tengo, your kim and thurstons.","i mean youve got your cramps your yo la tengo your kim and thurstons",14,2161,12,3.67699999999991,3.80745172695141,541.299999999999,3.21566919832502
+"243",243,671.898,673.179,"sonny and cher, the early years.","sonny and cher the early years",6,2167,12,1.28099999999995,4.68384074941471,542.580999999999,3.21759516151935
+"244",244,673.306,676.133,"plus, you've got bands that have survived breakups - no doubt.","plus youve got bands that have survived breakups  no doubt",10,2177,12,2.827,3.53731871241599,545.407999999999,3.21944360134724
+"245",245,676.215,676.87,"wish they hadn't.","wish they hadnt",3,2180,12,0.654999999999973,4.58015267175592,546.062999999999,3.2214985789613
+"246",246,676.983,680.049,"x, supertramp, the white stripes. but in the negative, you have...","x supertramp the white stripes but in the negative you have",11,2191,12,3.06600000000003,3.58773646444876,549.128999999999,3.22303094854915
+"247",247,680.126,683.469,"- sonny and cher, the later years.
+- jefferson airplane, fleetwood mac."," sonny and cher the later years  jefferson airplane fleetwood mac",11,2202,12,3.34300000000007,3.29045767274895,552.471999999999,3.22532175756366
+"248",248,683.598,687.018,"i know of two country music stars whose backup singers shot them in the groin.","i know of two country music stars whose backup singers shot them in the groin",15,2217,12,3.42000000000007,4.38596491228061,555.891999999999,3.22722001228107
+"249",249,687.084,688.339,"whoa. that's wicked hate.","whoa thats wicked hate",4,2221,12,1.255,3.18725099601595,557.146999999999,3.2287332019617
+"250",250,689.113,691.124,"- my batteries are dead.
+- hold on, lane. your batteries?"," my batteries are dead  hold on lane your batteries",10,2231,12,2.01099999999997,4.97265042267537,559.157999999999,3.23123032655804
+"251",251,691.191,693.106,"for my headphones. when's dean getting here?","for my headphones whens dean getting here",7,2238,12,1.91499999999996,3.65535248041782,561.072999999999,3.23411974212185
+"252",252,693.182,695.492,"calm down paris. we're just gonna watch a movie, and you're welcome to join us.","calm down paris were just gonna watch a movie and youre welcome to join us",15,2253,12,2.30999999999995,6.49350649350665,563.382999999999,3.23705829025653
+"253",253,695.568,699.189,"please. you're 19. unless it's ""shoah,"" you two are getting carnal.","please youre 19 unless its shoah you two are getting carnal",11,2264,12,3.62099999999998,3.03783485225078,567.003999999999,3.23930135128478
+"254",254,700.797,703.883,"- sorry. you were saying?
+- you've got the data. now i need insight."," sorry you were saying  youve got the data now i need insight",13,2277,12,3.08600000000001,4.21257290991573,570.089999999999,3.24108728796979
+"255",255,703.965,706.786,"i think you should just tell him. this is not going away, so find the right moment,","i think you should just tell him this is not going away so find the right moment",17,2294,12,2.82100000000003,6.02623183268339,572.910999999999,3.24301114173338
+"256",256,706.842,710.304,"and see what he says. don't mention that intraband dating stuff. just follow your heart.","and see what he says dont mention that intraband dating stuff just follow your heart",15,2309,12,3.46199999999999,4.33275563258234,576.372999999999,3.24493481714111
+"257",257,710.391,713.586,"heart. ho, the girls in heart really screwed things up big-time.","heart ho the girls in heart really screwed things up bigtime",11,2320,12,3.19500000000005,3.44287949921747,579.567999999999,3.24606219486899
+"258",258,713.87,714.589,"hang on.","hang on",2,2322,12,0.718999999999937,2.78164116828953,580.286999999999,3.24709777898056
+"259",259,715.481,717.221,"- hello?
+- hey, it's me."," hello  hey its me",5,2327,12,1.74000000000001,2.87356321839079,582.026999999999,3.24819063063238
+"260",260,717.452,718.748,"oh, hey. you about on your way?","oh hey you about on your way",7,2334,12,1.29600000000005,5.40123456790103,583.322999999999,3.24780553888948
+"261",261,718.849,721.327,"unfortunately, no. i have no way to get there.","unfortunately no i have no way to get there",9,2343,13,2.47799999999995,3.63196125907997,585.800999999999,3.24775225021541
+"262",262,721.476,722.612,"oh, what happened to your car?","oh what happened to your car",6,2349,13,1.13599999999997,5.28169014084522,586.936999999999,3.24739193529402
+"263",263,722.781,724.666,"uh, nothing. it's just, um...","uh nothing its just um",5,2354,13,1.8850000000001,2.65251989389906,588.821999999999,3.24742366302909
+"264",264,725.325,726.16,"lindsay needed it.","lindsay needed it",3,2357,13,0.834999999999923,3.59281437125782,589.656999999999,3.24801726892627
+"265",265,726.621,727.676,"oh, right.","oh right",2,2359,13,1.05500000000006,1.89573459715628,590.711999999999,3.24828000617225
+"266",266,727.979,731.65,"i don't know what for. she just needed it for some reason, and we're still kind of sharing it.","i dont know what for she just needed it for some reason and were still kind of sharing it",19,2378,13,3.67099999999994,5.17570144374839,594.382999999999,3.24823250300821
+"267",267,731.732,732.853,"right. drag.","right drag",2,2380,13,1.12099999999998,1.78412132024981,595.503999999999,3.24777717401524
+"268",268,733.017,735.444,"i'll look to see if there's a bus or something.","ill look to see if theres a bus or something",10,2390,13,2.42699999999991,4.12031314379909,597.930999999999,3.24776765900034
+"269",269,735.515,736.524,"that could take hours.","that could take hours",4,2394,13,1.00900000000001,3.96432111000985,598.939999999999,3.24829945240924
+"270",270,736.611,738.475,"yeah. you want to come here?","yeah you want to come here",6,2400,13,1.86400000000003,3.21888412017162,600.803999999999,3.24918489058254
+"271",271,738.736,740.215,"to stars hollow? how?","to stars hollow how",4,2404,13,1.47900000000004,2.70453008789715,602.282999999999,3.24914566161225
+"272",272,740.319,742.109,"drive. you got your car.","drive you got your car",5,2409,13,1.79000000000008,2.79329608938535,604.072999999999,3.24918180510354
+"273",273,742.274,744.082,"oh, yeah, i do. yeah, no, of course.","oh yeah i do yeah no of course",8,2417,13,1.80799999999999,4.42477876106196,605.880999999999,3.24939061510639
+"274",274,744.23,746.503,"um, i have a car, and i'll drive to you.","um i have a car and ill drive to you",10,2427,13,2.27300000000002,4.39947206335235,608.153999999999,3.24979102462214
+"275",275,746.641,748.766,"good. i mean, if you want to.","good i mean if you want to",7,2434,13,2.125,3.29411764705882,610.278999999999,3.25002620191753
+"276",276,749.114,752.355,"definitely. yeah, and now paris doesn't have to go get batteries.","definitely yeah and now paris doesnt have to go get batteries",11,2445,13,3.24099999999999,3.39401419315028,613.519999999999,3.24988697944423
+"277",277,752.536,753.092,"what?","what",1,2446,13,0.555999999999926,1.79856115107938,614.075999999999,3.24982510210536
+"278",278,753.198,754.653,"nothing. i'll see you in about an hour?","nothing ill see you in about an hour",8,2454,13,1.45500000000004,5.49828178694143,615.530999999999,3.24903616268609
+"279",279,754.762,755.898,"- my place?
+- see you there."," my place  see you there",6,2460,13,1.13600000000008,5.28169014084469,616.666999999999,3.24812197240536
+"280",280,756.057,756.697,"bye.","bye",1,2461,13,0.639999999999986,1.56250000000003,617.306999999999,3.24563443872306
+"281",281,758.152,759.323,"- sorry.
+- that's okay."," sorry  thats okay",4,2465,13,1.17099999999994,3.41588385994895,618.477999999999,3.24339744178296
+"282",282,759.416,762.278,"listen, i'm going to play two rilo kiley songs -","listen im going to play two rilo kiley songs ",9,2474,13,2.86200000000008,3.14465408805023,621.339999999999,3.24107896384163
+"283",283,762.35,765.027,"one pre-jenny/blake breakup, one post.","one prejennyblake breakup one post",5,2479,13,2.67700000000002,1.86776242062008,624.016999999999,3.23854209118599
+"284",284,765.091,767.115,"tell me if you hear a quality difference.","tell me if you hear a quality difference",8,2487,13,2.024,3.95256916996047,626.040999999999,3.23617603159745
+"285",285,770.481,776.24,"the ferocity of attack is not affected by whether they're in the larval or nymphal life stage","the ferocity of attack is not affected by whether theyre in the larval or nymphal life stage",17,2504,13,5.75900000000001,2.95190137176592,631.799999999999,3.23409277603484
+"286",286,776.297,778.949,"or whether they're of the one-, two-, or three-host variety.","or whether theyre of the one two or threehost variety",10,2514,13,2.65199999999993,3.77073906485681,634.451999999999,3.23218759985741
+"287",287,779.026,781.764,"oh, i hate this, taylor. every year.","oh i hate this taylor every year",7,2521,14,2.73800000000006,2.55661066471872,637.189999999999,3.23003011055849
+"288",288,781.831,783.522,"yeah, we get it - ticks are bad.","yeah we get it  ticks are bad",7,2528,14,1.69100000000003,4.13956238911879,638.880999999999,3.22797487952875
+"289",289,783.613,786.815,"maybe people who are new to our town - thus, new to the town meeting -","maybe people who are new to our town  thus new to the town meeting ",14,2542,14,3.202,4.37226733291693,642.082999999999,3.22604201555972
+"290",290,786.874,789.117,"don't know the hazards of the common tick.","dont know the hazards of the common tick",8,2550,14,2.24299999999994,3.56665180561758,644.325999999999,3.22598848575833
+"291",291,789.183,791.693,"ticks are bad! moving on!","ticks are bad moving on",5,2555,14,2.50999999999999,1.99203187250997,646.835999999999,3.22601185851734
+"292",292,791.78,794.985,"don't hate the tick messenger. hate the tick.","dont hate the tick messenger hate the tick",8,2563,14,3.20500000000004,2.49609984399373,650.040999999999,3.22627138997239
+"293",293,795.491,796.93,"now, to continue<85>","now to continue85",3,2566,14,1.43899999999996,2.08478109798476,651.479999999999,3.22595920761496
+"294",294,797.028,798.712,"he's ruined the word ""nymphal"" for me forever.","hes ruined the word nymphal for me forever",8,2574,14,1.68399999999997,4.75059382422812,653.163999999999,3.224938810017
+"295",295,799.015,801.483,"4 bucks an hour to a babysitter for a tick lecture?","4 bucks an hour to a babysitter for a tick lecture",11,2585,14,2.46799999999996,4.4570502431119,655.631999999999,3.22405326225339
+"296",296,801.584,804.298,"- don't worry, honey. he'll get to us.
+- waste of time."," dont worry honey hell get to us  waste of time",11,2596,14,2.71400000000006,4.0530582166543,658.345999999999,3.22297129204415
+"297",297,804.411,806.853,"that's when a tick clamps onto his host,","thats when a tick clamps onto his host",8,2604,14,2.44199999999989,3.27600327600342,660.787999999999,3.22146180535891
+"298",298,807.023,811.892,"plunges his hypostome into the skin, and feasts on his next blood meal.","plunges his hypostome into the skin and feasts on his next blood meal",13,2617,14,4.86900000000003,2.66995276237419,665.656999999999,3.21995090598301
+"299",299,813.032,815.08,"you take too much delight in this, taylor.","you take too much delight in this taylor",8,2625,14,2.048,3.90625,667.704999999999,3.21878813307359
+"300",300,815.132,817.041,"go on, taylor. he's sucking out the blood...","go on taylor hes sucking out the blood",8,2633,14,1.90899999999999,4.19067574646414,669.613999999999,3.21736714286979
+"301",301,817.118,823.581,"they feed for extensive periods, and at large volumes, up to 500 times their body weight.","they feed for extensive periods and at large volumes up to 500 times their body weight",16,2649,14,6.46299999999997,2.47563051214608,676.076999999999,3.2154951216561
+"302",302,823.734,830.2,"this would be the equivalent of a 150-pound man drinking 9,000 gallons of human blood.","this would be the equivalent of a 150pound man drinking 9000 gallons of human blood",15,2664,14,6.46600000000001,2.31982678626662,682.542999999999,3.21346834870738
+"303",303,830.641,832.827,"taylor, please! we get it!","taylor please we get it",5,2669,14,2.18600000000004,2.28728270814269,684.728999999999,3.21188933035859
+"304",304,832.909,835.238,"let's just vote on whatever it is you want us to vote on.","lets just vote on whatever it is you want us to vote on",13,2682,14,2.32900000000006,5.58179476170015,687.057999999999,3.21045192222201
+"305",305,835.336,836.795,"- before i hurl.
+- yeah!"," before i hurl  yeah",5,2687,14,1.45899999999995,3.42700479780684,688.516999999999,3.20819919897913
+"306",306,836.933,837.66,"fine.","fine",1,2688,14,0.726999999999975,1.37551581843196,689.243999999999,3.20520955913904
+"307",307,838.142,843.133,"the question before us is, shall the town incur the expense of posting signs urging residents","the question before us is shall the town incur the expense of posting signs urging residents",16,2704,15,4.99099999999999,3.20577038669606,694.234999999999,3.20262084262777
+"308",308,843.249,846.13,"to tuck their pants into their socks during tick season?","to tuck their pants into their socks during tick season",10,2714,15,2.88099999999997,3.47101700798337,697.115999999999,3.19969898693094
+"309",309,846.308,847.117,"in favor?","in favor",2,2716,15,0.808999999999969,2.47218788627945,697.924999999999,3.19618785128138
+"310",310,848.361,849.042,"opposed?","opposed",1,2717,15,0.68100000000004,1.46842878120403,698.605999999999,3.19251393980395
+"311",311,850.583,855.472,"the measure is defeated by an irresponsible, devil-may-care majority.","the measure is defeated by an irresponsible devilmaycare majority",9,2726,15,4.88900000000001,1.84086725301697,703.494999999999,3.18812155563496
+"312",312,856.098,858.944,"now we move on to the next item -","now we move on to the next item ",8,2734,15,2.846,2.8109627547435,706.340999999999,3.18263490703708
+"313",313,859.016,864.423,"the matter of the town stars hollow vs. land parcel 11423-a.","the matter of the town stars hollow vs land parcel 11423a",11,2745,15,5.40700000000004,2.03439985204363,711.747999999999,3.17688665886029
+"314",314,864.506,867.772,"- is the parcel holder present?
+- if that's me, i'm here."," is the parcel holder present  if thats me im here",11,2756,15,3.26600000000008,3.36803429271272,715.013999999999,3.17144969448928
+"315",315,867.843,869.792,"the parcel holder is present.","the parcel holder is present",5,2761,15,1.94900000000007,2.5654181631605,716.962999999999,3.16698247901035
+"316",316,870.029,876.773,"now, said parcel is cited as being in violation of section 423, subsection 4c,","now said parcel is cited as being in violation of section 423 subsection 4c",14,2775,15,6.74400000000003,2.0759193357058,723.706999999999,3.16445671736259
+"317",317,876.856,882.87,"subsection 32-b, formerly known as section 424, subsection...","subsection 32b formerly known as section 424 subsection",8,2783,15,6.01400000000001,1.33022946458264,729.720999999999,3.1627633956653
+"318",318,882.946,883.792,"enough!","enough",1,2784,15,0.846000000000004,1.18203309692671,730.566999999999,3.1620362432773
+"319",319,883.904,885.526,"yeah, this is more painful than ticks!","yeah this is more painful than ticks",7,2791,15,1.62199999999996,4.31565967940825,732.188999999999,3.16152528501633
+"320",320,885.614,888.317,"so, the parcel holder requests the reading of the citation be waived?","so the parcel holder requests the reading of the citation be waived",12,2803,15,2.70299999999997,4.43951165371813,734.891999999999,3.16100600321084
+"321",321,888.389,891.409,"waive it. waive it. just tell me what the hell is wrong with my greenhouse.","waive it waive it just tell me what the hell is wrong with my greenhouse",15,2818,15,3.01999999999998,4.96688741721857,737.911999999999,3.16192363474097
+"322",322,891.502,893.228,"it's built too close to the edge of your property.","its built too close to the edge of your property",10,2828,15,1.726,5.79374275782156,739.637999999999,3.1640327886844
+"323",323,893.305,895.445,"it's miles away from the edge of my property.","its miles away from the edge of my property",9,2837,15,2.1400000000001,4.20560747663532,741.777999999999,3.16615011178595
+"324",324,895.531,897.554,"it's 91/2 feet from the edge of your property.","its 912 feet from the edge of your property",9,2846,15,2.02300000000002,4.44883835887291,743.800999999999,3.16847519866155
+"325",325,897.642,898.354,"exactly.","exactly",1,2847,15,0.711999999999989,1.40449438202249,744.512999999999,3.16995154706895
+"326",326,898.45,902.592,"according to town codes, no new structure can come within 10 feet of the edge of your property.","according to town codes no new structure can come within 10 feet of the edge of your property",18,2865,16,4.14199999999994,4.34572670207636,748.654999999999,3.17093101228115
+"327",327,902.721,904.103,"oh, that's a technicality.","oh thats a technicality",4,2869,16,1.38199999999995,2.89435600578882,750.036999999999,3.17139142693229
+"328",328,904.272,905.956,"no, that's the law.","no thats the law",4,2873,16,1.68399999999997,2.37529691211406,751.720999999999,3.17154538231514
+"329",329,906.053,909.592,"and as town selectman, it's up to me to see that you abide by it.","and as town selectman its up to me to see that you abide by it",15,2888,16,3.53899999999999,4.23848544786664,755.259999999999,3.17132031096689
+"330",330,909.735,911.308,"unbelievable!","unbelievable",1,2889,16,1.57299999999998,0.63572790845519,756.832999999999,3.17132830943728
+"331",331,911.414,914.199,"there's a simple solution, if you want to hear it.","theres a simple solution if you want to hear it",10,2899,16,2.78499999999997,3.59066427289053,759.617999999999,3.17097549983314
+"332",332,914.302,915.27,"i do, yes.","i do yes",3,2902,16,0.967999999999961,3.09917355371913,760.585999999999,3.17067774621454
+"333",333,915.388,917.409,"just move it over six inches.","just move it over six inches",6,2908,16,2.02099999999996,2.96882731321134,762.606999999999,3.17129922359594
+"334",334,917.734,920.599,"oh, well, you should have just said that before.","oh well you should have just said that before",9,2917,16,2.86500000000001,3.14136125654449,765.471999999999,3.17168055731647
+"335",335,920.788,921.681,"perhaps i should have.","perhaps i should have",4,2921,16,0.893000000000029,4.47928331466951,766.364999999999,3.17257374023115
+"336",336,921.787,923.466,"just move the greenhouse over six inches?","just move the greenhouse over six inches",7,2928,16,1.67899999999997,4.16914830256111,768.043999999999,3.17368096513745
+"337",337,923.569,924.193,"that's right.","thats right",2,2930,16,0.624000000000024,3.20512820512808,768.667999999999,3.17516077747222
+"338",338,924.277,926.529,"good thing i built it on wheels so i could just scooch it over.","good thing i built it on wheels so i could just scooch it over",14,2944,16,2.25199999999995,6.21669626998237,770.919999999999,3.176880068104
+"339",339,926.698,929.263,"- oh, it's on wheels?
+- no, it's not on wheels!"," oh its on wheels  no its not on wheels",10,2954,16,2.56500000000005,3.89863547758276,773.484999999999,3.17833283759274
+"340",340,929.335,931.081,"because wheels would have been handy.","because wheels would have been handy",6,2960,16,1.74599999999998,3.43642611683853,775.230999999999,3.17985966743293
+"341",341,931.156,934.587,"i would have to tear it down to move it over six inches, taylor!","i would have to tear it down to move it over six inches taylor",14,2974,16,3.43100000000004,4.08044301952779,778.661999999999,3.18170544391062
+"342",342,934.701,937.388,"hmmm. too bad you didn't check with me before you built it.","hmmm too bad you didnt check with me before you built it",12,2986,16,2.68700000000001,4.46594715295867,781.348999999999,3.18410826013477
+"343",343,937.444,938.817,"could have saved you some heartache.","could have saved you some heartache",6,2992,16,1.37300000000005,4.36999271667865,782.721999999999,3.18574578270323
+"344",344,939.868,941.53,"okay, that's not english, hon.","okay thats not english hon",5,2997,16,1.66199999999992,3.00842358604106,784.383999999999,3.18752176426366
+"345",345,941.997,945.524,"- come on, taylor. this is ridiculous.
+- this issue is not open for debate."," come on taylor this is ridiculous  this issue is not open for debate",14,3011,16,3.52700000000004,3.96937907570168,787.910999999999,3.18950536133148
+"346",346,945.585,947.91,"this is a nice man who is growing some very nice tomatoes,","this is a nice man who is growing some very nice tomatoes",12,3023,16,2.32499999999993,5.1612903225808,790.235999999999,3.19123623376285
+"347",347,947.986,952.616,"and you just need to oil your knees and go see the wizard and get a heart and drop this!","and you just need to oil your knees and go see the wizard and get a heart and drop this",20,3043,16,4.63,4.31965442764579,794.865999999999,3.19230051912215
+"348",348,952.702,956.22,"what is this, lorelai - lingering resentment over the parking space issue?","what is this lorelai  lingering resentment over the parking space issue",11,3054,16,3.51800000000003,3.12677657760088,798.383999999999,3.19363018237497
+"349",349,956.302,959.45,"well come on, you rejected it because i left out my middle name.","well come on you rejected it because i left out my middle name",13,3067,16,3.14800000000002,4.12960609911051,801.531999999999,3.19566592654631
+"350",350,959.543,961.257,"how many other lorelai gilmores do you know?","how many other lorelai gilmores do you know",8,3075,17,1.71399999999994,4.66744457409584,803.245999999999,3.19768674478411
+"351",351,961.335,962.349,"well, there's your daughter.","well theres your daughter",4,3079,17,1.01400000000001,3.94477317554237,804.259999999999,3.19933558833925
+"352",352,963.075,964.929,"okay. so you know two.","okay so you know two",5,3084,17,1.85399999999993,2.69687162891057,806.113999999999,3.2003569221842
+"353",353,965.036,967.101,"bet you can't name a third, unless you knew my grandma.","bet you cant name a third unless you knew my grandma",11,3095,17,2.06500000000005,5.32687651331705,808.178999999999,3.20137610122618
+"354",354,967.182,968.948,"i think it's about time to adjourn this meeting.","i think its about time to adjourn this meeting",9,3104,17,1.76599999999996,5.09626274065696,809.944999999999,3.20201147230835
+"355",355,969.087,970.766,"oh, we're not done with this, taylor!","oh were not done with this taylor",7,3111,17,1.67899999999997,4.16914830256111,811.623999999999,3.20247020025458
+"356",356,970.818,971.734,"i think we are.","i think we are",4,3115,17,0.916000000000054,4.36681222707398,812.539999999999,3.20317766940969
+"357",357,971.918,973.296,"don't bang that gavel!","dont bang that gavel",4,3119,17,1.37800000000004,2.90275761973866,813.917999999999,3.20417371369958
+"358",358,973.418,975.338,"your issue is not with me.","your issue is not with me",6,3125,17,1.91999999999996,3.12500000000007,815.837999999999,3.20443148487159
+"359",359,975.472,978.777,"i am merely the humble vessel for the municipal code.","i am merely the humble vessel for the municipal code",10,3135,17,3.30500000000006,3.02571860816938,819.142999999999,3.20407952275151
+"360",360,978.892,980.795,"maybe it's time for a different vessel.","maybe its time for a different vessel",7,3142,17,1.90299999999991,3.67840252233334,821.045999999999,3.20392665525006
+"361",361,980.965,982.368,"- where's he going with this?
+- not sure."," wheres he going with this  not sure",8,3150,17,1.40300000000002,5.70206699928716,822.448999999999,3.2035751970002
+"362",362,982.464,983.453,"a different vessel?","a different vessel",3,3153,17,0.989000000000033,3.03336703741143,823.437999999999,3.20330253901149
+"363",363,983.52,986.617,"that's right. a different vessel. i'm running.","thats right a different vessel im running",7,3160,17,3.09699999999998,2.26025185663547,826.534999999999,3.20286178174959
+"364",364,987.043,988.139,"for what?","for what",2,3162,17,1.096,1.82481751824817,827.630999999999,3.20277851378607
+"365",365,988.262,990.273,"for whatever it is you are. what are you again?","for whatever it is you are what are you again",10,3172,17,2.01100000000008,4.97265042267509,829.641999999999,3.2025640152933
+"366",366,990.392,991.226,"town selectman.","town selectman",2,3174,17,0.833999999999946,2.39808153477234,830.475999999999,3.2012640822
+"367",367,991.313,992.864,"i'm running for town selectman.","im running for town selectman",5,3179,17,1.55100000000004,3.22372662798185,832.026999999999,3.2000821305328
+"368",368,993.622,996.684,"- nobody ever runs against taylor.
+- he's our papa doc."," nobody ever runs against taylor  hes our papa doc",10,3189,17,3.06200000000001,3.26583932070541,835.088999999999,3.19958841569061
+"369",369,996.802,999.955,"- hon, shouldn't we maybe talk about this?
+- well, i accept the challenge."," hon shouldnt we maybe talk about this  well i accept the challenge",13,3202,17,3.15300000000002,4.12305740564539,838.241999999999,3.19929158402664
+"370",370,1000.048,1002.693,"and i look forward to a lively race.","and i look forward to a lively race",8,3210,17,2.64499999999998,3.02457466918717,840.886999999999,3.19817439339128
+"371",371,1003.274,1008.286,"competition is the whetstone that sharpens the blade of democracy.","competition is the whetstone that sharpens the blade of democracy",10,3220,17,5.01200000000006,1.99521149241817,845.898999999999,3.19773544678862
+"372",372,1008.843,1011.198,"- meeting adjourned.
+- whatever you need, friend, i'm with you."," meeting adjourned  whatever you need friend im with you",10,3230,17,2.35500000000002,4.24628450106154,848.253999999999,3.19748069134941
+"373",373,1011.26,1012.531,"- i need your vote.
+- you got it."," i need your vote  you got it",8,3238,17,1.27099999999996,6.29425649095221,849.524999999999,3.19750630953735
+"374",374,1012.93,1015.644,"jackson belleville, running for selectman. i need your vote.","jackson belleville running for selectman i need your vote",9,3247,17,2.71400000000006,3.31613854089897,852.238999999999,3.19746193193506
+"375",375,1016.796,1019.115,"jackson belleville - that's with four ""l's"".","jackson belleville  thats with four ls",6,3253,17,2.31899999999996,2.58732212160418,854.557999999999,3.19499574274193
+"376",376,1019.166,1021.67,"- i know. we went to high school together.
+- i still need your vote!"," i know we went to high school together  i still need your vote",14,3267,18,2.50400000000002,5.591054313099,857.061999999999,3.19333894186774
+"377",377,1021.717,1025.224,"we're gonna need buttons and balloons and a slogan. how about something like -","were gonna need buttons and balloons and a slogan how about something like ",13,3280,18,3.50699999999995,3.70687197034508,860.568999999999,3.19156935905381
+"378",378,1025.279,1027.543,"i don't know - ""taylor sucks like a tick""?","i dont know  taylor sucks like a tick",8,3288,18,2.2639999999999,3.5335689045938,862.832999999999,3.18933851299223
+"379",379,1027.824,1029.453,"don't worry. first blurb. we'll work it out.","dont worry first blurb well work it out",8,3296,18,1.62899999999991,4.91098833640299,864.461999999999,3.18673011371743
+"380",380,1037.287,1037.864,"hey.","hey",1,3297,18,0.576999999999998,1.73310225303293,865.038999999999,3.18439425154131
+"381",381,1037.992,1039.355,"wow. you made good time.","wow you made good time",5,3302,18,1.36300000000006,3.66837857666896,866.401999999999,3.1811883380902
+"382",382,1039.432,1040.127,"no traffic.","no traffic",2,3304,18,0.694999999999936,2.87769784172688,867.096999999999,3.17779431518509
+"383",383,1040.711,1041.372,"come on in.","come on in",3,3307,18,0.661000000000058,4.53857791225376,867.757999999999,3.17421046644114
+"384",384,1043.76,1044.813,"your mom got a new plant.","your mom got a new plant",6,3313,18,1.05300000000011,5.6980056980051,868.810999999999,3.17053845071024
+"385",385,1045.315,1045.879,"yeah.","yeah",1,3314,18,0.563999999999851,1.77304964539054,869.374999999999,3.16892395077768
+"386",386,1046.446,1048.443,"- rory!
+- oh, hi, clara."," rory  oh hi clara",5,3319,18,1.99700000000007,2.50375563345009,871.371999999999,3.16661752752136
+"387",387,1048.797,1051.381,"i'm so glad you're back. i never liked lindsay.","im so glad youre back i never liked lindsay",9,3328,18,2.58400000000006,3.48297213622283,873.955999999999,3.16423537179397
+"388",388,1051.475,1052.14,"clara!","clara",1,3329,18,0.665000000000191,1.50375939849581,874.620999999999,3.16183727050494
+"389",389,1052.438,1054.351,"- i wouldn't say that to lindsay.
+- go."," i wouldnt say that to lindsay  go",8,3337,18,1.91300000000001,4.18191322530055,876.533999999999,3.15983053515286
+"390",390,1055.528,1057.72,"dean! was someone at the door?","dean was someone at the door",6,3343,18,2.19200000000001,2.73722627737225,878.725999999999,3.15727602195565
+"391",391,1059.922,1062.492,"- rory!
+- oh, hi, may. how you doing?"," rory  oh hi may how you doing",8,3351,18,2.56999999999994,3.11284046692615,881.295999999999,3.15518669083357
+"392",392,1062.589,1064.797,"- oh, fine. can't complain.
+- good."," oh fine cant complain  good",6,3357,18,2.20800000000008,2.71739130434772,883.503999999999,3.15308195323329
+"393",393,1065.472,1067.699,"dean's father's in the basement. he says hello.","deans fathers in the basement he says hello",8,3365,18,2.22700000000009,3.59227660529846,885.731,3.15118909498136
+"394",394,1068.001,1068.923,"oh, hello back.","oh hello back",3,3368,18,0.922000000000025,3.2537960954446,886.653,3.14896632062758
+"395",395,1071.196,1073.787,"- i like the... ficus.
+- thank you."," i like the ficus  thank you",7,3375,18,2.59100000000012,2.70165959089142,889.244,3.14611910199278
+"396",396,1074.013,1077.986,"we're done with dinner. but if you're hungry, i could scrounge up something to zap.","were done with dinner but if youre hungry i could scrounge up something to zap",15,3390,18,3.97300000000018,3.77548452051329,893.217,3.14388185086554
+"397",397,1078.181,1079.409,"i'm fine, thank you.","im fine thank you",4,3394,18,1.22800000000007,3.25732899022784,894.445,3.14162578441012
+"398",398,1079.589,1081.365,"- we're gonna go upstairs.
+- all right."," were gonna go upstairs  all right",7,3401,19,1.77600000000007,3.94144144144129,896.221,3.13917247919679
+"399",399,1081.632,1083.127,"- bye.
+- bye."," bye  bye",3,3404,19,1.49499999999989,2.00668896321085,897.716,3.13610331056739
+"400",400,1087.052,1088.088,"it's your old room.","its your old room",4,3408,19,1.03600000000006,3.86100386100364,898.752,3.13394252104893
+"401",401,1088.61,1089.562,"in all its glory.","in all its glory",4,3412,19,0.951999999999998,4.20168067226892,899.704,3.12999949750688
+"402",402,1089.942,1091.001,"taking up dressmaking?","taking up dressmaking",3,3415,19,1.05899999999997,2.83286118980178,900.763,3.12542562738676
+"403",403,1092.172,1093.024,"yeah, i am.","yeah i am",3,3418,19,0.851999999999862,3.52112676056395,901.615,3.1206521118745
+"404",404,1095.163,1095.783,"vroom.","vroom",1,3419,19,0.619999999999891,1.61290322580674,902.235,3.1165431517554
+"405",405,1096.767,1098.84,"i thought they'd gotten rid of all that stuff by now.","i thought theyd gotten rid of all that stuff by now",11,3430,19,2.07299999999987,5.30631934394632,904.308,3.11331259123991
+"406",406,1104.145,1104.877,"sorry.","sorry",1,3431,19,0.731999999999971,1.36612021857929,905.04,3.11001811020417
+"407",407,1107.064,1108.897,"- what?!
+- it's too loud."," what  its too loud",5,3436,19,1.83299999999986,2.72776868521571,906.872999999999,3.10686556085584
+"408",408,1109.075,1110.299,"no, it isn't.","no it isnt",3,3439,19,1.22399999999993,2.450980392157,908.096999999999,3.10398427132589
+"409",409,1110.412,1112.629,"turn it down or i'm gonna come over and do it myself.","turn it down or im gonna come over and do it myself",12,3451,19,2.21699999999987,5.41271989174592,910.313999999999,3.10187363107985
+"410",410,1113.739,1115.558,"you should really get her some ramones.","you should really get her some ramones",7,3458,19,1.81899999999996,3.84826827927441,912.132999999999,3.09918845572715
+"411",411,1115.66,1118.251,"hey, um... i'm sorry about my mom.","hey um im sorry about my mom",7,3465,19,2.59099999999989,2.70165959089166,914.723999999999,3.09655048188329
+"412",412,1118.573,1121.787,"this whole thing's been kind of a surprise to my parents.","this whole things been kind of a surprise to my parents",11,3476,19,3.21399999999994,3.42252644679533,917.937999999999,3.09472539647586
+"413",413,1121.886,1124.168,"i mean, dad's hardly left the basement.","i mean dads hardly left the basement",7,3483,19,2.28199999999993,3.06748466257679,920.219999999999,3.09124019894667
+"414",414,1124.343,1126.479,"that's okay. it's gonna take time for everybody.","thats okay its gonna take time for everybody",8,3491,19,2.13599999999997,3.74531835205998,922.355999999999,3.08715483506816
+"415",415,1128.106,1130.025,"- what?!
+- turn it back down!"," what  turn it back down",6,3497,19,1.9190000000001,3.12662845231876,924.274999999999,3.08333879887291
+"416",416,1135.792,1137.728,"the college student and the divorc<e9>.","the college student and the divorce9",6,3503,19,1.93600000000015,3.09917355371877,926.210999999999,3.07947885472871
+"417",417,1137.83,1139.166,"we'd make a good adult film.","wed make a good adult film",6,3509,19,1.33600000000001,4.49101796407181,927.546999999999,3.07595104264712
+"418",418,1145.381,1146.118,"dean?","dean",1,3510,20,0.736999999999853,1.35685210312103,928.283999999999,3.07267604639285
+"419",419,1146.487,1147.409,"what, mom?","what mom",2,3512,20,0.922000000000025,2.16919739696306,929.205999999999,3.06915952843008
+"420",420,1147.481,1149.713,"just wondering how late rory's gonna be here.","just wondering how late rorys gonna be here",8,3520,20,2.23199999999997,3.58422939068105,931.437999999999,3.06615403833164
+"421",421,1149.836,1151.638,"i don't know exactly.","i dont know exactly",4,3524,20,1.80199999999991,2.21975582685916,933.239999999999,3.06482261900225
+"422",422,1151.705,1154.945,"because i want to set the alarm before dad and i go to bed.","because i want to set the alarm before dad and i go to bed",14,3538,20,3.24000000000001,4.32098765432098,936.479999999999,3.06327426379774
+"423",423,1155.027,1157.055,"if the front door opens, it'll set it off.","if the front door opens itll set it off",9,3547,20,2.02800000000002,4.43786982248516,938.507999999999,3.06360713382405
+"424",424,1157.219,1160.623,"uh, i'll turn it on when she leaves, mom.","uh ill turn it on when she leaves mom",9,3556,20,3.404,2.64394829612221,941.911999999999,3.06400387661836
+"425",425,1160.736,1165.907,"okay. it's just that that will make the alarm panel in the bedroom chirp. that wakes us.","okay its just that that will make the alarm panel in the bedroom chirp that wakes us",17,3573,20,5.17099999999982,3.28756526783999,947.082999999999,3.0641029455107
+"426",426,1165.984,1168.765,"well, clara's stereo is gonna keep you awake anyways, mom.","well claras stereo is gonna keep you awake anyways mom",10,3583,20,2.78100000000018,3.59582883854706,949.863999999999,3.06188719467745
+"427",427,1168.826,1170.371,"i turned it down.","i turned it down",4,3587,20,1.54500000000007,2.58899676375392,951.408999999999,3.05939948075206
+"428",428,1170.603,1173.577,"just as long as rory doesn't stay too late, okay, dean?","just as long as rory doesnt stay too late okay dean",11,3598,20,2.97399999999993,3.69872225958314,954.382999999999,3.05657401132129
+"429",429,1173.659,1174.637,"okay, mom.","okay mom",2,3600,20,0.977999999999838,2.04498977505146,955.360999999999,3.05373355073832
+"430",430,1174.991,1175.789,"okay.","okay",1,3601,20,0.798000000000002,1.2531328320802,956.158999999999,3.05069599687642
+"431",431,1186.137,1187.36,"we could go to a movie.","we could go to a movie",6,3607,20,1.22299999999996,4.90596892886363,957.381999999999,3.0469641269276
+"432",432,1187.473,1190.73,"i'd love that, but it's, like, 8:30 already. i have classes.","id love that but its like 830 already i have classes",11,3618,20,3.25700000000006,3.37734111145219,960.638999999999,3.04298591262084
+"433",433,1190.861,1191.524,"right.","right",1,3619,20,0.662999999999784,1.50829562594318,961.301999999999,3.03627244290702
+"434",434,1192.665,1193.556,"and you're not hungry?","and youre not hungry",4,3623,20,0.891000000000076,4.48933782267077,962.192999999999,3.0295822714348
+"435",435,1193.981,1194.717,"not really.","not really",2,3625,20,0.736000000000104,2.71739130434744,962.928999999999,3.02186341650081
+"436",436,1197.155,1198.358,"want to watch tv?","want to watch tv",4,3629,20,1.20299999999997,3.32502078137995,964.131999999999,3.01662273967009
+"437",437,1199.192,1199.977,"sure.","sure",1,3630,20,0.785000000000082,1.27388535031834,964.916999999999,3.01057023369659
+"438",438,1211.594,1213.19,"it takes a few minutes to warm up.","it takes a few minutes to warm up",8,3638,21,1.596,5.01253132832079,966.512999999999,3.00487054678093
+"439",439,1213.56,1214.527,"oh, no problem.","oh no problem",3,3641,21,0.967000000000098,3.10237849017549,967.479999999999,2.99962281313984
+"440",440,1221.088,1223.272,"so good to meet you. and see you at the polls!","so good to meet you and see you at the polls",11,3652,21,2.18399999999997,5.03663003663011,969.663999999999,2.99483773547909
+"441",441,1223.784,1226.626,"hey, aren't you two handy with a knife and fork.","hey arent you two handy with a knife and fork",10,3662,21,2.84199999999987,3.51864883884604,972.505999999999,2.99086022067469
+"442",442,1227.431,1233.4,"cute kids. yeah! there you go. hi. good morning. go, jackson.","cute kids yeah there you go hi good morning go jackson",11,3673,21,5.96900000000005,1.84285474953927,978.474999999999,2.98697572765798
+"443",443,1233.61,1237.128,"well, when it comes to noise pollution, jackson belleville hears you loud and clear.","well when it comes to noise pollution jackson belleville hears you loud and clear",14,3687,21,3.51800000000003,3.97953382603749,981.992999999999,2.98564956470871
+"444",444,1237.24,1241.372,"that's right. thank you so much for your time, and we'll see you at the polls.","thats right thank you so much for your time and well see you at the polls",16,3703,21,4.13200000000006,3.87221684414321,986.124999999999,2.98454042770056
+"445",445,1241.597,1245.002,"okay, i think i can make it through the g's before my phone gives out.","okay i think i can make it through the gs before my phone gives out",15,3718,21,3.40499999999997,4.40528634361237,989.529999999999,2.98492731971465
+"446",446,1245.063,1246.43,"- i got mine right here.
+- great."," i got mine right here  great",7,3725,21,1.36699999999996,5.12070226773972,990.896999999999,2.98539568002345
+"447",447,1247.464,1250.748,"ladies, i offer myself up to you and your cause.","ladies i offer myself up to you and your cause",10,3735,21,3.28400000000011,3.04506699147371,994.180999999999,2.98661529703298
+"448",448,1251.023,1251.74,"what's this?","whats this",2,3737,21,0.717000000000098,2.78940027893965,994.897999999999,2.98776529259428
+"449",449,1251.925,1254.192,"i took it upon myself to poll the town,","i took it upon myself to poll the town",9,3746,21,2.26700000000005,3.97000441111592,997.164999999999,2.98853668753682
+"450",450,1254.253,1256.814,"and i think you're gonna be pretty happy with the results.","and i think youre gonna be pretty happy with the results",11,3757,21,2.56100000000015,4.29519718859795,999.725999999999,2.98892404219841
+"451",451,1256.877,1259.486,"- we are?
+- jackson is solidly in the lead."," we are  jackson is solidly in the lead",9,3766,21,2.60900000000015,3.44959754695266,1002.335,2.98893731325817
+"452",452,1259.59,1261.478,"already? we just started bugging people.","already we just started bugging people",6,3772,22,1.88800000000015,3.17796610169467,1004.223,2.98942773233331
+"453",453,1261.545,1263.792,"well, i modeled my poll after the gallup poll.","well i modeled my poll after the gallup poll",9,3781,22,2.24699999999984,4.00534045393886,1006.47,2.98991241723969
+"454",454,1263.911,1267.929,"the gallup poll uses a sample of 1,005 voters to represent","the gallup poll uses a sample of 1005 voters to represent",11,3792,22,4.01800000000003,2.73768043802885,1010.488,2.99036881652511
+"455",455,1268.064,1270.812,"the 280 million people of the united states.","the 280 million people of the united states",8,3800,22,2.74799999999982,2.91120815138301,1013.236,2.99077400124861
+"456",456,1270.926,1276.823,"using that logic, the correct sampling size of the town of stars hollow would be 0.002.","using that logic the correct sampling size of the town of stars hollow would be 0002",16,3816,22,5.89700000000016,2.71324402238419,1019.133,2.99178851750728
+"457",457,1276.885,1280.458,"rounding that up means one person needs to be polled, so i picked me.","rounding that up means one person needs to be polled so i picked me",14,3830,22,3.57300000000009,3.91827595857812,1022.706,2.99280500067399
+"458",458,1280.689,1281.815,"you polled yourself?","you polled yourself",3,3833,22,1.12599999999998,2.66429840142102,1023.832,2.9936076540573
+"459",459,1281.928,1284.371,"i was right there. seemed like a perfect opportunity.","i was right there seemed like a perfect opportunity",9,3842,22,2.44299999999998,3.68399508800657,1026.275,2.99468138942436
+"460",460,1284.451,1288.186,"okay. well, first of all, thank you for dressing up to talk to yourself.","okay well first of all thank you for dressing up to talk to yourself",14,3856,22,3.7349999999999,3.74832663989301,1030.01,2.99596512264245
+"461",461,1288.245,1292.224,"and secondly, i think you're gonna need to poll more people to get a better sense of where we really are.","and secondly i think youre gonna need to poll more people to get a better sense of where we really are",21,3877,22,3.97900000000004,5.27770796682578,1033.989,2.99727854149665
+"462",462,1292.286,1294.867,"oh. okay, i'll see what i can do.","oh okay ill see what i can do",8,3885,22,2.5809999999999,3.09957380860143,1036.57,2.99879509070357
+"463",463,1294.928,1295.746,"thanks, kirk.","thanks kirk",2,3887,22,0.818000000000211,2.44498777506049,1037.388,3.00030981722855
+"464",464,1297.528,1299.709,"you did notice that the back of his pants are shorter than the front?","you did notice that the back of his pants are shorter than the front",14,3901,22,2.18100000000004,6.4190738193488,1039.569,3.00211486398153
+"465",465,1299.791,1301.343,"- how does that happen?
+- that's kirk."," how does that happen  thats kirk",7,3908,22,1.55200000000013,4.51030927835012,1041.121,3.00373882241994
+"466",466,1301.804,1302.884,"it certainly is.","it certainly is",3,3911,22,1.07999999999993,2.77777777777797,1042.201,3.00490086154389
+"467",467,1302.95,1306.597,"hey, excuse me, but my customers aren't getting in the way of your thing here, are they?","hey excuse me but my customers arent getting in the way of your thing here are they",17,3928,22,3.64699999999993,4.66136550589534,1045.848,3.00620384250654
+"468",468,1306.653,1308.295,"uh, no, they're fine.","uh no theyre fine",4,3932,22,1.64200000000005,2.43605359317897,1047.49,3.00781899266597
+"469",469,1308.361,1311.558,"good. 'cause i can kick them out or close down for you, if you like.","good cause i can kick them out or close down for you if you like",15,3947,22,3.19699999999989,4.69189865498921,1050.687,3.00968655764429
+"470",470,1311.64,1313.133,"that's sweet, but we're good.","thats sweet but were good",5,3952,22,1.49299999999994,3.34896182183537,1052.18,3.01128734349509
+"471",471,1313.216,1315.792,"so you'll tell me if my business is in your way?","so youll tell me if my business is in your way",11,3963,22,2.57600000000002,4.27018633540369,1054.756,3.01343411127328
+"472",472,1315.858,1317.144,"you'll be the first to know.","youll be the first to know",6,3969,22,1.28600000000006,4.66562986003089,1056.042,3.01506783301473
+"473",473,1317.292,1320.969,"ooh, lane. great. do you think your band could play at jackson's rally next week?","ooh lane great do you think your band could play at jacksons rally next week",15,3984,23,3.67700000000013,4.07941256459055,1059.719,3.01667374243144
+"474",474,1321.056,1324.121,"it's not a lot of cash, but it's a little something and it's primetime placement.","its not a lot of cash but its a little something and its primetime placement",15,3999,23,3.06500000000005,4.89396411092977,1062.784,3.01817598355872
+"475",475,1324.199,1324.916,"absolutely.","absolutely",1,4000,23,0.716999999999871,1.39470013947027,1063.501,3.02011671394214
+"476",476,1325.003,1327.04,"great. jackson picked a song, so i'll get info that to you.","great jackson picked a song so ill get info that to you",12,4012,23,2.03700000000003,5.89101620029445,1065.538,3.0220154985133
+"477",477,1327.112,1327.987,"cool. thanks.","cool thanks",2,4014,23,0.875,2.28571428571429,1066.413,3.0237527036647
+"478",478,1328.808,1331.459,"okay, maybe you were missing my subtle sarcasm there","okay maybe you were missing my subtle sarcasm there",9,4023,23,2.65100000000007,3.39494530365891,1069.064,3.02545452633758
+"479",479,1331.521,1333.148,"when i mentioned my customers being in your way?","when i mentioned my customers being in your way",9,4032,23,1.62699999999995,5.53165334972358,1070.691,3.0268373900349
+"480",480,1333.221,1336.083,"- oh, no. i didn't miss it at all.
+- get your war room outta here."," oh no i didnt miss it at all  get your war room outta here",15,4047,23,2.86200000000008,5.24109014675038,1073.553,3.02852880847012
+"481",481,1336.169,1338.893,"hey, this is for a good cause. taylor bugs you, too.","hey this is for a good cause taylor bugs you too",11,4058,23,2.72399999999993,4.03817914831141,1076.277,3.03009785210847
+"482",482,1338.966,1340.28,"yes, he bugs me.","yes he bugs me",4,4062,23,1.31400000000008,3.04414003044122,1077.591,3.03199066943541
+"483",483,1340.357,1342.901,"okay then. we're trying to get rid of your little annoyance.","okay then were trying to get rid of your little annoyance",11,4073,23,2.5440000000001,4.32389937106902,1080.135,3.03440615537412
+"484",484,1342.968,1344.454,"by becoming my new little annoyance?","by becoming my new little annoyance",6,4079,23,1.48599999999988,4.03768506056561,1081.621,3.03647956079198
+"485",485,1344.566,1348.826,"oh, hey, the night of the rally, we're gonna need a sort of backstage gathering area.","oh hey the night of the rally were gonna need a sort of backstage gathering area",16,4095,23,4.25999999999999,3.75586854460095,1085.881,3.038143267
+"486",486,1348.894,1351.12,"- you cannot gather here.
+- but it's right across from the..."," you cannot gather here  but its right across from the",11,4106,23,2.22599999999989,4.94159928122218,1088.107,3.03988478352454
+"487",487,1351.182,1353.587,"- you cannot gather here.
+- see, the stage is right over..."," you cannot gather here  see the stage is right over",11,4117,23,2.40499999999997,4.57380457380463,1090.512,3.04155247001127
+"488",488,1353.665,1355.703,"- you cannot gather here.
+- do you like my hair like this?"," you cannot gather here  do you like my hair like this",12,4129,23,2.03800000000001,5.88812561334639,1092.55,3.0418637980145
+"489",489,1355.774,1357.895,"yes, and you cannot gather here.","yes and you cannot gather here",6,4135,23,2.12100000000009,2.8288543140027,1094.671,3.04138176864944
+"490",490,1357.949,1360.305,"wow. sleeping with you is getting me nothing.","wow sleeping with you is getting me nothing",8,4143,23,2.35599999999999,3.39558573853991,1097.027,3.04054249414892
+"491",491,1360.397,1363.065,"just gather your crap up, get it out. i need the tables.","just gather your crap up get it out i need the tables",12,4155,23,2.66800000000012,4.49775112443758,1099.695,3.03905511408538
+"492",492,1364.16,1365.104,"quick, give me the baby.","quick give me the baby",5,4160,23,0.94399999999996,5.29661016949175,1100.639,3.0373389884983
+"493",493,1370.592,1371.826,"is he gonna sell it?","is he gonna sell it",5,4165,23,1.23399999999992,4.05186385737464,1101.873,3.03511023370288
+"494",494,1374.35,1376.305,"oh. that's it, davey.","oh thats it davey",4,4169,23,1.95500000000015,2.04603580562644,1103.828,3.03287665880588
+"495",495,1376.752,1380.31,"work it, work it. do the clapping, do the clapping.","work it work it do the clapping do the clapping",10,4179,24,3.55799999999999,2.81056773468241,1107.386,3.030480311907
+"496",496,1381.097,1383.889,"hmm. very ""manchurian candidate"" of you.","hmm very manchurian candidate of you",6,4185,24,2.79199999999992,2.14899713467055,1110.178,3.02780728829982
+"497",497,1384.354,1387.058,"free ice cream. come and get your free ice cream,","free ice cream come and get your free ice cream",10,4195,24,2.70399999999995,3.69822485207107,1112.882,3.0253810857482
+"498",498,1387.145,1391.496,"compliments of taylor doose of ""taylor's old-fashioned soda shoppe and candy store"".","compliments of taylor doose of taylors oldfashioned soda shoppe and candy store",12,4207,24,4.35100000000011,2.75798666973102,1117.233,3.02414819197637
+"499",499,1392.019,1396.048,"no need to rush, folks. there's plenty of free, fresh, handmade ice cream","no need to rush folks theres plenty of free fresh handmade ice cream",13,4220,24,4.029,3.22660709853562,1121.262,3.0237410924628
+"500",500,1396.095,1399.223,"for every single registered voter in stars hollow.","for every single registered voter in stars hollow",8,4228,24,3.12799999999993,2.55754475703331,1124.39,3.0236182611557
+"501",501,1399.428,1400.938,"- how dirty.
+- i know."," how dirty  i know",5,4233,24,1.50999999999999,3.31125827814572,1125.9,3.024056288203
+"502",502,1401.245,1404.507,"all he needed were some lying swift boat captains to complete the ambush.","all he needed were some lying swift boat captains to complete the ambush",13,4246,24,3.26200000000017,3.98528510116472,1129.162,3.02451644351413
+"503",503,1404.563,1405.53,"now we're gonna lose.","now were gonna lose",4,4250,24,0.966999999999871,4.13650465356829,1130.129,3.02484416983673
+"504",504,1405.617,1409.231,"no, no, now - he may have the edge, but we've got the heart.","no no now  he may have the edge but weve got the heart",13,4263,24,3.61400000000003,3.59712230215824,1133.743,3.02532493873806
+"505",505,1409.313,1410.609,"who the hell cares about heart?","who the hell cares about heart",6,4269,24,1.29599999999982,4.62962962963027,1135.039,3.02594041471794
+"506",506,1410.698,1415.898,"we do, and people will. we just have to stay focused and do this one vote at a time.","we do and people will we just have to stay focused and do this one vote at a time",19,4288,24,5.19999999999982,3.65384615384628,1140.239,3.02645228704616
+"507",507,1416.289,1417.635,"who are you calling? ben affleck?","who are you calling ben affleck",6,4294,24,1.346,4.45765230312034,1141.585,3.02704164033732
+"508",508,1420.047,1422.038,"- oh, hello, my favorite daughter.
+- what do you need?"," oh hello my favorite daughter  what do you need",10,4304,24,1.99099999999999,5.02260170768462,1143.576,3.02765134417982
+"509",509,1422.1,1424.218,"- i need you to come home.
+- now?"," i need you to come home  now",8,4312,24,2.11800000000017,3.77714825306864,1145.694,3.02845015309542
+"510",510,1424.327,1426.103,"- no, tuesday.
+- what's on tuesday?"," no tuesday  whats on tuesday",6,4318,24,1.77600000000007,3.37837837837825,1147.47,3.0292838203254
+"511",511,1426.16,1429.626,"well, it's the town selectman elections, and we're desperate.","well its the town selectman elections and were desperate",9,4327,24,3.46599999999989,2.59665320253903,1150.936,3.02984787994762
+"512",512,1429.831,1431.817,"lane's band is playing, and i'll give you a button.","lanes band is playing and ill give you a button",10,4337,24,1.9860000000001,5.03524672708936,1152.922,3.03034898973413
+"513",513,1431.894,1433.066,"- i'll be there.
+- really?"," ill be there  really",5,4342,24,1.17200000000003,4.26621160409547,1154.094,3.03139601192267
+"514",514,1433.123,1434.863,"yeah. you know i'm a sucker for a good button.","yeah you know im a sucker for a good button",10,4352,24,1.74000000000001,5.74712643678158,1155.834,3.03230829575604
+"515",515,1434.925,1437.05,"- thanks, kid.
+- tell jackson i'm rooting for him."," thanks kid  tell jackson im rooting for him",9,4361,24,2.125,4.23529411764706,1157.959,3.03285491647431
+"516",516,1437.116,1440.951,"- i will. um, so, how's school?
+- so far, so good."," i will um so hows school  so far so good",11,4372,25,3.83500000000004,2.86831812255538,1161.794,3.03323555349382
+"517",517,1441.003,1441.991,"and how's paris?","and hows paris",3,4375,25,0.988000000000056,3.03643724696339,1162.782,3.03321431571923
+"518",518,1442.058,1445.452,"asher left her a 300-pound antique printing press, which she put in the common room.","asher left her a 300pound antique printing press which she put in the common room",15,4390,25,3.39400000000001,4.41956393635827,1166.176,3.03288310869889
+"519",519,1445.523,1446.942,"- so, same?
+- exactly."," so same  exactly",4,4394,25,1.4190000000001,2.81888653981658,1167.595,3.0325185375423
+"520",520,1446.988,1449.907,"great. okay. and, um...","great okay and um",4,4398,25,2.91899999999987,1.37033230558417,1170.514,3.03198997734074
+"521",521,1450.424,1451.919,"how's dean?","hows dean",2,4400,25,1.49500000000012,1.33779264214036,1172.009,3.03123863456811
+"522",522,1452.573,1453.378,"he's fine.","hes fine",2,4402,25,0.804999999999836,2.48447204968995,1172.814,3.03079838163023
+"523",523,1453.542,1455.45,"okay, well, good.","okay well good",3,4405,25,1.90800000000013,1.57232704402505,1174.722,3.02986956813594
+"524",524,1455.579,1457.386,"mom, i have to study. i'll see you tuesday, okay?","mom i have to study ill see you tuesday okay",10,4415,25,1.80700000000002,5.53403431101268,1176.529,3.0293361953407
+"525",525,1457.442,1458.703,"okay, see you tuesday.","okay see you tuesday",4,4419,25,1.26099999999997,3.17208564631253,1177.79,3.02948295745845
+"526",526,1459.736,1465.674,"okay, so rory's coming back to vote. so counting her, you, me, jackson, and kirk, that's five.","okay so rorys coming back to vote so counting her you me jackson and kirk thats five",17,4436,25,5.93799999999987,2.86291680700579,1183.728,3.03004462978308
+"527",527,1465.718,1467.852,"- why did you say ""how's dean?"" like that?
+- like that?"," why did you say hows dean like that  like that",11,4447,25,2.13400000000001,5.1546391752577,1185.862,3.03082731056193
+"528",528,1467.929,1469.372,"""how's dean?""","hows dean",2,4449,25,1.44299999999998,1.3860013860014,1187.305,3.03185531843614
+"529",529,1469.443,1470.93,"- i did say it like that, didn't i?
+- yep."," i did say it like that didnt i  yep",10,4459,25,1.48700000000008,6.72494956287792,1188.792,3.03231650208722
+"530",530,1471.036,1475.567,"i don't know. i think i'm trying so hard to make rory think i'm totally cool with the situation","i dont know i think im trying so hard to make rory think im totally cool with the situation",19,4478,25,4.53099999999995,4.19333480467893,1193.323,3.02910878532207
+"531",531,1475.613,1478.547,"that i end up sounding totally freaked out by the situation.","that i end up sounding totally freaked out by the situation",11,4489,25,2.93399999999997,3.7491479209271,1196.257,3.02628506466304
+"532",532,1478.604,1480.258,"you're totally cool with the situation?","youre totally cool with the situation",6,4495,25,1.654,3.62756952841597,1197.911,3.02307325988407
+"533",533,1480.341,1484.44,"well, i'm totally on my way to being totally cool with the situation.","well im totally on my way to being totally cool with the situation",13,4508,25,4.09900000000016,3.17150524518163,1202.01,3.01962976533295
+"534",534,1485.28,1488.46,"here. take him. he's politically useless to me.","here take him hes politically useless to me",8,4516,25,3.18000000000006,2.5157232704402,1205.19,3.01570036707132
+"535",535,1506.506,1507.677,"- oow!
+- sorry."," oow  sorry",3,4519,26,1.17099999999982,2.56191289496196,1206.361,3.01107707171284
+"536",536,1507.809,1509.16,"- oh, that's okay.
+- you sure?"," oh thats okay  you sure",6,4525,26,1.35100000000011,4.44115470022169,1207.712,3.00599386764857
+"537",537,1509.262,1511.27,"yeah. i'm good. just, um...","yeah im good just um",5,4530,26,2.00800000000004,2.4900398406374,1209.72,3.00123225634356
+"538",538,1513.285,1514.337,"- wait.
+- what?"," wait  what",3,4533,26,1.05199999999991,2.85171102661622,1210.772,2.99655129527094
+"539",539,1514.874,1515.647,"my hair.","my hair",2,4535,26,0.772999999999911,2.58732212160444,1211.545,2.99174799490352
+"540",540,1516.364,1520.144,"- okay. is that...
+- yeah, yeah. that's good."," okay is that  yeah yeah thats good",8,4543,26,3.77999999999997,2.11640211640213,1215.325,2.98883115931752
+"541",541,1522.183,1524.157,"- damn it.
+- let's just shift here."," damn it  lets just shift here",7,4550,26,1.97399999999993,3.54609929078026,1217.299,2.98527178632911
+"542",542,1524.203,1526.589,"- what are you doing?
+- i'm just trying to get your seat back."," what are you doing  im just trying to get your seat back",13,4563,26,2.38599999999997,5.44844928751055,1219.685,2.98159170125272
+"543",543,1526.646,1527.746,"oh, i can do that.","oh i can do that",5,4568,26,1.10000000000014,4.54545454545398,1220.785,2.97811058005968
+"544",544,1528.846,1534.507,"oh! see, good, okay. so i'll just get, like, up here, and then now...","oh see good okay so ill just get like up here and then now",14,4582,26,5.66100000000006,2.47306129659068,1226.446,2.97463436036542
+"545",545,1544.03,1545.066,"this isn't working great.","this isnt working great",4,4586,26,1.03600000000006,3.86100386100364,1227.482,2.97097087428297
+"546",546,1547.42,1548.217,"sorry.","sorry",1,4587,26,0.797000000000025,1.25470514429105,1228.279,2.96760129677229
+"547",547,1549.021,1549.645,"yeah.","yeah",1,4588,26,0.624000000000024,1.60256410256404,1228.903,2.96401195132106
+"548",548,1550.36,1551.083,"so...","so",1,4589,26,0.723000000000184,1.38312586445331,1229.626,2.96048456980152
+"549",549,1552.707,1553.751,"what do you want to do?","what do you want to do",6,4595,26,1.04399999999987,5.74712643678233,1230.67,2.95732023572868
+"550",550,1556.777,1557.642,"i don't know.","i dont know",3,4598,26,0.865000000000009,3.46820809248551,1231.535,2.95576846226806
+"551",551,1558.087,1562.563,"- we could try going to your house or...
+- no, my parents are there."," we could try going to your house or  no my parents are there",14,4612,27,4.47600000000011,3.12779267202852,1236.011,2.9543760470248
+"552",552,1562.731,1567.493,"right. we could go to luke's. he's dating my mom now, so i get seated right away.","right we could go to lukes hes dating my mom now so i get seated right away",17,4629,27,4.76199999999994,3.56992860142801,1240.773,2.95272951356101
+"553",553,1567.595,1568.998,"i don't want to go to luke's.","i dont want to go to lukes",7,4636,27,1.40300000000002,4.98930862437627,1242.176,2.95165561061348
+"554",554,1569.143,1571.252,"okay, then, i'm out. your turn.","okay then im out your turn",6,4642,27,2.10899999999992,2.84495021337137,1244.285,2.9508657614896
+"555",555,1572.777,1574.523,"maybe you should just take me home.","maybe you should just take me home",7,4649,27,1.74599999999987,4.00916380297854,1246.031,2.95089163991137
+"556",556,1576.183,1577.231,"oh, okay.","oh okay",2,4651,27,1.048,1.90839694656488,1247.079,2.95133949027046
+"557",557,1580.452,1583.785,"you know, lane's band is playing at jackson's rally, and i thought","you know lanes band is playing at jacksons rally and i thought",12,4663,27,3.33300000000008,3.60036003600351,1250.412,2.95209353465661
+"558",558,1583.894,1586.586,"maybe i'd come back to town to see it. maybe we could go together.","maybe id come back to town to see it maybe we could go together",14,4677,27,2.69200000000001,5.2005943536404,1253.104,2.95245656761664
+"559",559,1586.657,1589.104,"- no, i don't think so.
+- it would be fun."," no i dont think so  it would be fun",10,4687,27,2.44700000000012,4.08663669799735,1255.551,2.95248435618554
+"560",560,1589.161,1591.379,"- at the least, it could be very loud.
+- no, rory!"," at the least it could be very loud  no rory",11,4698,27,2.21799999999985,4.95942290351702,1257.769,2.95132193839326
+"561",561,1591.475,1594.363,"- i don't want to go parading our relationship all over town.
+- i didn't say..."," i dont want to go parading our relationship all over town  i didnt say",15,4713,27,2.88800000000015,5.19390581717425,1260.657,2.95043079856301
+"562",562,1594.419,1597.277,"i don't need to rub lindsay's nose in it any more than i already have, okay?","i dont need to rub lindsays nose in it any more than i already have okay",16,4729,27,2.85799999999995,5.59832050384895,1263.515,2.94980669239527
+"563",563,1597.866,1602.565,"i wasn't trying to rub lindsay's nose in anything. i was just...","i wasnt trying to rub lindsays nose in anything i was just",12,4741,27,4.69900000000007,2.55373483719937,1268.214,2.94872983332266
+"564",564,1604.931,1605.965,"i'll take you home.","ill take you home",4,4745,27,1.03399999999988,3.86847195357879,1269.248,2.94775165228196
+"565",565,1612.836,1613.728,"hello?","hello",1,4746,27,0.892000000000053,1.12107623318379,1270.14,2.94683109213709
+"566",566,1614.07,1615.346,"- rory?
+- yep."," rory  yep",3,4749,27,1.27600000000007,2.35109717868326,1271.416,2.94566714801953
+"567",567,1617.106,1619.825,"- hey. did i know you were coming home?
+- nope."," hey did i know you were coming home  nope",10,4759,27,2.71900000000005,3.6778227289444,1274.135,2.9439630350205
+"568",568,1620.727,1621.684,"that's a nice face.","thats a nice face",4,4763,28,0.95699999999988,4.17972831765988,1275.092,2.94255679179697
+"569",569,1621.818,1624.327,"i don't feel like driving all the way back to school tonight.","i dont feel like driving all the way back to school tonight",12,4775,28,2.50900000000001,4.7827819848545,1277.601,2.94147239088861
+"570",570,1624.526,1627.618,"i have to deal with james joyce first thing in the morning. is that okay?","i have to deal with james joyce first thing in the morning is that okay",15,4790,28,3.09199999999987,4.85122897800796,1280.693,2.94186030067595
+"571",571,1627.674,1629.534,"the crashing or the dealing with james joyce?","the crashing or the dealing with james joyce",8,4798,28,1.86000000000013,4.30107526881691,1282.553,2.94225193332234
+"572",572,1629.604,1631.663,"- crashing.
+- absolutely. crash away."," crashing  absolutely crash away",5,4803,28,2.05899999999997,2.4283632831472,1284.612,2.94276822684802
+"573",573,1631.97,1633.654,"- need a helmet?
+- just a pillow."," need a helmet  just a pillow",7,4810,28,1.68399999999997,4.1567695961996,1286.296,2.94368169766353
+"574",574,1635.247,1639.057,"so, just curious, what brings you to this neck of the woods this fine evening?","so just curious what brings you to this neck of the woods this fine evening",15,4825,28,3.80999999999995,3.9370078740158,1290.106,2.94440124115276
+"575",575,1639.281,1641.145,"dean had to give lindsay the car tonight.","dean had to give lindsay the car tonight",8,4833,28,1.86400000000003,4.29184549356216,1291.97,2.9447190390083
+"576",576,1642.524,1644.109,"so i came here to see him.","so i came here to see him",7,4840,28,1.58500000000004,4.41640378548886,1293.555,2.94487610976479
+"577",577,1644.31,1646.204,"well, you're a good girlfriend.","well youre a good girlfriend",5,4845,28,1.89400000000001,2.63991552270327,1295.449,2.94502549261774
+"578",578,1646.312,1648.222,"well, it just made sense. i mean, i have a car.","well it just made sense i mean i have a car",11,4856,28,1.91000000000008,5.75916230366467,1297.359,2.94424437629923
+"579",579,1648.554,1650.223,"and classes first thing in the morning.","and classes first thing in the morning",7,4863,28,1.66899999999987,4.19412822049164,1299.028,2.94371466441939
+"580",580,1650.311,1650.98,"what?","what",1,4864,28,0.669000000000096,1.49476831091159,1299.697,2.94288644747819
+"581",581,1651.268,1652.087,"what'd you say?","whatd you say",3,4867,28,0.81899999999996,3.66300366300384,1300.516,2.94220178075279
+"582",582,1652.179,1654.264,"i said, ""who wants pop-tarts?""","i said who wants poptarts",5,4872,28,2.08499999999981,2.3980815347724,1302.601,2.94171526926407
+"583",583,1660.128,1662.859,"oh, my god. come on. how long is this taking you?","oh my god come on how long is this taking you",11,4883,28,2.73099999999999,4.02782863419993,1305.332,2.94109276057165
+"584",584,1662.911,1665.153,"we do not harass the voters. this is not florida.","we do not harass the voters this is not florida",10,4893,28,2.24199999999996,4.46030330062452,1307.574,2.94048744772766
+"585",585,1666.198,1669.27,"i just voted for my husband. gimme that sticker.","i just voted for my husband gimme that sticker",9,4902,28,3.07199999999989,2.92968750000011,1310.646,2.93969866726963
+"586",586,1669.783,1673.478,"when i married him, i never thought that someday he'd go into politics.","when i married him i never thought that someday hed go into politics",13,4915,28,3.69500000000016,3.51826792963449,1314.341,2.93892270916612
+"587",587,1673.76,1677.518,"of course, his winning the line-dance championship was also a bit of a shocker,","of course his winning the linedance championship was also a bit of a shocker",14,4929,28,3.75800000000004,3.72538584353376,1318.099,2.9382169691166
+"588",588,1677.569,1678.923,"so what the hell do i know?","so what the hell do i know",7,4936,28,1.35400000000004,5.16986706056114,1319.453,2.93810101856058
+"589",589,1678.992,1681.163,"gee, i wonder who i just voted for.","gee i wonder who i just voted for",8,4944,29,2.17100000000005,3.68493781667426,1321.624,2.93822590177126
+"590",590,1682.617,1685.362,"ah, this is a wonderful night. thank you.","ah this is a wonderful night thank you",8,4952,29,2.74500000000012,2.91438979963558,1324.369,2.93876310952243
+"591",591,1686.156,1690.144,"sookie, i just want to say good luck, and may the best man win.","sookie i just want to say good luck and may the best man win",14,4966,29,3.98800000000006,3.5105315947843,1328.357,2.93941849570397
+"592",592,1690.215,1691.593,"yeah, you too, taylor.","yeah you too taylor",4,4970,29,1.37800000000016,2.90275761973842,1329.735,2.94001168480766
+"593",593,1694.009,1696.902,"you know what - this has been fun, even if we lose.","you know what  this has been fun even if we lose",11,4981,29,2.89300000000003,3.80228136882125,1332.628,2.94060682331447
+"594",594,1696.948,1699.483,"- we're not gonna lose.
+- even if we do, i'm still glad we did it."," were not gonna lose  even if we do im still glad we did it",15,4996,29,2.53499999999985,5.91715976331395,1335.163,2.9411831076629
+"595",595,1699.549,1702.252,"we're not going to lose. what's up with you? you taking off?","were not going to lose whats up with you you taking off",12,5008,29,2.70299999999997,4.43951165371813,1337.866,2.94215471101332
+"596",596,1702.32,1704.404,"i'm gonna see lane's band, then i'm gonna go.","im gonna see lanes band then im gonna go",9,5017,29,2.08400000000006,4.31861804222636,1339.95,2.94010182011178
+"597",597,1704.459,1706.405,"and i'm gonna make stew for jackson.","and im gonna make stew for jackson",7,5024,29,1.94599999999991,3.59712230215843,1341.896,2.9381546631872
+"598",598,1706.461,1708.458,"when he loses, he'll get stew. he likes stew.","when he loses hell get stew he likes stew",9,5033,29,1.99700000000007,4.50676014021016,1343.893,2.93676027907271
+"599",599,1708.545,1709.437,"he's not gonna lose.","hes not gonna lose",4,5037,29,0.891999999999825,4.4843049327363,1344.785,2.93523971388034
+"600",600,1709.538,1712.033,"- okay. but if he does...
+- then he'll get stew."," okay but if he does  then hell get stew",10,5047,29,2.49499999999989,4.0080160320643,1347.28,2.93372077655175
+"601",601,1730.838,1734.596,"- this is the day the music died.
+- seals & crofts rock harder than this."," this is the day the music died  seals  crofts rock harder than this",14,5061,29,3.75800000000004,3.72538584353376,1351.038,2.93217996374795
+"602",602,1734.657,1737.827,"- my mom likes this song.
+- it's the song jackson picked."," my mom likes this song  its the song jackson picked",11,5072,29,3.17000000000007,3.47003154574125,1354.208,2.93076904330556
+"603",603,1737.874,1739.916,"- we have to play it.
+- and then leave town immediately,"," we have to play it  and then leave town immediately",11,5083,29,2.04199999999992,5.38687561214518,1356.25,2.92956026993787
+"604",604,1739.951,1742.513,"because there's no way we can ever show our faces around here again.","because theres no way we can ever show our faces around here again",13,5096,30,2.5619999999999,5.07416081186593,1358.812,2.92860471310961
+"605",605,1742.549,1744.57,"we could wear masks. they wouldn't know it was us.","we could wear masks they wouldnt know it was us",10,5106,30,2.02099999999996,4.94804552201891,1360.833,2.92758032298975
+"606",606,1744.633,1746.158,"dude, they wreak havoc with your hair.","dude they wreak havoc with your hair",7,5113,30,1.52499999999986,4.59016393442664,1362.358,2.92974909665588
+"607",607,1746.228,1747.044,"and where would we get 'em?","and where would we get em",6,5119,30,0.816000000000031,7.35294117647031,1363.174,2.93194390793952
+"608",608,1747.12,1749.582,"my parents have a collection of wooden tiki masks they've picked up on trips.","my parents have a collection of wooden tiki masks theyve picked up on trips",14,5133,30,2.46200000000022,5.68643379366319,1365.636,2.93388073488858
+"609",609,1749.639,1751.43,"they're pretty cool. we'd have to peel the price tags off.","theyre pretty cool wed have to peel the price tags off",11,5144,30,1.79100000000017,6.1418202121714,1367.427,2.9356134927254
+"610",610,1751.523,1753.745,"i'm not wearing smelly wood on my face.","im not wearing smelly wood on my face",8,5152,30,2.22199999999998,3.60036003600363,1369.649,2.93728865245854
+"611",611,1753.807,1755.138,"well then, you come up with something.","well then you come up with something",7,5159,30,1.3309999999999,5.25920360631143,1370.98,2.93895189730034
+"612",612,1755.204,1757.503,"i say we walk because otherwise we're selling out.","i say we walk because otherwise were selling out",9,5168,30,2.29899999999998,3.91474554153984,1373.279,2.94093126444447
+"613",613,1757.626,1759.741,"we're already backstage. people will see us.","were already backstage people will see us",7,5175,30,2.11500000000001,3.30969267139478,1375.394,2.94290297809551
+"614",614,1759.797,1761.143,"not if we wear tiki masks.","not if we wear tiki masks",6,5181,30,1.346,4.45765230312034,1376.74,2.94475879110863
+"615",615,1761.246,1762.839,"it's worth it to keep our street cred.","its worth it to keep our street cred",8,5189,30,1.59299999999985,5.02197112366652,1378.333,2.94676000849919
+"616",616,1762.935,1764.481,"look, zach, it's for a good cause.","look zach its for a good cause",7,5196,30,1.54600000000005,4.5278137128071,1379.879,2.94889041599966
+"617",617,1764.559,1768.204,"and if, for one night, we have to give up our cool and not have girls jiggling up and down,","and if for one night we have to give up our cool and not have girls jiggling up and down",20,5216,30,3.64499999999998,5.48696844993144,1383.524,2.95108707515262
+"618",618,1768.256,1770.744,"wanting to come back to our place for sucker beer, then so be it.","wanting to come back to our place for sucker beer then so be it",14,5230,30,2.48799999999983,5.62700964630264,1386.012,2.95341061035568
+"619",619,1770.8,1774.267,"whoa, prohibition sally. part of the point of all this is appealing to chicks.","whoa prohibition sally part of the point of all this is appealing to chicks",14,5244,30,3.4670000000001,4.03807326218621,1389.479,2.95588959687785
+"620",620,1774.333,1776.365,"- for you, not for us.
+- no, for me, too."," for you not for us  no for me too",10,5254,30,2.03199999999993,4.92125984251987,1391.511,2.9582554898568
+"621",621,1776.433,1778.649,"- that's how i met my wife.
+- well, then, not for me."," thats how i met my wife  well then not for me",12,5266,30,2.21599999999989,5.4151624548739,1393.727,2.96049860218532
+"622",622,1778.716,1780.927,"- well, you're a chick.
+- right, so i should know."," well youre a chick  right so i should know",10,5276,30,2.21100000000001,4.52284034373584,1395.938,2.96212964515372
+"623",623,1781.005,1783.058,"i don't even know what you're talking about anymore.","i dont even know what youre talking about anymore",9,5285,30,2.05299999999988,4.38382854359499,1397.991,2.96357086832812
+"624",624,1783.136,1785.191,"- we can't cancel the gig.
+- then what do we do?"," we cant cancel the gig  then what do we do",11,5296,30,2.05500000000006,5.35279805352782,1400.046,2.96497186744081
+"625",625,1785.258,1786.529,"we do what we do.","we do what we do",5,5301,30,1.27099999999996,3.93391030684513,1401.317,2.9664044027685
+"626",626,1786.825,1788.214,"we make rock 'n' roll.","we make rock n roll",5,5306,30,1.3889999999999,3.59971202303843,1402.706,2.96754320041286
+"627",627,1788.392,1791.52,"hendrix rocked woodstock with ""the star spangled banner. ""","hendrix rocked woodstock with the star spangled banner ",8,5314,30,3.12799999999993,2.55754475703331,1405.834,2.96852467549903
+"628",628,1791.574,1793.143,"- that's true.
+- no one saw it coming."," thats true  no one saw it coming",8,5322,30,1.56899999999996,5.0987890376037,1407.403,2.96951288319686
+"629",629,1793.199,1795.53,"it's a classic now. he turned it into an anthem.","its a classic now he turned it into an anthem",10,5332,30,2.3309999999999,4.29000429000447,1409.734,2.97004584057321
+"630",630,1795.596,1798.085,"it's ""the star spangled banner. "" it was kind of already an anthem.","its the star spangled banner  it was kind of already an anthem",12,5344,30,2.48900000000003,4.82121333869017,1412.223,2.97064431919836
+"631",631,1798.141,1800.097,"- thanks to hendrix.
+- i'm confused."," thanks to hendrix  im confused",6,5350,31,1.9559999999999,3.06748466257684,1414.179,2.97128422711277
+"632",632,1800.152,1800.952,"so am i.","so am i",3,5353,31,0.799999999999955,3.75000000000021,1414.979,2.97221028508313
+"633",633,1801.018,1803.025,"- are we walking or what?
+- we're not walking."," are we walking or what  were not walking",9,5362,31,2.00700000000006,4.48430493273529,1416.986,2.97307980544472
+"634",634,1805.38,1807.562,"okay, i gotta get out of here. i'm going upstairs.","okay i gotta get out of here im going upstairs",10,5372,31,2.18199999999979,4.58295142071538,1419.168,2.97372086822479
+"635",635,1807.639,1810.849,"i put out the coffee, i locked the storeroom and the fridge.","i put out the coffee i locked the storeroom and the fridge",12,5384,31,3.21000000000004,3.7383177570093,1422.378,2.97396274546663
+"636",636,1811.121,1815.641,"do not let anyone break anything or steal anything. and lock up when you're done.","do not let anyone break anything or steal anything and lock up when youre done",15,5399,31,4.51999999999998,3.31858407079647,1426.898,2.9741293623096
+"637",637,1815.703,1817.536,"you really don't want to wait for the results?","you really dont want to wait for the results",9,5408,31,1.83300000000008,4.90998363338766,1428.731,2.97421438174049
+"638",638,1817.603,1819.148,"i'm just afraid i'll get too emotional.","im just afraid ill get too emotional",7,5415,31,1.54499999999985,4.53074433657003,1430.276,2.97422779605912
+"639",639,1819.327,1820.224,"good night.","good night",2,5417,31,0.896999999999935,2.22965440356761,1431.173,2.97445964072332
+"640",640,1821.649,1822.846,"you want some more coffee?","you want some more coffee",5,5422,31,1.19700000000012,4.17710944026693,1432.37,2.97470764322482
+"641",641,1822.935,1823.973,"bye, hon.","bye hon",2,5424,31,1.03800000000001,1.92678227360306,1433.408,2.97506470400768
+"642",642,1825.067,1827.008,"- how you doing, honey?
+- oh, i'm fine."," how you doing honey  oh im fine",8,5432,31,1.94100000000003,4.12158681092214,1435.349,2.97542270681628
+"643",643,1827.08,1829.507,"he's nervous. i can tell. his neck goes away.","hes nervous i can tell his neck goes away",9,5441,31,2.42700000000013,3.70828182941883,1437.776,2.97558063872737
+"644",644,1829.574,1831.033,"i'm not nervous. i'm fine.","im not nervous im fine",5,5446,31,1.45899999999983,3.42700479780711,1439.235,2.97587223034195
+"645",645,1831.099,1833.536,"where are they? where are they? oh, there you are.","where are they where are they oh there you are",10,5456,31,2.43700000000013,4.10340582683606,1441.672,2.97642755203179
+"646",646,1833.592,1835.968,"- you won't believe it. big news.
+- kirk, sit down."," you wont believe it big news  kirk sit down",10,5466,31,2.37599999999998,4.20875420875425,1444.048,2.97739371972737
+"647",647,1836.045,1839.185,"can't. these aren't my pants. i have the results of my latest poll.","cant these arent my pants i have the results of my latest poll",13,5479,31,3.13999999999987,4.1401273885352,1447.188,2.97841572646364
+"648",648,1839.235,1844.709,"i talked to every single person in town, and unanimously, they're all voting for jackson.","i talked to every single person in town and unanimously theyre all voting for jackson",15,5494,31,5.47400000000016,2.74022652539269,1452.662,2.97938915372165
+"649",649,1844.77,1845.969,"- what?
+- are you sure?"," what  are you sure",5,5499,31,1.19900000000007,4.17014178482044,1453.861,2.98050373680962
+"650",650,1846.065,1848.308,"i am sure. i talked to everyone except taylor -","i am sure i talked to everyone except taylor ",9,5508,31,2.24299999999994,4.01248328131977,1456.104,2.9814843838156
+"651",651,1848.39,1851.585,"but i assumed he was voting for himself - and they all told me the same thing.","but i assumed he was voting for himself  and they all told me the same thing",16,5524,31,3.19499999999994,5.00782472613469,1459.299,2.98255776029763
+"652",652,1851.655,1855.609,"we're going to win? i'm gonna be the first town selectman lady.","were going to win im gonna be the first town selectman lady",12,5536,31,3.95399999999995,3.03490136570565,1463.253,2.98342071165122
+"653",653,1855.665,1856.718,"i can't believe it.","i cant believe it",4,5540,31,1.05300000000011,3.79867046533673,1464.306,2.98447205510228
+"654",654,1856.781,1858.363,"kirk, you're sure about this? every single person?","kirk youre sure about this every single person",8,5548,31,1.58200000000011,5.05689001264188,1465.888,2.97917541192945
+"655",655,1858.425,1859.669,"every person except taylor -","every person except taylor ",4,5552,31,1.24400000000014,3.21543408360092,1467.132,2.97317268788332
+"656",656,1859.731,1862.506,"and even that's not a lock, 'cause hatred for taylor runs very deep.","and even thats not a lock cause hatred for taylor runs very deep",13,5565,32,2.77500000000009,4.68468468468453,1469.907,2.966914048795
+"657",657,1862.588,1864.666,"ooh, the rally started. come on.","ooh the rally started come on",6,5571,32,2.07799999999997,2.88739172281043,1471.985,2.96069498648234
+"658",658,1864.943,1867.329,"ooh, i'm so excited! i don't have to make stew!","ooh im so excited i dont have to make stew",10,5581,32,2.38599999999997,4.19111483654658,1474.371,2.95460982626793
+"659",659,1907.036,1907.752,"lane.","lane",1,5582,32,0.715999999999894,1.39664804469294,1475.087,2.94838877836272
+"660",660,1912.05,1914.044,"- you're here!
+- hey, i'm your groupie."," youre here  hey im your groupie",7,5589,32,1.99400000000014,3.5105315947841,1477.081,2.94178088851385
+"661",661,1914.11,1917.623,"but don't get any ideas. i'm saving experimentation for my junior year.","but dont get any ideas im saving experimentation for my junior year",12,5601,32,3.51300000000015,3.41588385994862,1480.594,2.93480799217928
+"662",662,1917.69,1918.392,"i love you.","i love you",3,5604,32,0.701999999999998,4.27350427350428,1481.296,2.92759121625217
+"663",663,1918.468,1920.69,"if you need someone to stage-dive, give me a signal.","if you need someone to stagedive give me a signal",10,5614,33,2.22199999999998,4.50045004500454,1483.518,2.92057868799315
+"664",664,1920.746,1921.516,"you got it.","you got it",3,5617,33,0.769999999999982,3.89610389610399,1484.288,2.91979760264599
+"665",665,1923.578,1925.054,"hello, stars hollow!","hello stars hollow",3,5620,33,1.47600000000011,2.0325203252031,1485.764,2.91917939501629
+"666",666,1925.155,1926.2,"hello!","hello",1,5621,33,1.04500000000007,0.956937799042996,1486.809,2.9185702487311
+"667",667,1926.466,1932.431,"okay, so the man of the hour, jackson belleville - oh. that's nice. okay.","okay so the man of the hour jackson belleville  oh thats nice okay",13,5634,33,5.96500000000015,2.17937971500414,1492.774,2.91809873076657
+"668",668,1932.522,1935.836,"well, he's getting ready to come out here and talk to you, but before he does,","well hes getting ready to come out here and talk to you but before he does",16,5650,33,3.31400000000008,4.82800241400109,1496.088,2.91764285273235
+"669",669,1935.948,1939.245,"i wanted to take the opportunity to say thanks -","i wanted to take the opportunity to say thanks ",9,5659,33,3.2969999999998,2.72975432211118,1499.385,2.91714734728601
+"670",670,1940.322,1943.158,"wow. again, wow.","wow again wow",3,5662,33,2.83600000000001,1.05782792665726,1502.221,2.91702582726515
+"671",671,1943.266,1946.676,"okay, so thanks for all of the support and the nice thoughts.","okay so thanks for all of the support and the nice thoughts",12,5674,33,3.40999999999985,3.51906158357786,1505.631,2.91638553498096
+"672",672,1946.751,1951.324,"this is a great place to live, and i wouldn't want to live anyplace else the world!","this is a great place to live and i wouldnt want to live anyplace else the world",17,5691,33,4.57300000000009,3.71747211895903,1510.204,2.90971124790648
+"673",673,1951.4,1955.215,"and now let's get this party started. i've got a real treat for you tonight.","and now lets get this party started ive got a real treat for you tonight",15,5706,33,3.81499999999983,3.93184796854539,1514.019,2.90283413704064
+"674",674,1955.271,1959.731,"right here, live onstage, playing one of jackson's favorite songs of all time,","right here live onstage playing one of jacksons favorite songs of all time",13,5719,33,4.46000000000004,2.914798206278,1518.479,2.89610917790043
+"675",675,1959.833,1963.893,"put your hands together, and let's build the roof for hep alien!","put your hands together and lets build the roof for hep alien",12,5731,33,4.05999999999995,2.95566502463058,1522.539,2.88975655389065
+"676",676,1967.056,1969.587,"one, two, three, four...","one two three four",4,5735,33,2.53099999999995,1.58040300276574,1525.07,2.88349918990167
+"677",677,2014.392,2018.074,"- it's different live, i guess.
+- i just saw taylor in the soda shop."," its different live i guess  i just saw taylor in the soda shop",14,5749,34,3.68200000000002,3.80228136882128,1528.752,2.87705506432181
+"678",678,2018.126,2020.096,"- oh, yeah?
+- yeah, i think he knows."," oh yeah  yeah i think he knows",8,5757,34,1.97000000000003,4.0609137055837,1530.722,2.87055411340055
+"679",679,2020.141,2022.171,"- knows what?
+- knows that he's gonna lose."," knows what  knows that hes gonna lose",8,5765,34,2.02999999999997,3.94088669950744,1532.752,2.86410729821378
+"680",680,2022.237,2022.954,"really?","really",1,5766,34,0.716999999999871,1.39470013947027,1533.469,2.85759685074295
+"681",681,2023.128,2026.199,"he was sitting there all alone in the dark, downing spray whipped cream.","he was sitting there all alone in the dark downing spray whipped cream",13,5779,34,3.07100000000014,4.23314881146187,1536.54,2.85170505506075
+"682",682,2026.25,2028.022,"- he looked devastated.
+- yay!"," he looked devastated  yay",5,5784,34,1.77199999999993,2.82167042889401,1538.312,2.85211159206738
+"683",683,2028.083,2030.603,"i know - ""yay. "" but it's kind of sad, isn't it?","i know  yay  but its kind of sad isnt it",10,5794,34,2.51999999999998,3.968253968254,1540.832,2.85229261132872
+"684",684,2030.659,2033.787,"- why? he deserves it.
+- i know, but no votes?"," why he deserves it  i know but no votes",10,5804,34,3.12799999999993,3.19693094629163,1543.96,2.85245172556471
+"685",685,2033.849,2037.448,"none? that's humiliating. that's ""swept away"" kind of humiliating.","none thats humiliating thats swept away kind of humiliating",9,5813,34,3.59900000000016,2.50069463739917,1547.559,2.84982567192248
+"686",686,2037.597,2039.357,"yeah, you're right. too bad.","yeah youre right too bad",5,5818,34,1.75999999999999,2.84090909090911,1549.319,2.84723363338668
+"687",687,2040.275,2042.189,"you're stilling ""yaying"" in your head, aren't you?","youre stilling yaying in your head arent you",8,5826,35,1.91399999999999,4.17972831765938,1551.233,2.84499928324693
+"688",688,2042.286,2044.062,"in 5.1 surround.","in 51 surround",3,5829,35,1.77599999999984,1.68918918918934,1553.009,2.84275607039761
+"689",689,2044.308,2045.583,"i'll be back in a minute.","ill be back in a minute",6,5835,35,1.27500000000009,4.70588235294084,1554.284,2.84042534919237
+"690",690,2065.798,2067.615,"oh, andrew. great. hi.","oh andrew great hi",4,5839,35,1.81700000000001,2.20143093010456,1556.101,2.83826899877273
+"691",691,2067.708,2069.904,"hi lorelai. looks like it's gonna be a landslide for jackson.","hi lorelai looks like its gonna be a landslide for jackson",11,5850,35,2.19599999999991,5.00910746812406,1558.297,2.83623193965343
+"692",692,2069.95,2072.307,"every single person i know is voting for him. you must be really happy.","every single person i know is voting for him you must be really happy",14,5864,35,2.35699999999997,5.93975392448035,1560.654,2.83409400987567
+"693",693,2072.362,2074.953,"oh, yes, i am. could you, um, vote for taylor?","oh yes i am could you um vote for taylor",10,5874,35,2.59099999999989,3.8595137012738,1563.245,2.83219540649277
+"694",694,2075.024,2075.618,"what?","what",1,5875,35,0.594000000000051,1.68350168350154,1563.839,2.82484845489816
+"695",695,2075.808,2077.686,"jackson's still gonna win. it's hard to explain.","jacksons still gonna win its hard to explain",8,5883,35,1.87800000000016,4.25985090521796,1565.717,2.82043446658502
+"696",696,2077.753,2080.149,"it involves spray cream. just trust me. great. thanks.","it involves spray cream just trust me great thanks",9,5892,35,2.39599999999973,3.75626043405718,1568.113,2.81582070995711
+"697",697,2081.311,2083.744,"- anna, hi!
+- hi, lorelai. big night, huh?"," anna hi  hi lorelai big night huh",8,5900,35,2.43299999999999,3.28812166050145,1570.546,2.8106324696797
+"698",698,2083.815,2086.004,"oh, yeah, real big. could you vote for taylor?","oh yeah real big could you vote for taylor",9,5909,35,2.18899999999985,4.11146642302449,1572.735,2.80330962431358
+"699",699,2126.285,2127.73,"well, that was peppy.","well that was peppy",4,5913,36,1.44500000000016,2.76816608996508,1574.18,2.79575559173162
+"700",700,2127.786,2131.022,"all right, ladies and gentlemen, what you've all been waiting for -","all right ladies and gentlemen what youve all been waiting for ",11,5924,36,3.23599999999988,3.39925834363425,1577.416,2.78796469846778
+"701",701,2131.095,2135.19,"the man of the hour, the next town selectman of stars hollow,","the man of the hour the next town selectman of stars hollow",12,5936,36,4.09500000000025,2.93040293040275,1581.511,2.78009528731104
+"702",702,2135.293,2137.652,"jackson belleville!","jackson belleville",2,5938,36,2.35899999999992,0.847816871555771,1583.87,2.77223351399919
+"703",703,2152.84,2156.161,"well, jeez. that was, uh... quite a welcome.","well jeez that was uh quite a welcome",8,5946,36,3.32099999999991,2.40891297801873,1587.191,2.76404084246445
+"704",704,2156.361,2162.296,"uh, thank you all for coming and supporting me in this...","uh thank you all for coming and supporting me in this",11,5957,37,5.93499999999995,1.85341196293178,1593.126,2.76101390678168
+"705",705,2162.812,2164.071,"thing here.","thing here",2,5959,37,1.25900000000001,1.58856235107226,1594.385,2.75777381400636
+"706",706,2164.481,2167.554,"as i stand on this stage, looking at you all,","as i stand on this stage looking at you all",10,5969,37,3.07299999999987,3.25414904002618,1597.458,2.75435179407888
+"707",707,2168.523,2170.135,"i can't help but think...","i cant help but think",5,5974,37,1.61200000000008,3.10173697270456,1599.07,2.75127630484128
+"708",708,2171.891,2173.216,"i have a job.","i have a job",4,5978,37,1.32499999999982,3.01886792452872,1600.395,2.7502972643143
+"709",709,2174.609,2176.263,"i have a life.","i have a life",4,5982,37,1.654,2.41837968561065,1602.049,2.74946320739787
+"710",710,2177.066,2179.811,"i don't have time to be selectman.","i dont have time to be selectman",7,5989,37,2.74500000000035,2.55009107468092,1604.794,2.74871062150647
+"711",711,2180.932,2184.015,"i have a business. i have a kid.","i have a business i have a kid",8,5997,37,3.08300000000008,2.5948751216347,1607.877,2.74789281458939
+"712",712,2184.106,2186.702,"and sookie and i are trying to have another one.","and sookie and i are trying to have another one",10,6007,37,2.596,3.85208012326656,1610.473,2.74678988220283
+"713",713,2186.82,2190.409,"and the doctor has us on this schedule, and it's not flexible.","and the doctor has us on this schedule and its not flexible",12,6019,37,3.58899999999994,3.34354973530237,1614.062,2.74587962627138
+"714",714,2190.486,2193.256,"and - what was i thinking?","and  what was i thinking",5,6024,37,2.76999999999998,1.80505415162456,1616.832,2.74475974526903
+"715",715,2194.403,2196.221,"what the hell am i doing here?","what the hell am i doing here",7,6031,37,1.81800000000021,3.8503850385034,1618.65,2.74269023224276
+"716",716,2196.723,2198.777,"i don't want to be selectman.","i dont want to be selectman",6,6037,37,2.05400000000009,2.92112950340786,1620.704,2.74097966604758
+"717",717,2201.181,2203.666,"- an honest man!
+- finally!"," an honest man  finally",5,6042,37,2.48500000000013,2.01207243460754,1623.189,2.73920041043481
+"718",718,2204.084,2206.328,"we're behind you all the way, jackson!","were behind you all the way jackson",7,6049,37,2.24400000000014,3.11942959001763,1625.433,2.737550749525
+"719",719,2206.578,2210.736,"jackson! jackson! jackson!...","jackson jackson jackson",3,6052,37,4.1579999999999,0.721500721500739,1629.591,2.73603713287541
+"720",720,2217.73,2222.026,"whoo! whoo! oh, man, i am flying.","whoo whoo oh man i am flying",7,6059,38,4.29599999999982,1.62942271880826,1633.887,2.7345218760169
+"721",721,2222.262,2224.458,"i mean it, i am two, three feet in the air.","i mean it i am two three feet in the air",11,6070,38,2.19599999999991,5.00910746812406,1636.083,2.73315266343537
+"722",722,2224.524,2226.239,"it was tight, it was tight.","it was tight it was tight",6,6076,38,1.71500000000015,3.49854227405218,1637.798,2.7322039451431
+"723",723,2226.925,2228.534,"that's the right term to throw in at this point, right?","thats the right term to throw in at this point right",11,6087,38,1.60899999999992,6.83654443753917,1639.407,2.73154868716508
+"724",724,2228.615,2231.037,"no one plays guitar like you, zach.","no one plays guitar like you zach",7,6094,38,2.42200000000003,2.89017341040459,1641.829,2.73121529485535
+"725",725,2231.139,2231.842,"totally.","totally",1,6095,38,0.702999999999975,1.42247510668568,1642.532,2.7320476649877
+"726",726,2231.972,2235.42,"it was more than just the gifts, sweetheart. it was the material.","it was more than just the gifts sweetheart it was the material",12,6107,38,3.44799999999987,3.48027842227392,1645.98,2.73242552927366
+"727",727,2235.513,2236.571,"we found our sound.","we found our sound",4,6111,38,1.05799999999999,3.78071833648396,1647.038,2.73248745288363
+"728",728,2236.653,2239.035,"cheese works. this is a turning point. we have to go for it.","cheese works this is a turning point we have to go for it",13,6124,38,2.38200000000006,5.45759865659096,1649.42,2.73241839774408
+"729",729,2239.822,2241.959,"you are gonna be so famous.","you are gonna be so famous",6,6130,38,2.13699999999972,2.80767430978044,1651.557,2.73201104976077
+"730",730,2242.04,2244.513,"- will you remember us when you're huge?
+- no."," will you remember us when youre huge  no",9,6139,38,2.47299999999996,3.6393044884756,1654.03,2.7316952542915
+"731",731,2246.356,2248.829,"- you're awful.
+- i'm awful, too."," youre awful  im awful too",6,6145,38,2.47299999999996,2.42620299231707,1656.503,2.73071974308491
+"732",732,2251.982,2253.574,"- okay, who needs refills?
+- i do."," okay who needs refills  i do",7,6152,38,1.5920000000001,4.39698492462284,1658.095,2.72994852830852
+"733",733,2253.638,2254.732,"- me too.
+- i'm good."," me too  im good",5,6157,38,1.09400000000005,4.57038391224842,1659.189,2.72933669403819
+"734",734,2258.206,2260.768,"- grab us a couple beers, would you?
+- okay."," grab us a couple beers would you  okay",9,6166,38,2.5619999999999,3.51288056206103,1661.751,2.72891784214056
+"735",735,2262.704,2264.487,"what are you doing in here? come and join the party.","what are you doing in here come and join the party",11,6177,38,1.7829999999999,6.16937745373001,1663.534,2.72838003111227
+"736",736,2269.248,2270.615,"i like you, zach.","i like you zach",4,6181,38,1.36699999999973,2.92611558156604,1664.901,2.72678727675566
+"737",737,2270.696,2273.365,"i like you as more than a bandmate and more than a friend.","i like you as more than a bandmate and more than a friend",13,6194,38,2.66899999999987,4.8707381041591,1667.57,2.72519399005416
+"738",738,2273.43,2277.767,"i like you. i have liked you for some time now, and i don't think this feeling is going to go away.","i like you i have liked you for some time now and i dont think this feeling is going to go away",22,6216,38,4.33699999999999,5.07263085081855,1671.907,2.72281526508576
+"739",739,2277.824,2279.098,"i just thought you should know.","i just thought you should know",6,6222,38,1.27399999999989,4.70957613814798,1673.181,2.72083421246957
+"740",740,2279.422,2280.44,"here's your beer.","heres your beer",3,6225,39,1.01800000000003,2.94695481335944,1674.199,2.71880114142087
+"741",741,2292.104,2293.303,"i gotta get some air.","i gotta get some air",5,6230,39,1.19900000000007,4.17014178482044,1675.398,2.71727745006452
+"742",742,2297.909,2300.703,"i have ken burns' ""jazz"" on dvd, if you're into that kind of thing.","i have ken burns jazz on dvd if youre into that kind of thing",14,6244,39,2.79399999999987,5.0107372942021,1678.192,2.71571734019453
+"743",743,2306.179,2307.055,"hey.","hey",1,6245,39,0.875999999999749,1.14155251141585,1679.068,2.71369719414089
+"744",744,2307.643,2309.072,"hey. i didn't know you were coming.","hey i didnt know you were coming",7,6252,39,1.42900000000009,4.89853044086744,1680.497,2.7116084686355
+"745",745,2309.48,2310.301,"i'm so sorry.","im so sorry",3,6255,39,0.820999999999913,3.65408038976896,1681.318,2.70960675982789
+"746",746,2310.67,2311.472,"it's okay.","its okay",2,6257,39,0.802000000000135,2.49376558603449,1682.12,2.70913196010598
+"747",747,2311.704,2314.512,"this who situation's turning out to be a lot harder than i thought.","this who situations turning out to be a lot harder than i thought",13,6270,39,2.80799999999999,4.62962962962964,1684.928,2.70914448114527
+"748",748,2314.576,2318.75,"not you - just lindsay and moving back home and my parents.","not you  just lindsay and moving back home and my parents",11,6281,39,4.17399999999998,2.63536176329661,1689.102,2.71002236503095
+"749",749,2320.102,2322.139,"i'm not handling it as well as i should be.","im not handling it as well as i should be",10,6291,39,2.03700000000026,4.90918016691149,1691.139,2.71079496730985
+"750",750,2322.205,2324.226,"it's a lot, dean. you're doing fine.","its a lot dean youre doing fine",7,6298,39,2.02100000000019,3.46363186541284,1693.16,2.71102586473945
+"751",751,2324.289,2325.712,"i didn't want to yell at you like that.","i didnt want to yell at you like that",9,6307,39,1.42299999999977,6.32466619817388,1694.583,2.71074237436989
+"752",752,2326.187,2328.599,"i worked out the car thing. that's not gonna be an issue anymore.","i worked out the car thing thats not gonna be an issue anymore",13,6320,39,2.41200000000026,5.38971807628466,1696.995,2.71027566699069
+"753",753,2329.117,2334.579,"i hope. and i had a little talk with my mom, so i think things are gonna be better now.","i hope and i had a little talk with my mom so i think things are gonna be better now",20,6340,39,5.46199999999999,3.66166239472721,1702.457,2.70953111215792
+"754",754,2334.646,2335.279,"okay.","okay",1,6341,39,0.632999999999811,1.57977883096414,1703.09,2.70868765272029
+"755",755,2340.702,2343.391,"- i'm sorry.
+- it's good. don't worry about it."," im sorry  its good dont worry about it",9,6350,40,2.68899999999985,3.34696913350707,1705.779,2.70759978642601
+"756",756,2349.157,2351.246,"- dean, can i ask you something?
+- sure."," dean can i ask you something  sure",8,6358,40,2.08899999999994,3.82958353279092,1707.868,2.70617915068098
+"757",757,2351.562,2354.005,"- you won't get mad?
+- no, i promise."," you wont get mad  no i promise",8,6366,40,2.44300000000021,3.27466230044998,1710.311,2.70433426629111
+"758",758,2354.979,2358.828,"if lindsay hadn't found that letter...","if lindsay hadnt found that letter",6,6372,40,3.84900000000016,1.55884645362425,1714.16,2.70185355012298
+"759",759,2359.273,2360.124,"would you...","would you",2,6374,40,0.850999999999658,2.35017626322069,1715.011,2.69908282843099
+"760",760,2361.753,2363.237,"um, were you going...","um were you going",4,6378,40,1.48399999999992,2.69541778975755,1716.495,2.69672123793544
+"761",761,2364.958,2366.503,"would you still have left her?","would you still have left her",6,6384,40,1.54500000000007,3.88349514563089,1718.04,2.69483970510027
+"762",762,2367.808,2368.649,"yeah.","yeah",1,6385,40,0.840999999999894,1.1890606420929,1718.881,2.69244359684464
+"763",763,2372.351,2374.311,"yeah. yeah, of course.","yeah yeah of course",4,6389,40,1.96000000000004,2.04081632653057,1720.841,2.69009522852518
+"764",764,2375.602,2377.958,"okay. good.","okay good",2,6391,40,2.35600000000022,0.848896434634895,1723.197,2.68784828651823
+"765",765,2379.815,2382.98,"everybody, may i have your attention? the results are in.","everybody may i have your attention the results are in",10,6401,40,3.16499999999996,3.15955766192737,1726.362,2.68573148638618
+"766",766,2383.523,2385.596,"jackson, come on out here.","jackson come on out here",5,6406,40,2.07299999999987,2.41196333815742,1728.435,2.6835923647075
+"767",767,2387.506,2394.822,"okay. the votes for town selectman are as follows - 1,114 for jackson belleville.","okay the votes for town selectman are as follows  1114 for jackson belleville",13,6419,40,7.31600000000026,1.77692728266806,1735.751,2.68157640229921
+"768",768,2396.221,2398.559,"10 for taylor doose.","10 for taylor doose",4,6423,40,2.33800000000019,1.71086398631295,1738.089,2.67775211305236
+"769",769,2398.843,2401.954,"well, we have a new town selectman, ladies and gentlemen!","well we have a new town selectman ladies and gentlemen",10,6433,41,3.11100000000033,3.21440051430374,1741.2,2.67427258920261
+"770",770,2403.659,2406.941,"jackson, would you like to say a few words to your constituency?","jackson would you like to say a few words to your constituency",12,6445,41,3.2819999999997,3.65630712979924,1744.482,2.67088655702269
+"771",771,2407.715,2408.585,"no.","no",1,6446,41,0.869999999999891,1.14942528735647,1745.352,2.66751931926615
+"772",772,2409.298,2410.044,"i would.","i would",2,6448,41,0.746000000000095,2.68096514745274,1746.098,2.66450390106731
+"773",773,2427.022,2434.553,"friends and townspeople... today in stars hollow, democracy has spoken.","friends and townspeople today in stars hollow democracy has spoken",10,6458,41,7.53099999999995,1.32784490771479,1753.629,2.66174251925935
+"774",774,2434.744,2439.305,"the will of the people has prevailed, and new leadership has been instated.","the will of the people has prevailed and new leadership has been instated",13,6471,41,4.56099999999969,2.85025213768929,1758.19,2.65882425908452
+"775",775,2439.377,2441.303,"your vote has counted.","your vote has counted",4,6475,41,1.92599999999993,2.0768431983386,1760.116,2.65588550657885
+"776",776,2441.681,2444.175,"free elections are a wonderful thing,","free elections are a wonderful thing",6,6481,41,2.49400000000014,2.40577385725728,1762.61,2.65301846952584
+"777",777,2444.912,2448.106,"a thing to be admired and cherished.","a thing to be admired and cherished",7,6488,41,3.19400000000041,2.19160926737605,1765.804,2.65027514017089
+"778",778,2449.018,2453.359,"here in america, we have something else that is to be admired and cherished.","here in america we have something else that is to be admired and cherished",14,6502,41,4.34099999999989,3.22506334945873,1770.145,2.64975070479671
+"779",779,2453.995,2456.349,"it's called a recall election.","its called a recall election",5,6507,41,2.35400000000027,2.1240441801187,1772.499,2.64910450501874
+"780",780,2457.035,2463.481,"i look forward to this other aspect of democracy, which i believe will happen any day now,","i look forward to this other aspect of democracy which i believe will happen any day now",17,6524,42,6.44600000000037,2.63729444616802,1778.945,2.64784311859428
+"781",781,2463.708,2467.905,"when sanity and reason have been restored to stars hollow.","when sanity and reason have been restored to stars hollow",10,6534,42,4.19700000000012,2.38265427686436,1783.142,2.64695679939242
+"782",782,2467.987,2471.265,"so, in closing, friends, believe me when i tell you,","so in closing friends believe me when i tell you",10,6544,42,3.27799999999979,3.05064063453344,1786.42,2.64637322428685
+"783",783,2471.464,2475.26,"you will have taylor doose to kick around again.","you will have taylor doose to kick around again",9,6553,42,3.79600000000028,2.37091675447823,1790.216,2.64613530416216
+"784",784,2475.431,2478.137,"thank you, and god bless.","thank you and god bless",5,6558,42,2.70600000000013,1.84774575018469,1792.922,2.64616270594977
+"785",785,2484.707,2487.822,"jackson, now that we're done with the sidewalk issue,","jackson now that were done with the sidewalk issue",9,6567,42,3.11500000000024,2.88924558587458,1796.037,2.64615176004623
+"786",786,2487.874,2492.482,"i would like to talk to you about the permit for expanding my dance studio to include a tae-bo room.","i would like to talk to you about the permit for expanding my dance studio to include a taebo room",20,6587,42,4.60800000000017,4.34027777777761,1800.645,2.64648321461509
+"787",787,2492.544,2494.35,"i have the pictures of the hedges right here.","i have the pictures of the hedges right here",9,6596,42,1.80600000000004,4.98338870431883,1802.451,2.6448849733119
+"788",788,2494.432,2497.484,"they're at least a foot above where they're supposed to be, and ruby won't cut them down.","theyre at least a foot above where theyre supposed to be and ruby wont cut them down",17,6613,42,3.05200000000013,5.57011795543881,1805.503,2.64345603682414
+"789",789,2497.572,2501.012,"if you need someone in charge of homeland security, i am your man.","if you need someone in charge of homeland security i am your man",13,6626,42,3.44000000000005,3.7790697674418,1808.943,2.64209122169607
+"790",790,2502.568,2503.988,"i have this great idea...","i have this great idea",5,6631,42,1.41999999999962,3.52112676056433,1810.363,2.64143112899385
+"791",791,2504.055,2507.069,"the sun sets five minutes earlier for me 'cause her hedges are in the way.","the sun sets five minutes earlier for me cause her hedges are in the way",15,6646,42,3.01400000000012,4.97677504976755,1813.377,2.64055569232785
+"792",792,2524.608,2525.404,"hey.","hey",1,6647,43,0.795999999999822,1.25628140703546,1814.173,2.63948454274801
+"793",793,2525.481,2527.81,"grabbed us a little victory champagne, and i thought -","grabbed us a little victory champagne and i thought ",9,6656,43,2.32899999999972,3.86431945040836,1816.502,2.63804057175614
+"794",794,2529.515,2530.867,"- you were asleep.
+- oh, no, no."," you were asleep  oh no no",7,6663,43,1.35200000000032,5.1775147928982,1817.854,2.63651492821324
+"795",795,2530.974,2534.696,"- i was just doing some bills and things.
+- doing bills?"," i was just doing some bills and things  doing bills",11,6674,43,3.72199999999975,2.9554003224075,1821.576,2.63516960109634
+"796",796,2534.784,2535.694,"- yeah.
+- in the dark?"," yeah  in the dark",5,6679,43,0.909999999999854,5.49450549450637,1822.486,2.63352564005785
+"797",797,2535.849,2537.149,"trying to - conserve.","trying to  conserve",3,6682,43,1.29999999999973,2.30769230769279,1823.786,2.63372891576771
+"798",798,2538.916,2541.557,"so, when you went up earlier, you were going to bed.","so when you went up earlier you were going to bed",11,6693,43,2.64099999999962,4.16508898144702,1826.427,2.63375622880072
+"799",799,2542.07,2545.869,"you go to bed early, which makes sense, because you get up early.","you go to bed early which makes sense because you get up early",13,6706,43,3.79899999999998,3.42195314556464,1830.226,2.63392766014373
+"800",800,2545.96,2547.517,"and, ugh - now i got it.","and ugh  now i got it",6,6712,43,1.55699999999979,3.85356454720669,1831.783,2.63421326577101
+"801",801,2547.651,2551.562,"hey, it's no big deal. just come on in, lorelai...","hey its no big deal just come on in lorelai",10,6722,43,3.91100000000006,2.55689082076192,1835.694,2.63445842408323
+"802",802,2553.365,2556.104,"- no, i can hold on to this till later.
+- yeah?"," no i can hold on to this till later  yeah",11,6733,43,2.73900000000003,4.01606425702806,1838.433,2.63456622091452
+"803",803,2556.176,2557.927,"yeah. good night.","yeah good night",3,6736,43,1.7510000000002,1.71330668189586,1840.184,2.63311960021043
+"804",804,2558.239,2559.967,"""goes to bed early,"" i gotta remember that.","goes to bed early i gotta remember that",8,6744,43,1.72800000000007,4.62962962962945,1841.912,0
+"805",805,2560.062,2562.679,"- only on some nights.
+- hey, don't you also hate champagne?"," only on some nights  hey dont you also hate champagne",11,6755,43,2.61700000000019,4.2032862055786,1844.529,0
+"806",806,2562.754,2563.68,"- kind of.
+- yeah."," kind of  yeah",4,6759,43,0.925999999999931,4.31965442764611,1845.455,0
+"807",807,2565.108,2566.854,"i'm learning, i'm learning.","im learning im learning",4,6763,43,1.74599999999964,2.29095074455946,1847.201,0
+"808",808,2579.783,2584.233,"synchro: amariss
+- www. forom. com -","synchro amariss  www forom com ",5,6768,44,4.45000000000027,1.12359550561791,1851.651,0
