@@ -13,7 +13,7 @@
 "11",11,40.618,42.631,"- and i'm happy, are you happy?
 - i'm very happy."," and im happy are you happy  im very happy",10,72,1,0.03355,298.062593144561,0.380583333333333,95.4223284213851
 "12",12,44.923,46.65,"happy, but not chatty?","happy but not chatty",4,76,1,0.0287833333333333,138.969310943834,0.409366666666666,97.5763299341515
-"13",13,48.499,49.424,"i'm just<85>","im just85",2,78,1,0.0154166666666666,129.72972972973,0.424783333333333,98.2314725147447
+"13",13,48.499,49.424,"i'm just...","im just85",2,78,1,0.0154166666666666,129.72972972973,0.424783333333333,98.2314725147447
 "14",14,50.946,53.234,"trying to make sure that all this is really happening.","trying to make sure that all this is really happening",10,88,1,0.0381333333333334,262.237762237762,0.462916666666666,96.0069302571548
 "15",15,54.069,54.991,"it is.","it is",2,90,1,0.0153666666666666,130.151843817788,0.478283333333333,94.8981394366111
 "16",16,64.143,66.51,"- hey, you know what i think we need?
@@ -30,7 +30,7 @@
 - why not? it's perfect."," thats not gonna be our song  why not its perfect",11,165,2,0.0554666666666667,198.317307692308,0.894433333333333,97.028897895229
 "26",26,103.876,109.125,"it's happy. it's hopeful. it has the word 'candy' in it. hey, what is more hot than candy?","its happy its hopeful it has the word candy in it hey what is more hot than candy",18,183,2,0.0874833333333333,205.753476852734,0.981916666666666,98.7456175247004
 "27",27,109.211,110.154,"pick something else.","pick something else",3,186,2,0.0157166666666666,190.880169671262,0.997633333333333,99.9845873998081
-"28",28,111.704,114.036,"""who can take the sunrise<85>""","who can take the sunrise85",5,191,2,0.0388666666666666,128.644939965695,1.0365,101.847448131764
+"28",28,111.704,114.036,"""who can take the sunrise...""","who can take the sunrise85",5,191,2,0.0388666666666666,128.644939965695,1.0365,101.847448131764
 "29",29,114.897,116.985,"okay, okay, okay, okay. i'll pick something else.","okay okay okay okay ill pick something else",8,199,2,0.0348000000000001,229.885057471263,1.0713,103.251735421594
 "30",30,117.639,119.717,"- no.
 - hand it over, i can't take it anymore."," no  hand it over i cant take it anymore",10,209,2,0.0346333333333331,288.739172281041,1.10593333333333,104.205735814493
@@ -73,7 +73,7 @@
 "64",64,324.232,327.214,"now, where is it? i know i put it in here. aha!","now where is it i know i put it in here aha",12,454,6,0.0497000000000005,241.448692152915,2.33121666666667,83.5275475495723
 "65",65,327.29,330.91,"in all the years we've been together, i have never seen you behave as irrationally as...","in all the years weve been together i have never seen you behave as irrationally as",16,470,6,0.0603333333333334,265.193370165746,2.39155,84.6870100893762
 "66",66,330.957,333.158,"emily, i'm talking to you! will you stop?","emily im talking to you will you stop",8,478,6,0.0366833333333337,218.082689686504,2.42823333333333,85.8409996391551
-"67",67,333.629,337.357,"emily, this feud of ours has now reached comical heights that<85>","emily this feud of ours has now reached comical heights that85",11,489,6,0.0621333333333325,177.038626609444,2.49036666666667,86.8074922494996
+"67",67,333.629,337.357,"emily, this feud of ours has now reached comical heights that...","emily this feud of ours has now reached comical heights that85",11,489,6,0.0621333333333325,177.038626609444,2.49036666666667,86.8074922494996
 "68",68,337.474,340.778,"charlie chaplin, himself, would find hilarious, and he's dead.","charlie chaplin himself would find hilarious and hes dead",9,498,6,0.0550666666666672,163.438256658594,2.54543333333333,87.6510655544416
 "69",69,340.844,341.959,"don't follow me, richard.","dont follow me richard",4,502,6,0.0185833333333335,215.246636771299,2.56401666666667,88.034538416138
 "70",70,342.087,345.493,"oh, wait, come back. let me get you a cane and a derby.","oh wait come back let me get you a cane and a derby",13,515,6,0.0567666666666668,229.007633587786,2.62078333333333,88.5457949023885
@@ -311,7 +311,7 @@
 "273",273,1031.912,1035.594,"oh, no problem, luke. butt right in. i couldn't possibly be talking about anything important.","oh no problem luke butt right in i couldnt possibly be talking about anything important",15,2237,18,0.0613666666666669,244.432373709939,10.7870166666667,129.426254128891
 "274",274,1035.635,1036.426,"good.","good",1,2238,18,0.0131833333333323,75.8533501896391,10.8002,129.53118603925
 "275",275,1037.605,1041.278,"i just - i have to get back to the diner.","i just  i have to get back to the diner",10,2248,18,0.0612166666666667,163.354206370814,10.8614166666667,129.661956454698
-"276",276,1041.349,1043.719,"- okay, well, um - i<85>
+"276",276,1041.349,1043.719,"- okay, well, um - i...
 - i'm still standing here."," okay well um  i85  im still standing here",9,2257,18,0.039500000000002,227.848101265811,10.9009166666667,129.73504211092
 "277",277,1043.849,1045.574,"- i have to...
 - uh, sure."," i have to  uh sure",6,2263,18,0.0287500000000023,208.695652173897,10.9296666666667,129.823946333722

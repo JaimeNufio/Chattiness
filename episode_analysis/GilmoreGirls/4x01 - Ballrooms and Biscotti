@@ -38,7 +38,7 @@
 "35",35,102.134,104.284,"and we were thrown in some turkish prison,","and we were thrown in some turkish prison",8,269,2,0.0358333333333332,223.255813953489,1.2619,155.743681478204
 "36",36,104.413,106.46,"wouldn't you want someone to know that we were in turkey?","wouldnt you want someone to know that we were in turkey",11,280,2,0.0341166666666669,322.423058133853,1.29601666666667,157.751989469958
 "37",37,106.609,107.997,"where'd we get this hash we were smuggling?","whered we get this hash we were smuggling",8,288,2,0.0231333333333332,345.821325648417,1.31915,160.342369259973
-"38",38,108.222,110.977,"you were at a caf<e9>, you met a guy, he was sweet-talking you,","you were at a cafe9 you met a guy he was sweettalking you",13,301,2,0.0459166666666666,283.121597096189,1.36506666666667,162.907695334765
+"38",38,108.222,110.977,"you were at a café, you met a guy, he was sweet-talking you,","you were at a cafe9 you met a guy he was sweettalking you",13,301,2,0.0459166666666666,283.121597096189,1.36506666666667,162.907695334765
 "39",39,111.048,112.503,"he put the stuff in your purse when you weren't looking.","he put the stuff in your purse when you werent looking",11,312,2,0.02425,453.608247422681,1.38931666666667,165.243093756852
 "40",40,112.762,114.203,"at least tell me he was cute.","at least tell me he was cute",7,319,2,0.0240166666666667,291.464260929909,1.41333333333333,166.300332050276
 "41",41,114.369,115.764,"he was not bad for a hash dealer.","he was not bad for a hash dealer",8,327,2,0.0232500000000002,344.086021505374,1.43658333333333,166.804452650001
@@ -603,7 +603,7 @@
 "532",532,1453.887,1458.013,"yeah. you better walk really fast, like warp speed mr. sulu kind of fast.","yeah you better walk really fast like warp speed mr sulu kind of fast",14,4394,25,0.0687666666666663,203.58700920989,19.3270333333333,180.770567695555
 "533",533,1458.173,1459.867,"- let's go. 
 - twenty minutes!"," lets go   twenty minutes",5,4399,25,0.0282333333333327,177.09563164109,19.3552666666667,180.744837454059
-"534",534,1460.054,1463.435,"<85>since these and many other flavors await your tongues","85since these and many other flavors await your tongues",9,4408,25,0.0563499999999976,159.716060337185,19.4116166666667,180.699782462596
+"534",534,1460.054,1463.435,"...since these and many other flavors await your tongues","85since these and many other flavors await your tongues",9,4408,25,0.0563499999999976,159.716060337185,19.4116166666667,180.699782462596
 "535",535,1463.675,1467.751,"at taylor's old fashioned soda shoppe and candy store.","at taylors old fashioned soda shoppe and candy store",9,4417,25,0.0679333333333337,132.482826300294,19.47955,180.636779793067
 "536",536,1467.906,1470.491,"i wanna thank you all for coming here today","i wanna thank you all for coming here today",9,4426,25,0.0430833333333339,208.897485493227,19.5226333333333,180.543083636775
 "537",537,1470.675,1473.521,"to help us celebrate our grand opening.","to help us celebrate our grand opening",7,4433,25,0.0474333333333334,147.575544624034,19.5700666666667,180.419496019031
@@ -829,8 +829,8 @@
 - i've already had two, grandma."," tiresome people   ive already had two grandma",8,6070,34,0.0345500000000015,231.548480463087,26.83465,182.389410499266
 "734",734,1997.577,1999.282,"i'm sorry, why are we friends with them again?","im sorry why are we friends with them again",9,6079,34,0.0284166666666655,316.715542522008,26.8630666666666,182.447193114452
 "735",735,1999.434,2001.277,"just take it and nibble at it if you want to.","just take it and nibble at it if you want to",11,6090,34,0.0307166666666679,358.111774281049,26.8937833333333,182.485662253297
-"736",736,2001.592,2003.874,"gerta, you can put the souffl<e9> in now.","gerta you can put the souffle9 in now",8,6098,34,0.0380333333333321,210.341805433837,26.9318166666666,182.528821199471
-"737",737,2004.456,2005.236,"souffl<e9>?","souffle9",1,6099,34,0.0130000000000033,76.9230769230572,26.9448166666666,182.547874879948
+"736",736,2001.592,2003.874,"gerta, you can put the soufflé in now.","gerta you can put the souffle9 in now",8,6098,34,0.0380333333333321,210.341805433837,26.9318166666666,182.528821199471
+"737",737,2004.456,2005.236,"soufflé?","souffle9",1,6099,34,0.0130000000000033,76.9230769230572,26.9448166666666,182.547874879948
 "738",738,2005.584,2007.268,"yes, we're going to have a special dessert,","yes were going to have a special dessert",8,6107,34,0.0280666666666661,285.035629453687,26.9728833333333,182.577851510097
 "739",739,2007.437,2009.086,"something to celebrate your homecoming.","something to celebrate your homecoming",5,6112,34,0.0274833333333352,181.928441479672,27.0003666666666,182.621738335158
 "740",740,2009.249,2011.456,"why didn't she put it in the oven when we sat down to dinner?","why didnt she put it in the oven when we sat down to dinner",14,6126,34,0.0367833333333313,380.607159039441,27.03715,182.70785847623
@@ -928,7 +928,7 @@
 - she's taken me hostage."," hello   shes taken me hostage",6,6757,38,0.0340333333333319,176.297747306569,30.05465,181.122974448701
 "822",822,2240.932,2242.555,"- what? 
 - she's not letting me leave."," what   shes not letting me leave",7,6764,38,0.0270500000000008,258.780036968569,30.0817,181.079916008249
-"823",823,2242.707,2245.519,"dinner lasted an hour. she didn't even put the souffl<e9> in the oven","dinner lasted an hour she didnt even put the souffle9 in the oven",13,6777,38,0.046866666666665,277.382645803708,30.1285666666666,181.014454302256
+"823",823,2242.707,2245.519,"dinner lasted an hour. she didn't even put the soufflé in the oven","dinner lasted an hour she didnt even put the souffle9 in the oven",13,6777,38,0.046866666666665,277.382645803708,30.1285666666666,181.014454302256
 "824",824,2245.621,2248.069,"until we'd already finished, and now we're watching","until wed already finished and now were watching",8,6785,38,0.0407999999999978,196.07843137256,30.1693666666666,181.047465643955
 "825",825,2248.157,2252.466,"taped ballroom dancing competitions that date back to the 1800's.","taped ballroom dancing competitions that date back to the 1800s",10,6795,38,0.0718166666666624,139.243443954522,30.2411833333333,181.073617592065
 "826",826,2252.569,2254.628,"- you haven't left yet? 
