@@ -11,7 +11,7 @@
 "8",8,99.994,102.867,"- and the movie luke wears tights and sings. 
 - but you're okay?"," and the movie luke wears tights and sings   but youre okay",12,69,2,0.0478833333333332,250.609119387401,0.28215,39.456674559854
 "9",9,102.965,105.243,"- thanks to my knight in shining armor. 
-- ah, well<85>"," thanks to my knight in shining armor   ah well85",10,79,2,0.0379666666666665,263.388937664619,0.320116666666666,44.4764857519265
+- ah, well–"," thanks to my knight in shining armor   ah well85",10,79,2,0.0379666666666665,263.388937664619,0.320116666666666,44.4764857519265
 "10",10,105.355,108.12,"i just hope alec baldwin captures your rare essence.","i just hope alec baldwin captures your rare essence",9,88,2,0.0460833333333336,195.298372513561,0.3662,49.3327386808982
 "11",11,108.213,111.054,"and slims down a little for the role. i should deliver these.","and slims down a little for the role i should deliver these",12,100,2,0.0473500000000001,253.431890179514,0.41355,53.7364871051307
 "12",12,111.227,113.814,"- can i work on my laptop? 
@@ -23,7 +23,7 @@
 "15",15,122.047,123.338,"- what's with the... 
 - it's not a purse!"," whats with the   its not a purse",8,131,3,0.0215166666666666,371.8048024787,0.5204,64.5897427810467
 "16",16,123.439,125.503,"- i wasn't gonna say ""purse."" 
-- oh<85> sorry."," i wasnt gonna say purse   oh85 sorry",8,139,3,0.0344000000000001,232.558139534883,0.5548,67.0083397250366
+- oh– sorry."," i wasnt gonna say purse   oh85 sorry",8,139,3,0.0344000000000001,232.558139534883,0.5548,67.0083397250366
 "17",17,125.594,127.761,"- what's with the gay bag? 
 - it's a dog carrier."," whats with the gay bag   its a dog carrier",10,149,3,0.0361166666666667,276.880479926165,0.590916666666666,69.9984626988676
 "18",18,128.125,132.333,"my girlfriend's gone out of town with some friends, and i'm watching buster for her.","my girlfriends gone out of town with some friends and im watching buster for her",15,164,3,0.0701333333333333,213.878326996198,0.66105,73.5065662516173
@@ -46,7 +46,7 @@
 "31",31,164.777,167.917,"even though no one has ever wanted to put in a fax order,","even though no one has ever wanted to put in a fax order",13,284,3,0.0523333333333336,248.407643312101,1.14558333333333,101.287796557843
 "32",32,167.978,170.498,"and i never got the fax machine, like i told you i would never, ever ","and i never got the fax machine like i told you i would never ever ",15,299,3,0.0419999999999997,357.14285714286,1.18758333333333,103.926930253411
 "33",33,170.621,174.215,"get the fax machine, making the fax line pointless.","get the fax machine making the fax line pointless",9,308,3,0.0598999999999999,150.250417362271,1.24748333333333,106.246159638632
-"34",34,174.475,177.036,"hold on<85> let me get on the ""guinness world records"" website.","hold on85 let me get on the guinness world records website",11,319,3,0.0426833333333334,257.711831315892,1.29016666666667,108.361571747995
+"34",34,174.475,177.036,"hold on– let me get on the ""guinness world records"" website.","hold on85 let me get on the guinness world records website",11,319,3,0.0426833333333334,257.711831315892,1.29016666666667,108.361571747995
 "35",35,177.93,181.618,"yes, that's the most times anyone has ever used the word ""fax"" in a sentence.","yes thats the most times anyone has ever used the word fax in a sentence",15,334,4,0.0614666666666665,244.034707158352,1.35163333333333,110.166166371269
 "36",36,181.725,184.194,"- just be quick with this. 
 - man, i love e-mail."," just be quick with this   man i love email",10,344,4,0.0411499999999999,243.013365735116,1.39278333333333,112.153739885705
@@ -159,7 +159,7 @@
 "117",117,503.215,505.478,"- i need to know her role. 
 - there is none."," i need to know her role   there is none",10,1101,9,0.0377166666666672,265.134776844892,4.59888333333333,130.888972012499
 "118",118,505.647,508.283,"luke, if it's joint money, then i should acknowledge that","luke if its joint money then i should acknowledge that",10,1111,9,0.0439333333333337,227.617602427919,4.64281666666667,131.482310120719
-"119",119,508.351,510.266,"- and thank her the next time i see her<85> 
+"119",119,508.351,510.266,"- and thank her the next time i see her– 
 - you're not gonna see her."," and thank her the next time i see her85   youre not gonna see her",15,1126,9,0.031916666666667,469.973890339421,4.67473333333334,132.128663483013
 "120",120,510.339,511.981,"now, can we stop talking about this whole thing?","now can we stop talking about this whole thing",9,1135,9,0.0273666666666666,328.867235079173,4.7021,132.760824477078
 "121",121,512.134,516.817,"okay, but i insist on typing up something legal and binding for this loan.","okay but i insist on typing up something legal and binding for this loan",14,1149,9,0.0780499999999999,179.372197309417,4.78015,133.383262645496
@@ -178,7 +178,7 @@
 "132",132,560.607,563.298,"yes, go get trey. that's a smashing idea.","yes go get trey thats a smashing idea",8,1252,10,0.0448500000000005,178.372352285394,5.28090000000001,133.428563502129
 "133",133,563.846,565.42,"- painful hello. 
 - what's going on?"," painful hello   whats going on",6,1258,10,0.0262333333333326,228.716645489206,5.30713333333334,133.691131982685
-"134",134,565.926,568.42,"you couldn't see the smoke from stars hollow? lettie burned the entr<e9>e.","you couldnt see the smoke from stars hollow lettie burned the entre9e",12,1270,10,0.0415666666666652,288.6928628709,5.3487,133.97044048247
+"134",134,565.926,568.42,"you couldn't see the smoke from stars hollow? lettie burned the entrée.","you couldnt see the smoke from stars hollow lettie burned the entre9e",12,1270,10,0.0415666666666652,288.6928628709,5.3487,133.97044048247
 "135",135,568.645,570.466,"beyond edibility? 'cause i'm not picky.","beyond edibility cause im not picky",6,1276,10,0.0303500000000004,197.693574958811,5.37905,134.329077232353
 "136",136,570.626,572.662,"no, i could not expose you to such a loin.","no i could not expose you to such a loin",10,1286,10,0.0339333333333343,294.695481335944,5.41298333333334,134.727551255807
 "137",137,572.811,574.47,"- oh, if i had a nickel. 
