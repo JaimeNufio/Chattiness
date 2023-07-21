@@ -391,9 +391,9 @@ need to play the grandfather card","i will have a topic picked i dont need to pl
 "237",237,566.765,567.781,"okay.","okay",1,1748,10,0.0169333333333327,59.0551181102384,8.16083333333333,184.823251404961
 "238",238,567.817,569.343,"so, are you ready to trade?","so are you ready to trade",6,1754,10,0.0254333333333326,235.91087811272,8.18626666666666,184.843689310915
 "239",239,569.377,571.103,"- trade what?
-- r<e9>sum<e9>s."," trade what  re9sume9s",4,1758,10,0.0287666666666667,139.049826187717,8.21503333333333,184.969650112571
+- résumés."," trade what  re9sume9s",4,1758,10,0.0287666666666667,139.049826187717,8.21503333333333,184.969650112571
 "240",240,571.137,573.392,"it's on the schedule.
-we're supposed to trade r<e9>sum<e9>s today","its on the schedule were supposed to trade re9sume9s today",10,1768,10,0.0375833333333352,266.075388026595,8.25261666666666,185.116733771658
+we're supposed to trade résumés today","its on the schedule were supposed to trade re9sume9s today",10,1768,10,0.0375833333333352,266.075388026595,8.25261666666666,185.116733771658
 "241",241,573.426,575.801,"and get back to each other by tomorrow
 morning with questions or comments.","and get back to each other by tomorrow morning with questions or comments",13,1781,10,0.0395833333333333,328.421052631579,8.29219999999999,185.271978597361
 "242",242,575.837,576.853,"i forgot.","i forgot",2,1783,10,0.0169333333333327,118.110236220477,8.30913333333333,185.501586116106
@@ -405,9 +405,9 @@ the grandfather card.","so much for not playing the grandfather card",8,1799,10,
 "246",246,582.607,584.572,"i just mean that i haven't
 gotten around to it.","i just mean that i havent gotten around to it",10,1813,10,0.0327500000000005,305.343511450377,8.43545,185.97405077629
 "247",247,584.605,586.432,"i will get you my
-r<e9>sum<e9> by tomorrow.","i will get you my re9sume9 by tomorrow",8,1821,10,0.03045,262.72577996716,8.4659,186.024930892035
-"248",248,586.466,589.883,"fine. by ""r<e9>sum<e9>"" you
-mean ""r<e9>sum<e9>s,"" right?","fine by re9sume9 you mean re9sume9s right",7,1828,10,0.0569500000000005,122.914837576821,8.52285,186.06920966662
+résumé by tomorrow.","i will get you my re9sume9 by tomorrow",8,1821,10,0.03045,262.72577996716,8.4659,186.024930892035
+"248",248,586.466,589.883,"fine. by ""résumé"" you
+mean ""résumés,"" right?","fine by re9sume9 you mean re9sume9s right",7,1828,10,0.0569500000000005,122.914837576821,8.52285,186.06920966662
 "249",249,589.918,590.98,"how many do we need?","how many do we need",5,1833,10,0.0177000000000002,282.485875706212,8.54055,186.053924208808
 "250",250,591.016,592.851,"i have 21 versions,","i have 21 versions",4,1837,10,0.0305833333333339,130.790190735692,8.57113333333333,185.977147619145
 "251",251,592.888,596.102,"each one tailored to a particular
@@ -432,14 +432,14 @@ a republican, or a joe lieberman.","im  applying to work for a democrat a republ
 "261",261,617.455,619.163,"yesterday. anyway,
 like i was saying,","yesterday anyway like i was saying",6,1922,11,0.0284666666666662,210.772833723657,9.00321666666666,186.444545666131
 "262",262,619.196,621.903,"it's important to tailor your
-r<e9>sum<e9>s to your potential employers.","its important to tailor your re9sume9s to your potential employers",10,1932,11,0.0451166666666666,221.647580347248,9.04833333333333,186.534690554664
+résumés to your potential employers.","its important to tailor your re9sume9s to your potential employers",10,1932,11,0.0451166666666666,221.647580347248,9.04833333333333,186.534690554664
 "263",263,621.935,624.472,"you think harvard law school is
 looking for the same skill set as nasa?","you think harvard law school is looking for the same skill set as nasa",14,1946,11,0.0422833333333339,331.099724083559,9.09061666666666,186.698120020014
 "264",264,624.508,626.141,"probably not. funnily enough,","probably not funnily enough",4,1950,11,0.0272166666666654,146.968769136565,9.11783333333333,186.82550434039
 "265",265,626.176,628.841,"neither harvard law school
 nor nasa are on my list.","neither harvard law school nor nasa are on my list",10,1960,11,0.0444166666666661,225.140712945594,9.16224999999999,186.84922215258
 "266",266,628.875,631.5,"so, i'll get you my
-r<e9>sum<e9>s tonight.","so ill get you my re9sume9s tonight",7,1967,11,0.04375,160,9.20599999999999,186.696665191476
+résumés tonight.","so ill get you my re9sume9s tonight",7,1967,11,0.04375,160,9.20599999999999,186.696665191476
 "267",267,631.685,635.662,"oh, look, it's from logan --
 second-semester senior survival kit.","oh look its from logan  secondsemester senior survival kit",9,1976,11,0.0662833333333348,135.780739250688,9.27228333333333,186.576531258513
 "268",268,635.696,638.952,"there's a datebook
@@ -536,7 +536,7 @@ and he's not going to spook.","you can kick him with a spur and hes not going to
 "323",323,755.195,756.32,"you own him.","you own him",3,2377,13,0.01875,160,11.1078666666667,188.453630613989
 "324",324,756.356,758.493,"paris, stop. that's ridiculous.","paris stop thats ridiculous",4,2381,13,0.0356166666666676,112.3069723912,11.1434833333333,188.549998674347
 "325",325,758.727,760.78,"i think i'm gonna go
-work on my r<e9>sum<e9>s.","i think im gonna go work on my re9sume9s",9,2390,13,0.0342166666666666,263.029712615685,11.1777,188.583164678409
+work on my résumés.","i think im gonna go work on my re9sume9s",9,2390,13,0.0342166666666666,263.029712615685,11.1777,188.583164678409
 "326",326,760.816,762.721,"hey, let's make them go
 out and get tattoos.","hey lets make them go out and get tattoos",9,2399,13,0.0317499999999995,283.464566929138,11.20945,188.593073700757
 "327",327,762.755,764.35,"it'll be like we branded them.","itll be like we branded them",6,2405,13,0.0265833333333338,225.705329153601,11.2360333333333,188.679573506468
@@ -669,10 +669,10 @@ it comes to food, you're the boss.","youve always let me know that when it comes
 - hi."," hi  hi",3,2934,17,0.0384166666666677,78.0911062906703,14.1989666666667,183.127360862533
 "409",409,964.796,966.84,"i guess we should talk.","i guess we should talk",5,2939,17,0.0340666666666664,146.771037181997,14.2330333333333,182.739419174869
 "410",410,966.877,968.201,"i guess we should.","i guess we should",4,2943,17,0.0220666666666678,181.268882175217,14.2551,182.391490236079
-"411",411,968.288,969.382,"crudit<e9>s?","crudite9s",1,2944,17,0.0182333333333323,54.8446069469867,14.2733333333333,182.292453457334
+"411",411,968.288,969.382,"crudités?","crudite9s",1,2944,17,0.0182333333333323,54.8446069469867,14.2733333333333,182.292453457334
 "412",412,969.418,970.522,"not here. come on.","not here come on",4,2948,17,0.0184000000000007,217.391304347818,14.2917333333333,182.274252103928
 "413",413,970.558,973.312,"if your child died,
-would you serve crudit<e9>s?","if your child died would you serve crudite9s",8,2956,17,0.0459000000000003,174.29193899782,14.3376333333333,182.036117277153
+would you serve crudités?","if your child died would you serve crudite9s",8,2956,17,0.0459000000000003,174.29193899782,14.3376333333333,182.036117277153
 "414",414,973.348,975.551,"hey, can my children
 not be your go-to?!","hey can my children not be your goto",8,2964,17,0.0367166666666681,217.884702678157,14.37435,181.818115597995
 "415",415,981.185,982.511,"okay, go. talk.","okay go talk",3,2967,17,0.0221000000000004,135.746606334839,14.39645,181.644352082954
@@ -1208,7 +1208,7 @@ attendance is mandatory. thanks.","well see you tonight at the memorial attendan
 gorgonzola croustini,","ive got a walnut arugula gorgonzola croustini",7,5231,29,0.039700000000001,176.322418136016,24.8268333333333,184.448401682822
 "734",734,1701.755,1704.553,"a little caraway cornbread
 with apricots, bacon,","a little caraway cornbread with apricots bacon",7,5238,29,0.0466333333333334,150.107219442459,24.8734666666667,184.38179616175
-"735",735,1704.587,1706.481,"and a little jalape<f1>o jam,","and a little jalapef1o jam",5,5243,29,0.0315666666666668,158.394931362196,24.9050333333333,184.343032057205
+"735",735,1704.587,1706.481,"and a little jalapeöo jam,","and a little jalapef1o jam",5,5243,29,0.0315666666666668,158.394931362196,24.9050333333333,184.343032057205
 "736",736,1706.517,1709.182,"beef tenderloin chiffonade
 in little focaccia rounds,","beef tenderloin chiffonade in little focaccia rounds",7,5250,29,0.0444166666666661,157.598499061916,24.94945,184.308378981457
 "737",737,1709.216,1711.183,"and -- oh! --
@@ -1396,8 +1396,8 @@ sounds like a hoot.","whatever david bowie sounds like a hoot",7,6047,33,0.04486
 "843",843,1944.895,1946.32,"so you want elton john?","so you want elton john",5,6057,33,0.0237499999999992,210.52631578948,28.6395333333333,186.708469617152
 "844",844,1946.356,1949.131,"we were thinking very dignified --
 bach, mozart.","we were thinking very dignified  bach mozart",7,6064,33,0.0462500000000015,151.351351351346,28.6857833333333,186.700558419318
-"845",845,1949.166,1950.93,"- c<e9>line dion.
-- or c<e9>line dion."," ce9line dion  or ce9line dion",6,6070,33,0.0294000000000021,204.081632653047,28.7151833333333,186.71413221684
+"845",845,1949.166,1950.93,"- céline dion.
+- or céline dion."," ce9line dion  or ce9line dion",6,6070,33,0.0294000000000021,204.081632653047,28.7151833333333,186.71413221684
 "846",846,1950.966,1952.38,"please don't make me do that.","please dont make me do that",6,6076,33,0.0235666666666702,254.596888260216,28.73875,186.724597339399
 "847",847,1952.418,1955.721,"after all, ""my heart will go on""
 was chin chin's favorite song.","after all my heart will go on was chin chins favorite song",12,6088,33,0.0550500000000018,217.983651226151,28.7938,186.740771652636
