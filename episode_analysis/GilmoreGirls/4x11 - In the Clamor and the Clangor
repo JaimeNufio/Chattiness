@@ -329,8 +329,8 @@
 "291",291,814.337,816.702,"you'll thank me when you're interviewing for grad school in a few years","youll thank me when youre interviewing for grad school in a few years",13,2190,14,0.0394166666666668,329.809725158561,9.73523333333334,160.835226196506
 "292",292,816.773,819.083,"and find those waifish looks of yours aren't quite as charming.","and find those waifish looks of yours arent quite as charming",11,2201,14,0.0384999999999991,285.714285714292,9.77373333333334,161.08543873469
 "293",293,819.186,820.092,"whatever that means.","whatever that means",3,2204,14,0.0150999999999992,198.675496688753,9.78883333333334,161.396722264309
-"294",294,820.243,822.294,"it means these kind of clubs look good on your resumé.","it means these kind of clubs look good on your resume9",11,2215,14,0.0341833333333322,321.794246708933,9.82301666666667,161.671392067084
-"295",295,822.555,824.854,"you know what also looks good on a resumé? passing your classes.","you know what also looks good on a resume9 passing your classes",12,2227,14,0.0383166666666682,313.179643323171,9.86133333333334,161.938111547209
+"294",294,820.243,822.294,"it means these kind of clubs look good on your resum<e9>.","it means these kind of clubs look good on your resume9",11,2215,14,0.0341833333333322,321.794246708933,9.82301666666667,161.671392067084
+"295",295,822.555,824.854,"you know what also looks good on a resum<e9>? passing your classes.","you know what also looks good on a resume9 passing your classes",12,2227,14,0.0383166666666682,313.179643323171,9.86133333333334,161.938111547209
 "296",296,824.977,826.799,"no one studies more than you do, you're fine.","no one studies more than you do youre fine",9,2236,14,0.0303666666666667,296.377607025247,9.89170000000001,162.25709330127
 "297",297,826.999,830.818,"now, remember to argue, even if you have nothing to say, or add, be vocal.","now remember to argue even if you have nothing to say or add be vocal",15,2251,14,0.0636499999999993,235.663786331503,9.95535,162.51388227042
 "298",298,830.956,833.43,"very few people in lifelisten to what anyone else says anyhow.","very few people in lifelisten to what anyone else says anyhow",11,2262,14,0.0412333333333322,266.774454324987,9.99658333333334,162.735912764921
@@ -399,7 +399,7 @@
 "357",357,968.164,969.367,"when what?","when what",2,2669,17,0.0200499999999996,99.7506234413986,11.85675,165.363793359669
 "358",358,969.536,970.734,"when are you getting an apartment?","when are you getting an apartment",6,2675,17,0.0199666666666682,300.500834724518,11.8767166666667,165.31986103033
 "359",359,970.924,971.882,"three weeks ago.","three weeks ago",3,2678,17,0.0159666666666662,187.89144050105,11.8926833333333,165.217245519463
-"360",360,972.056,973.627,"three weeks – you moved already?","three weeks 85 you moved already",6,2684,17,0.0261833333333319,229.153405474233,11.9188666666666,165.114289848273
+"360",360,972.056,973.627,"three weeks <85> you moved already?","three weeks 85 you moved already",6,2684,17,0.0261833333333319,229.153405474233,11.9188666666666,165.114289848273
 "361",361,977.066,978.91,"so, where is the apartment?","so where is the apartment",5,2689,17,0.0307333333333323,162.68980477224,11.9496,164.945490228453
 "362",362,979.192,980.048,"litchfield.","litchfield",1,2690,17,0.0142666666666666,70.0934579439257,11.9638666666666,164.781089333887
 "363",363,980.855,982.645,"you moved to litchfield?","you moved to litchfield",4,2694,17,0.0298333333333327,134.078212290506,11.9937,164.591762844756
@@ -449,7 +449,7 @@
 "398",398,1066.352,1068.716,"hey, want your smile back? pork top ramen.","hey want your smile back pork top ramen",8,2999,18,0.0393999999999968,203.045685279205,13.2441166666666,168.362462325013
 "399",399,1068.84,1071.062,"for that, you share your care package.","for that you share your care package",7,3006,18,0.037033333333333,189.018901890191,13.28115,168.452261292611
 "400",400,1071.163,1073.366,"fine. my mom doesn't bake but she knows people who do.","fine my mom doesnt bake but she knows people who do",11,3017,18,0.0367166666666662,299.591466182482,13.3178666666666,168.531331933856
-"401",401,1073.919,1075.818,"this makes great packing material–","this makes great packing material85",5,3022,18,0.0316499999999981,157.977883096376,13.3495166666666,168.540670965147
+"401",401,1073.919,1075.818,"this makes great packing material<85>","this makes great packing material85",5,3022,18,0.0316499999999981,157.977883096376,13.3495166666666,168.540670965147
 "402",402,1075.894,1078.337,"look, look, look. the guy over by the vending machine.","look look look the guy over by the vending machine",10,3032,18,0.0407166666666664,245.599672533772,13.3902333333333,168.538685258007
 "403",403,1079.633,1081.245,"two thumbs up!","two thumbs up",3,3035,19,0.0268666666666642,111.66253101738,13.4171,168.476531951295
 "404",404,1081.322,1083.953,"that is my friend josh's roommate, william.","that is my friend joshs roommate william",7,3042,19,0.0438500000000014,159.635119726335,13.46095,168.4552271232
@@ -828,7 +828,7 @@
 "731",731,1878.367,1880.85,"you passed judgment on our marriage, you passed judgment on our divorce","you passed judgment on our marriage you passed judgment on our divorce",12,5539,32,0.0413833333333325,289.971808296422,23.9669666666666,176.65398184294
 "732",732,1880.99,1884.01,"and now you're passing judgment on our living together.","and now youre passing judgment on our living together",9,5548,32,0.050333333333333,178.807947019869,24.0173,176.725961194802
 "733",733,1884.133,1885.623,"i'm not passing judgment on you living together.","im not passing judgment on you living together",8,5556,32,0.0248333333333335,322.147651006709,24.0421333333333,176.824787542077
-"734",734,1885.756,1888.229,"you're passing judgment on you living together– by not living together.","youre passing judgment on you living together85 by not living together",11,5567,32,0.0412166666666659,266.882329154877,24.08335,176.918473481166
+"734",734,1885.756,1888.229,"you're passing judgment on you living together<85> by not living together.","youre passing judgment on you living together85 by not living together",11,5567,32,0.0412166666666659,266.882329154877,24.08335,176.918473481166
 "735",735,1888.372,1890.271,"you know, i was a little tipsy on that cruise ship,","you know i was a little tipsy on that cruise ship",11,5578,32,0.0316499999999981,347.551342812027,24.115,177.023186586688
 "736",736,1890.385,1893.149,"but i don't remember anyone pronouncing us husband and wife and lorelai.","but i dont remember anyone pronouncing us husband and wife and lorelai",12,5590,32,0.0460666666666649,260.492040520994,24.1610666666666,177.138733618288
 "737",737,1893.299,1894.357,"they may as well have,","they may as well have",5,5595,32,0.0176333333333332,283.553875236297,24.1787,177.234819809605
@@ -1005,7 +1005,7 @@
 "898",898,2317.92,2320.638,"she asked me out like a 100 times. she followed me to class.","she asked me out like a 100 times she followed me to class",13,6784,39,0.0452999999999975,286.97571743931,29.1487666666667,175.405920595438
 "899",899,2320.756,2322.768,"she baked me a cake every day for a month,","she baked me a cake every day for a month",10,6794,39,0.0335333333333362,298.210735586456,29.1823,175.469127855153
 "900",900,2322.906,2326.198,"then she snuck in my window and hid in my closet, covered in whipped cream.","then she snuck in my window and hid in my closet covered in whipped cream",15,6809,39,0.0548666666666653,273.390036452012,29.2371666666667,175.534163228141
-"901",901,2326.408,2329.659,"oh, that is a little – extreme.","oh that is a little 85 extreme",7,6816,39,0.0541833333333367,129.191018148254,29.29135,175.544489793859
+"901",901,2326.408,2329.659,"oh, that is a little <85> extreme.","oh that is a little 85 extreme",7,6816,39,0.0541833333333367,129.191018148254,29.29135,175.544489793859
 "902",902,2329.793,2331.628,"i didn't tell anybody about the laundry room.","i didnt tell anybody about the laundry room",8,6824,39,0.0305833333333339,261.580381471384,29.3219333333333,175.513470668766
 "903",903,2331.901,2334.318,"well, good.","well good",2,6826,39,0.0402833333333395,49.6483243690449,29.3622166666667,175.437285961527
 "904",904,2336.227,2340.221,"do you think that you could maybe not tell anyone this story also,","do you think that you could maybe not tell anyone this story also",13,6839,40,0.066566666666669,195.292939409107,29.4287833333334,174.640039486997
@@ -1029,7 +1029,7 @@
 "922",922,2447.329,2449.95,"well, then i guess i could have imagined it after all.","well then i guess i could have imagined it after all",11,6954,41,0.0436833333333273,251.812285387291,30.0100333333334,170.245848950722
 "923",923,2450.524,2451.347,"how long?","how long",2,6956,41,0.013716666666672,145.808019441013,30.02375,170.247134270005
 "924",924,2451.671,2452.576,"how long what?","how long what",3,6959,41,0.0150833333333367,198.895027624265,30.0388333333334,170.221147851857
-"925",925,2452.838,2454.697,"how long – this.","how long 85 this",4,6963,41,0.0309833333333321,129.101667563211,30.0698166666667,170.177846483188
+"925",925,2452.838,2454.697,"how long <85> this.","how long 85 this",4,6963,41,0.0309833333333321,129.101667563211,30.0698166666667,170.177846483188
 "926",926,2456.396,2458.537,"i started it when i was six,","i started it when i was six",7,6970,41,0.035683333333327,196.170014012179,30.1055,170.127258101396
 "927",927,2459.576,2464.004,"the day you told me the cookie monster was one of the seven deadly sins.","the day you told me the cookie monster was one of the seven deadly sins",15,6985,42,0.0737999999999981,203.252032520331,30.1793,170.068516372658
 "928",928,2464.112,2466.641,"- gluttony. 
@@ -1050,7 +1050,7 @@
 "942",942,2510.797,2513.326,"and i won't be lying to you or sneaking around.","and i wont be lying to you or sneaking around",10,7129,42,0.0421499999999999,237.247924080665,30.8821833333334,170.175583206687
 "943",943,2513.448,2515.061,"this way we can both be happy.","this way we can both be happy",7,7136,42,0.0268833333333381,260.384376937338,30.9090666666667,170.14970025191
 "944",944,2516.128,2517.887,"children do not make the rules.","children do not make the rules",6,7142,42,0.0293166666666669,204.661739624785,30.9383833333334,170.018407589389
-"945",945,2519.09,2524.273,"you may– move out and live like that somewhere else.","you may85 move out and live like that somewhere else",10,7152,43,0.0863833333333332,115.763071580166,31.0247666666667,169.879896231159
+"945",945,2519.09,2524.273,"you may<85> move out and live like that somewhere else.","you may85 move out and live like that somewhere else",10,7152,43,0.0863833333333332,115.763071580166,31.0247666666667,169.879896231159
 "946",946,2532.951,2534.503,"i think you handled that very well.","i think you handled that very well",7,7159,43,0.0258666666666689,270.618556701007,31.0506333333334,169.750505638136
 "947",947,2534.661,2537.047,"- i was so humiliated. 
 - you didn't know."," i was so humiliated   you didnt know",8,7167,43,0.0397666666666661,201.173512154236,31.0904,169.643803036806

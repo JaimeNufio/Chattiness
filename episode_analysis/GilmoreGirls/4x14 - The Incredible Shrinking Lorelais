@@ -34,7 +34,7 @@
 - that's okay. michel?"," this doctors really booked but i can try   thats okay michel",12,284,2,0.0484833333333332,247.507734616707,1.10808333333333,223.427341262487
 "30",30,76.364,79.646,"i'm at the tally rand making the money that keeps me from having to stand","im at the tally rand making the money that keeps me from having to stand",15,299,2,0.0546999999999999,274.223034734918,1.16278333333333,223.423038504662
 "31",31,79.708,82.406,"at expressway off-ramps selling bags of cherries.","at expressway offramps selling bags of cherries",7,306,2,0.0449666666666668,155.670867309117,1.20775,223.210655631271
-"32",32,82.513,86.005,"okay. oh well, i guess i can move some things around. i don't–","okay oh well i guess i can move some things around i dont85",13,319,2,0.0581999999999998,223.367697594502,1.26595,222.802660440839
+"32",32,82.513,86.005,"okay. oh well, i guess i can move some things around. i don't<85>","okay oh well i guess i can move some things around i dont85",13,319,2,0.0581999999999998,223.367697594502,1.26595,222.802660440839
 "33",33,86.563,88.053,"- what is that? 
 - that's your phone."," what is that   thats your phone",7,326,2,0.0248333333333332,281.879194630873,1.29078333333333,221.974977639009
 "34",34,88.519,91.105,"- who's phone? our phone? 
@@ -591,7 +591,7 @@
 "457",457,1367.827,1370.27,"- why? 
 - because they already sent it back to canada."," why   because they already sent it back to canada",10,4678,23,0.0407166666666664,245.599672533772,18.5510666666667,204.840974076106
 "458",458,1370.372,1372.957,"- why would they do that? 
-- because– that's where it's mother is."," why would they do that   because85 thats where its mother is",12,4690,23,0.0430833333333339,278.529980657636,18.59415,204.946527988029
+- because<85> that's where it's mother is."," why would they do that   because85 thats where its mother is",12,4690,23,0.0430833333333339,278.529980657636,18.59415,204.946527988029
 "459",459,1373.04,1376.122,"i'm sorry, i got no sleep last night. davey cried forever,","im sorry i got no sleep last night davey cried forever",11,4701,23,0.0513666666666685,214.146658014269,18.6455166666667,205.038107727524
 "460",460,1376.378,1379.108,"and i finally got him to sleep, and i must have fallen asleep with him.","and i finally got him to sleep and i must have fallen asleep with him",15,4716,23,0.0455000000000003,329.670329670327,18.6910166666667,205.154939737054
 "461",461,1379.168,1382.687,"sookie, i was counting on you. now they have to reship it back here,","sookie i was counting on you now they have to reship it back here",14,4730,24,0.0586500000000001,238.704177323103,18.7496666666667,205.250054032374
@@ -627,7 +627,7 @@
 "484",484,1448.091,1449.586,"that's why i have a partner.","thats why i have a partner",6,5022,25,0.0249166666666686,240.802675585265,19.8102833333334,207.921033506924
 "485",485,1449.689,1452.858,"i didn't know i was gonna be pregnant when we decided to open the inn.","i didnt know i was gonna be pregnant when we decided to open the inn",15,5037,25,0.0528166666666645,284.001262227844,19.8631,207.993297285077
 "486",486,1452.94,1454.537,"and if you'd known, we wouldn't be partners?","and if youd known we wouldnt be partners",8,5045,25,0.0266166666666663,300.563556668758,19.8897166666667,208.063302924992
-"487",487,1454.624,1458.397,"no, i mean– look, this isn't the stuff i'm supposed to help with, anyhow.","no i mean85 look this isnt the stuff im supposed to help with anyhow",14,5059,25,0.0628833333333318,222.634508348799,19.9526,208.159935038329
+"487",487,1454.624,1458.397,"no, i mean<85> look, this isn't the stuff i'm supposed to help with, anyhow.","no i mean85 look this isnt the stuff im supposed to help with anyhow",14,5059,25,0.0628833333333318,222.634508348799,19.9526,208.159935038329
 "488",488,1458.489,1461.147,"- what are you talking about? 
 - the planning, the decision making..."," what are you talking about   the planning the decision making",11,5070,25,0.0442999999999984,248.306997742673,19.9969,208.255406731619
 "489",489,1461.23,1464.655,"i've never been any good at that. my part comes later, when we open the inn.","ive never been any good at that my part comes later when we open the inn",16,5086,25,0.0570833333333326,280.291970802923,20.0539833333334,208.2938066499
@@ -661,7 +661,7 @@
 "508",508,1523.509,1524.692,"- you're staying with me? 
 - yes?"," youre staying with me   yes",6,5282,26,0.0197166666666665,304.311073541845,20.8475166666667,207.864399601626
 "509",509,1524.825,1526.295,"- and i knew this? 
-- rory told you–"," and i knew this   rory told you85",8,5290,26,0.0245000000000005,326.530612244892,20.8720166666667,207.907505325204
+- rory told you<85>"," and i knew this   rory told you85",8,5290,26,0.0245000000000005,326.530612244892,20.8720166666667,207.907505325204
 "510",510,1526.412,1528.266,"ha, ha, rory told me, yeah.","ha ha rory told me yeah",6,5296,26,0.0309000000000007,194.174757281549,20.9029166666667,207.924690305229
 "511",511,1528.378,1530.955,"she did tell you, right? she said she was gonna call.","she did tell you right she said she was gonna call",11,5307,26,0.04295,256.111757857975,20.9458666666667,207.991010789972
 "512",512,1531.897,1534.482,"- i guess you're staying with me. 
@@ -687,7 +687,7 @@
 "525",525,1568.503,1571.121,"and i thought maybe we could do it over dinner unless you and nicole have...","and i thought maybe we could do it over dinner unless you and nicole have",15,5477,27,0.0436333333333361,343.773873185616,21.5580166666667,209.117009528682
 "526",526,1571.182,1574.988,"- she's in boston this week. 
 - okay. well, how about silvano's, 8:00?"," shes in boston this week   okay well how about silvanos 800",12,5489,27,0.063433333333334,189.174986862846,21.62145,209.193102482508
-"527",527,1575.07,1578.787,"- why don't you just come here? i could make us some– 
+"527",527,1575.07,1578.787,"- why don't you just come here? i could make us some<85> 
 - no, this isn't diner talk. it's more official."," why dont you just come here i could make us some85   no this isnt diner talk its more official",20,5509,27,0.0619500000000016,322.841000807094,21.6834,209.29207737785
 "528",528,1578.844,1580.911,"- are you being drafted? 
 - yes, that's it."," are you being drafted   yes thats it",8,5517,27,0.0344500000000001,232.220609579099,21.71785,209.397663432501
@@ -716,7 +716,7 @@
 "548",548,1652.619,1653.191,"thank you.","thank you",2,5687,28,0.00953333333333527,209.790209790167,22.3785333333334,206.468093770515
 "549",549,1654.368,1657.149,"i was wondering if i could go over a couple of things from your lecture the other day.","i was wondering if i could go over a couple of things from your lecture the other day",18,5705,28,0.0463499999999991,388.349514563114,22.4248833333333,206.517831989715
 "550",550,1657.43,1662.981,"okay, well, i wrote something down here, but i cannot for the life of me read my own handwriting.","okay well i wrote something down here but i cannot for the life of me read my own handwriting",19,5724,28,0.0925166666666655,205.368402089716,22.5174,206.546840297566
-"551",551,1663.155,1666.513,"seriously, if i had this analyzed, charlize theron would be playing me in a movie–","seriously if i had this analyzed charlize theron would be playing me in a movie85",15,5739,28,0.0559666666666658,268.016676593214,22.5733666666667,206.582776806545
+"551",551,1663.155,1666.513,"seriously, if i had this analyzed, charlize theron would be playing me in a movie<85>","seriously if i had this analyzed charlize theron would be playing me in a movie85",15,5739,28,0.0559666666666658,268.016676593214,22.5733666666667,206.582776806545
 "552",552,1667.639,1671.393,"'cause i'd be a serial killer, and pretty girls like to get fat and play serial killers","cause id be a serial killer and pretty girls like to get fat and play serial killers",17,5756,28,0.0625666666666689,271.710175812457,22.6359333333333,206.647139319136
 "553",553,1671.53,1675.279,"'cause they win an oscar and - i'm sorry, should i go on?","cause they win an oscar and  im sorry should i go on",12,5768,28,0.0624833333333337,192.051213656974,22.6984166666667,206.661504479966
 "554",554,1675.371,1678.643,"or you can just wait to let me find your paper so we can talk about why you're really here.","or you can just wait to let me find your paper so we can talk about why youre really here",20,5788,28,0.0545333333333322,366.748166259176,22.75295,206.644787584215
@@ -740,7 +740,7 @@
 - oh, no, no, i'm fine, really."," and i think thats what youve done   oh no no im fine really",14,5937,29,0.065633333333335,213.306246825794,23.4912666666667,206.081600335875
 "571",571,1729.235,1732.731,"i just have a little trouble with game theory, that's all. i blame my mother.","i just have a little trouble with game theory thats all i blame my mother",15,5952,29,0.0582666666666682,257.437070938208,23.5495333333334,206.157151888416
 "572",572,1732.818,1734.923,"she always made up the games at home when i was growing up.","she always made up the games at home when i was growing up",13,5965,29,0.0350833333333336,370.546318289783,23.5846166666667,206.252797236828
-"573",573,1735.004,1738.634,"i begged her for monopoly, but she insisted on ""mimic your favorite sweat hog"", so–","i begged her for monopoly but she insisted on mimic your favorite sweat hog so85",15,5980,29,0.0605000000000018,247.933884297513,23.6451166666667,206.347591688812
+"573",573,1735.004,1738.634,"i begged her for monopoly, but she insisted on ""mimic your favorite sweat hog"", so<85>","i begged her for monopoly but she insisted on mimic your favorite sweat hog so85",15,5980,29,0.0605000000000018,247.933884297513,23.6451166666667,206.347591688812
 "574",574,1738.706,1741.421,"i talked with your advisor. she has the same concern that i do.","i talked with your advisor she has the same concern that i do",13,5993,30,0.0452500000000024,287.292817679543,23.6903666666667,206.440996881232
 "575",575,1741.696,1744.891,"- what concern is that? 
 - you're taking too many courses this semester."," what concern is that   youre taking too many courses this semester",12,6005,30,0.0532500000000027,225.352112676045,23.7436166666667,206.50857407078
@@ -752,7 +752,7 @@
 "580",580,1754.038,1757.788,"but, my grandfather took this same workload when he went here.","but my grandfather took this same workload when he went here",11,6062,30,0.0625,176,23.9446,206.89178681103
 "581",581,1757.87,1759.852,"different people work at different paces.","different people work at different paces",6,6068,30,0.0330333333333366,181.634712411687,23.9776333333334,206.929545900915
 "582",582,1760.052,1763.573,"you shouldn't compare yourself to anyone else. you work at a slower pace.","you shouldnt compare yourself to anyone else you work at a slower pace",13,6081,30,0.0586833333333364,221.527975007089,24.0363166666667,206.908325769492
-"583",583,1763.677,1765.802,"- i don't. i'm not– 
+"583",583,1763.677,1765.802,"- i don't. i'm not<85> 
 - the choice is ultimately yours."," i dont im not85   the choice is ultimately yours",10,6091,30,0.0354166666666667,282.352941176471,24.0717333333334,206.89046694353
 "584",584,1766.042,1769.063,"you can stay, but this is a ""d"" paper.","you can stay but this is a d paper",9,6100,30,0.0503500000000031,178.748758689165,24.1220833333334,206.865136779021
 "585",585,1770.159,1771.311,"this is not a big deal.","this is not a big deal",6,6106,30,0.0191999999999969,312.50000000005,24.1412833333334,206.770096333959
@@ -986,7 +986,7 @@
 - that's not a big deal."," i had to drop a class i was told to drop a class   thats not a big deal",19,7856,39,0.0648666666666638,292.908530318615,31.86075,203.674206916626
 "751",751,2314.113,2317.165,"it's a really big deal. i'm not supposed to drop a class.","its a really big deal im not supposed to drop a class",12,7868,39,0.0508666666666689,235.910878112703,31.9116166666666,203.683782068225
 "752",752,2317.242,2320.001,"i'm not the drop-a-class person. i get good grades.","im not the dropaclass person i get good grades",9,7877,39,0.0459833333333336,195.723088075389,31.9576,203.63035552724
-"753",753,2320.089,2323.104,"- i– handle things. 
+"753",753,2320.089,2323.104,"- i<85> handle things. 
 - hey, come on."," i85 handle things   hey come on",7,7884,39,0.0502499999999979,139.303482587071,32.00785,203.534345451501
 "754",754,2325.147,2328.402,"and lane, she's not around anymore, and i...","and lane shes not around anymore and i",8,7892,39,0.0542500000000018,147.465437788014,32.0621,203.416943534132
 "755",755,2329.591,2334.359,"i know she had to go, but i miss her, and i liked her there,","i know she had to go but i miss her and i liked her there",15,7907,39,0.0794666666666672,188.758389261744,32.1415666666666,203.29292449367

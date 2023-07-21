@@ -169,7 +169,7 @@
 "141",141,394.964,397.734,"this is degrading for a man of my capabilities.","this is degrading for a man of my capabilities",9,1085,7,0.0461666666666664,194.945848375453,4.70123333333333,163.888772330254
 "142",142,397.836,399.484,"well, what about me? i've got no kitchen.","well what about me ive got no kitchen",8,1093,7,0.0274666666666661,291.262135922336,4.7287,163.9670774618
 "143",143,399.578,401.555,"i'm a chef. my skills are deteriorating.","im a chef my skills are deteriorating",7,1100,7,0.0329500000000005,212.44309559939,4.76165,164.026219664779
-"144",144,401.759,404.406,"i need to sauté, emulsify, marinate.","i need to saute9 emulsify marinate",6,1106,7,0.0441166666666665,136.003022289385,4.80576666666667,164.178778740487
+"144",144,401.759,404.406,"i need to saut<e9>, emulsify, marinate.","i need to saute9 emulsify marinate",6,1106,7,0.0441166666666665,136.003022289385,4.80576666666667,164.178778740487
 "145",145,404.565,406.864,"i need more mental stimulation.","i need more mental stimulation",5,1111,7,0.0383166666666663,130.491518051328,4.84408333333333,164.264565846507
 "146",146,406.972,410.484,"i need to frickin' fry a dead animal in a skillet. i'm going nuts.","i need to frickin fry a dead animal in a skillet im going nuts",14,1125,7,0.0585333333333333,239.179954441913,4.90261666666667,164.385263951732
 "147",147,410.59,412.66,"- i should've been a dancer. 
@@ -646,7 +646,7 @@
 - what? wow, yeah."," wow look at the gargoyles   what wow yeah",9,4422,25,0.0462666666666678,194.524495677229,19.6404166666667,177.956639933214
 "540",540,1491.422,1493.28,"oh, now those have to be imported from europe.","oh now those have to be imported from europe",9,4431,25,0.0309666666666658,290.635091496241,19.6713833333334,177.93338197037
 "541",541,1493.787,1496.941,"the insurance on this place must be astronomical.","the insurance on this place must be astronomical",8,4439,25,0.0525666666666666,152.187698161065,19.72395,177.86323595395
-"542",542,1498.441,1501.233,"nanny, you brought the kids! voc– trouxe as crian–as.","nanny you brought the kids vocea trouxe as criane7as",9,4448,26,0.0465333333333319,193.40974212035,19.7704833333334,177.757622339538
+"542",542,1498.441,1501.233,"nanny, you brought the kids! voc<ea> trouxe as crian<e7>as.","nanny you brought the kids vocea trouxe as criane7as",9,4448,26,0.0465333333333319,193.40974212035,19.7704833333334,177.757622339538
 "543",543,1501.365,1502.491,"paris!","paris",1,4449,26,0.0187666666666663,53.2859680284203,19.78925,177.597552848426
 "544",544,1503.245,1506.521,"ah, minha queride elzira, catarina.","ah minha queride elzira catarina",5,4454,26,0.0546000000000011,91.5750915750897,19.84385,177.433968288867
 "545",545,1506.757,1509.502,"e olindo enrique, antonio banderas.","e olindo enrique antonio banderas",5,4459,26,0.0457499999999982,109.289617486343,19.8896,177.285454906002

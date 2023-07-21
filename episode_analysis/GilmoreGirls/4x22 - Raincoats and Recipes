@@ -4,7 +4,7 @@
 "3",3,12.846,15.329,"what time is it? like, 3:00 in the morning? i cannot tell anymore.","what time is it like 300 in the morning i cannot tell anymore",13,28,1,0.0413833333333333,314.13612565445,0.12285,89.6842985839928
 "4",4,15.473,19.829,"want some mac and cheese? i love mac and cheese when i can't sleep.","want some mac and cheese i love mac and cheese when i cant sleep",14,42,1,0.0726,192.837465564738,0.19545,114.427590464299
 "5",5,20.433,22.512,"cool. individual cheese slices.","cool individual cheese slices",4,46,1,0.03465,115.440115440115,0.2301,130.87006728548
-"6",6,22.67,26.131,"so, i've been making out my résumé so i can try to get a summer job,","so ive been making out my re9sume9 so i can try to get a summer job",16,62,1,0.0576833333333333,277.3764807859,0.287783333333333,139.899091545339
+"6",6,22.67,26.131,"so, i've been making out my r<e9>sum<e9> so i can try to get a summer job,","so ive been making out my re9sume9 so i can try to get a summer job",16,62,1,0.0576833333333333,277.3764807859,0.287783333333333,139.899091545339
 "7",7,26.182,30.647,"because there is no way that i am going to swipe cafeteria cards again next year.","because there is no way that i am going to swipe cafeteria cards again next year",16,78,1,0.0744166666666667,215.005599104143,0.3622,148.820390392663
 "8",8,30.889,31.795,"my whites are done.","my whites are done",4,82,1,0.0151,264.900662251655,0.3773,160.131350642694
 "9",9,32.224,35.645,"do you know that the best time to do your laundry at yale is in the middle of the night?","do you know that the best time to do your laundry at yale is in the middle of the night",20,102,1,0.0570166666666668,350.774627301958,0.434316666666667,167.990469265055
@@ -80,7 +80,7 @@
 "69",69,255.843,257.783,"ooh, man, it smells great in here.","ooh man it smells great in here",7,728,5,0.0323333333333338,216.494845360822,2.87431666666667,169.932547532344
 "70",70,257.942,260.112,"this is the best kitchen staff i've ever had, ever!","this is the best kitchen staff ive ever had ever",10,738,5,0.0361666666666669,276.497695852533,2.91048333333333,170.567325040737
 "71",71,260.25,262.371,"i don't know how we got them, but they're amazing!","i dont know how we got them but theyre amazing",10,748,5,0.0353499999999997,282.885431400285,2.94583333333333,171.106050082283
-"72",72,262.689,265.822,"- i got to show you this mincing. seriously– 
+"72",72,262.689,265.822,"- i got to show you this mincing. seriously<85> 
 - no, no, no, no. i believe you."," i got to show you this mincing seriously85   no no no no i believe you",16,764,5,0.0522166666666664,306.415576125122,2.99805,171.80035665867
 "73",73,265.965,270.149,"they seem terrific. but, sookie, so there are seven workers in here,","they seem terrific but sookie so there are seven workers in here",12,776,5,0.0697333333333338,172.084130019119,3.06778333333333,172.352908614921
 "74",74,270.21,272.386,"- and we're only budgeted for five. 
@@ -368,7 +368,7 @@
 "281",281,926.594,928.755,"- of course. 
 - after neutralizing my pillow,"," of course   after neutralizing my pillow",7,2889,16,0.0360166666666657,194.354465525225,11.6681166666666,186.716505542355
 "282",282,928.857,931.506,"i ran up the stairs, climbed out the bathroom window,","i ran up the stairs climbed out the bathroom window",10,2899,16,0.04415,226.500566251416,11.7122666666666,186.790454836224
-"283",283,931.643,934.325,"scaled the trellis up the side of the house, and hid on the roof–","scaled the trellis up the side of the house and hid on the roof85",14,2913,16,0.0447000000000003,313.199105145412,11.7569666666666,186.879604600124
+"283",283,931.643,934.325,"scaled the trellis up the side of the house, and hid on the roof<85>","scaled the trellis up the side of the house and hid on the roof85",14,2913,16,0.0447000000000003,313.199105145412,11.7569666666666,186.879604600124
 "284",284,934.754,936.881,"- completely naked. 
 - aw, jeez!"," completely naked   aw jeez",5,2918,16,0.0354499999999992,141.043723554305,11.7924166666666,186.988972645829
 "285",285,936.999,939.974,"the worst part of night terrors is it always ends up with me","the worst part of night terrors is it always ends up with me",13,2931,16,0.0495833333333337,262.184873949578,11.842,187.076683510601
@@ -446,7 +446,7 @@
 "347",347,1126.017,1128.57,"the ride up here was very dusty, lorelai.","the ride up here was very dusty lorelai",8,3544,19,0.0425499999999981,188.014101057588,14.3850833333333,188.475545679339
 "348",348,1128.657,1132.043,"you should warn people not to wear their white pants upon arrival.","you should warn people not to wear their white pants upon arrival",12,3556,19,0.0564333333333328,212.64028352038,14.4415166666666,188.567670549103
 "349",349,1132.114,1135.191,"- i will do that, taylor. 
-- so, do i bring my own bags in or–?"," i will do that taylor   so do i bring my own bags in or85",15,3571,19,0.0512833333333333,292.492687682808,14.4928,188.602349661144
+- so, do i bring my own bags in or<85>?"," i will do that taylor   so do i bring my own bags in or85",15,3571,19,0.0512833333333333,292.492687682808,14.4928,188.602349661144
 "350",350,1135.258,1137.951,"no, you don't. eric, jeremy, sam, these bags, please.","no you dont eric jeremy sam these bags please",9,3580,19,0.0448833333333331,200.51986632009,14.5376833333333,188.685479370161
 "351",351,1138.37,1140.394,"the blue one has breakables.","the blue one has breakables",5,3585,20,0.0337333333333352,148.221343873509,14.5714166666666,188.796576341331
 "352",352,1140.828,1144.515,"okay, they're unloading them in the back. i already sent dean in to start putting them up.","okay theyre unloading them in the back i already sent dean in to start putting them up",17,3602,20,0.0614500000000021,276.647681041488,14.6328666666666,188.884503662567
@@ -491,7 +491,7 @@
 "379",379,1238.001,1238.626,"right.","right",1,3861,21,0.0104166666666667,96,15.71695,187.019725004379
 "380",380,1241.529,1243.877,"because he doesn't treat me right, right?","because he doesnt treat me right right",7,3868,21,0.0391333333333326,178.875638841571,15.7560833333333,186.65311111392
 "381",381,1245.077,1246.413,"right.","right",1,3869,21,0.0222666666666669,44.9101796407181,15.77835,186.378574021701
-"382",382,1247.59,1252.333,"and you wouldn't want me to be with someone who doesn't treat me right, because–","and you wouldnt want me to be with someone who doesnt treat me right because85",15,3884,21,0.0790500000000028,189.753320683105,15.8574,186.08661188016
+"382",382,1247.59,1252.333,"and you wouldn't want me to be with someone who doesn't treat me right, because<85>","and you wouldnt want me to be with someone who doesnt treat me right because85",15,3884,21,0.0790500000000028,189.753320683105,15.8574,186.08661188016
 "383",383,1253.434,1254.504,"you're my friend, right?","youre my friend right",4,3888,21,0.0178333333333323,224.299065420574,15.8752333333333,185.818198007588
 "384",384,1256.849,1257.423,"right...","right",1,3889,21,0.00956666666666782,104.529616724726,15.8848,185.506413364375
 "385",385,1259.736,1260.663,"i'm your friend.","im your friend",3,3892,22,0.0154499999999985,194.174757281573,15.90025,185.214153003821
@@ -555,7 +555,7 @@
 - oh, god, yeah. me? i'm totally fine."," you okay   oh god yeah me im totally fine",10,4392,25,0.0530333333333336,188.560653676932,18.2408,182.685614254453
 "434",434,1443.241,1444.791,"- lorelai! 
 - oh, god."," lorelai   oh god",4,4396,25,0.0258333333333326,154.838709677424,18.2666333333333,182.563715596533
-"435",435,1445.979,1451.294,"i'm fine. no problem. that was your door, so you could just follow that on up–","im fine no problem that was your door so you could just follow that on up85",16,4412,25,0.0885833333333342,180.620884289744,18.3552166666667,182.607250856377
+"435",435,1445.979,1451.294,"i'm fine. no problem. that was your door, so you could just follow that on up<85>","im fine no problem that was your door so you could just follow that on up85",16,4412,25,0.0885833333333342,180.620884289744,18.3552166666667,182.607250856377
 "436",436,1451.354,1454.345,"- and we'll see you at dinner. rory? 
 - are you sure you're okay?"," and well see you at dinner rory   are you sure youre okay",13,4425,25,0.0498499999999998,260.782347041125,18.4050666666667,182.654672791809
 "437",437,1454.432,1457.6,"yeah, yeah, i'm fine. i'm fine it's like the third time i did that today. it's a bit.","yeah yeah im fine im fine its like the third time i did that today its a bit",18,4443,25,0.0527999999999982,340.909090909102,18.4578666666667,182.714639436964
@@ -603,7 +603,7 @@
 "464",464,1551.396,1552.879,"there's a debate going on about that.","theres a debate going on about that",7,4737,26,0.0247166666666658,283.209710047212,19.6773833333334,182.968828845101
 "465",465,1556.04,1558.021,"- we're all set up. 
 - stop whispering in my ear, kirk."," were all set up   stop whispering in my ear kirk",11,4748,26,0.0330166666666666,333.165068147401,19.7104,182.97194934582
-"466",466,1558.107,1559.691,"- i'm just saying– 
+"466",466,1558.107,1559.691,"- i'm just saying<85> 
 - you're still doing it, kirk."," im just saying85   youre still doing it kirk",9,4757,26,0.026400000000001,340.909090909078,19.7368,183.01244594679
 "467",467,1560.509,1563.852,"- can i get you anything, mr. doose? 
 - another pen would be nice."," can i get you anything mr doose   another pen would be nice",13,4770,27,0.0557166666666679,233.323362249471,19.7925166666667,183.041366414603
@@ -812,7 +812,7 @@
 "624",624,2059.848,2066.243,"i'll be happy again. things happen for a reason, right?","ill be happy again things happen for a reason right",10,6289,35,0.106583333333333,93.8232994526977,26.1392833333334,182.648119322668
 "625",625,2066.694,2067.364,"right.","right",1,6290,35,0.0111666666666679,89.5522388059604,26.15045,182.459357052255
 "626",626,2070.605,2074.707,"i can't believe this is... that we're...","i cant believe this is that were",7,6297,35,0.0683666666666644,102.389078498297,26.2188166666667,181.832956406722
-"627",627,2075.1,2075.93,"i can–","i can85",2,6299,35,0.0138333333333321,144.578313253025,26.23265,181.266845172913
+"627",627,2075.1,2075.93,"i can<85>","i can85",2,6299,35,0.0138333333333321,144.578313253025,26.23265,181.266845172913
 "628",628,2101.945,2103.696,"- hey. how you doing? 
 - good."," hey how you doing   good",6,6305,36,0.0291833333333292,205.596801827557,26.2618333333334,180.71299113373
 "629",629,2104.116,2106.115,"- good. luke danes. 

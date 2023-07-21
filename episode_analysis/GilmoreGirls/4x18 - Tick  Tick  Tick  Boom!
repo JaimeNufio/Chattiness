@@ -213,7 +213,7 @@
 "168",168,586.609,589.669,"- kirk, something wrong? 
 - well, i..."," kirk something wrong   well i",6,1626,10,0.0509999999999991,117.647058823532,6.78398333333334,165.761284531165
 "169",169,590.166,591.515,"don't touch the candy.","dont touch the candy",4,1630,10,0.0224833333333341,177.909562638986,6.80646666666667,165.786015279268
-"170",170,591.644,594,"i'm sorry. i didn't want to touch the candy. it's just–","im sorry i didnt want to touch the candy its just85",11,1641,10,0.0392666666666666,280.135823429542,6.84573333333334,165.880739040536
+"170",170,591.644,594,"i'm sorry. i didn't want to touch the candy. it's just<85>","im sorry i didnt want to touch the candy its just85",11,1641,10,0.0392666666666666,280.135823429542,6.84573333333334,165.880739040536
 "171",171,594.142,597.645,"kirk, i just had a spat with my sourball distributor, and i'm not in the mood.","kirk i just had a spat with my sourball distributor and im not in the mood",16,1657,10,0.0583833333333321,274.050813588358,6.90411666666667,166.039334083596
 "172",172,597.716,598.536,"now, what's the trouble?","now whats the trouble",4,1661,10,0.0136666666666675,292.68292682925,6.91778333333334,166.224838940295
 "173",173,599.349,601.654,"- it's eggs. 
@@ -989,7 +989,7 @@
 "771",771,2480.588,2483.863,"at least our relationship is out in the open -- no more hiding.","at least our relationship is out in the open  no more hiding",12,7063,42,0.0545833333333273,219.847328244299,30.6604333333333,170.638319522962
 "772",772,2484.023,2485.749,"yeah, no more hiding. i'll drink to that.","yeah no more hiding ill drink to that",8,7071,42,0.028766666666661,278.09965237549,30.6892,170.641061844167
 "773",773,2486.936,2491.282,"and i got richard calm, and i'll work my magic, which is what i do.","and i got richard calm and ill work my magic which is what i do",15,7086,42,0.0724333333333334,207.086976530142,30.7616333333333,170.678263573046
-"774",774,2491.821,2494.928,"dad's head looked like it was gonna go full-out pi–ata.","dads head looked like it was gonna go fullout pif1ata",10,7096,42,0.0517833333333328,193.112327003542,30.8134166666666,170.730808587755
+"774",774,2491.821,2494.928,"dad's head looked like it was gonna go full-out pi<f1>ata.","dads head looked like it was gonna go fullout pif1ata",10,7096,42,0.0517833333333328,193.112327003542,30.8134166666666,170.730808587755
 "775",775,2495.117,2497.427,"it'll be okay. he and i are going golfing in a couple days.","itll be okay he and i are going golfing in a couple days",13,7109,42,0.0384999999999991,337.662337662346,30.8519166666666,170.733640059013
 "776",776,2497.492,2498.654,"that always puts him a good mood.","that always puts him a good mood",7,7116,42,0.0193666666666635,361.44578313259,30.8712833333333,170.735991004255
 "777",777,2500.826,2504.876,"your plant is dead. how did it die so quickly?","your plant is dead how did it die so quickly",10,7126,42,0.067500000000003,148.148148148142,30.9387833333333,170.733178569451

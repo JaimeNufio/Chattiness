@@ -22,7 +22,7 @@ residential colleges","it is the oldest of yales residential colleges",8,108,1,0
 enchanting, and it has,","they have these carillon bells that are enchanting and it has",11,119,1,0.0377666666666666,291.26213592233,0.412316666666666,144.200877578251
 "13",13,50.325,53.696,"what was called by robert frost, the most
 beautiful college courtyard in america.","what was called by robert frost the most beautiful college courtyard in america",13,132,1,0.0561833333333333,231.385345594779,0.4685,149.228884965716
-"14",14,54.463,57.151,"well, i'll tell you what, grandpa – i'll get
+"14",14,54.463,57.151,"well, i'll tell you what, grandpa <96> i'll get
 settled in, and then we can have lunch there.","well ill tell you what grandpa 96 ill get settled in and then we can have lunch there",18,150,1,0.0448,401.785714285714,0.5133,154.518142045588
 "15",15,57.64,58.194,"ah, that's a deal","ah thats a deal",4,154,1,0.00923333333333337,433.21299638989,0.522533333333333,159.331566624147
 "16",16,58.831,62.039,"you wanted me to remind you that you were
@@ -220,7 +220,7 @@ with your best friend, the drummer,","when all the time youre really in love wit
 "124",124,422.549,423.122,"what are you gonna wear?","what are you gonna wear",5,1203,8,0.0095500000000006,523.560209424051,4.05155,170.399609206406
 "125",125,423.658,426.578,"mmm, glass slippers, a backwards
 baseball cap...","mmm glass slippers a backwards baseball cap",7,1210,8,0.048666666666666,143.835616438358,4.10021666666667,170.380838173116
-"126",126,426.999,427.523,"–and nothing else.
+"126",126,426.999,427.523,"<85>and nothing else.
 - exactly.","85and nothing else  exactly",4,1214,8,0.00873333333333335,458.015267175572,4.10895,170.43480811284
 "127",127,428.434,431.219,"i'm very excited.
 - me too. hey, have you talked to -","im very excited  me too hey have you talked to ",10,1224,8,0.0464166666666661,215.439856373432,4.15536666666666,170.425963951412
@@ -289,7 +289,7 @@ what?","ashers dead what",3,1523,10,0.0201166666666666,149.130074565038,5.3473,1
 "163",163,580.048,584.04,"no, rory. this great man was not
 brought down by my vagina, okay?","no rory this great man was not brought down by my vagina okay",13,1563,10,0.0665333333333327,195.390781563128,5.64298333333333,160.580578689625
 "164",164,584.497,587.478,"okay. sorry. i just - that's terrible.","okay sorry i just  thats terrible",6,1569,10,0.0496833333333332,120.764844012077,5.69266666666666,160.377777487623
-"165",165,588.113,590.72,"he was teaching a shakespeare class –
+"165",165,588.113,590.72,"he was teaching a shakespeare class <96>
 ""a midsummer night's dream. ""","he was teaching a shakespeare class 96 a midsummer nights dream ",11,1580,10,0.0434499999999995,253.164556962028,5.73611666666666,160.337862119912
 "166",166,592.301,595.414,"he was doing puck,
 and then suddenly he wasn't.","he was doing puck and then suddenly he wasnt",9,1589,10,0.0518833333333324,173.466109861873,5.788,160.377228462782
@@ -751,14 +751,14 @@ so, okay, well, they know.","and everything will get back to normal so okay well
 "426",426,1515.375,1518.88,"the very fact that the bookstore had any in stock
 shows the sad nature of american reading habits.","the very fact that the bookstore had any in stock shows the sad nature of american reading habits",18,4150,26,0.0584166666666685,308.131241084156,15.8744833333333,163.847123594867
 "427",427,1520.738,1524.86,"do you need some help with those?
-- i got this, but here – you can put these up.","do you need some help with those  i got this but here 96 you can put these up",18,4168,26,0.0686999999999974,262.008733624464,15.9431833333333,163.94052485153
+- i got this, but here <96> you can put these up.","do you need some help with those  i got this but here 96 you can put these up",18,4168,26,0.0686999999999974,262.008733624464,15.9431833333333,163.94052485153
 "428",428,1525.966,1526.423,"you made flyers.","you made flyers",3,4171,26,0.00761666666666846,393.873085339076,15.9508,164.034022293038
 "429",429,1526.996,1529.52,"anyone who wants to pay tribute to
 this great man deserves the opportunity.","anyone who wants to pay tribute to this great man deserves the opportunity",13,4184,26,0.0420666666666648,309.033280507145,15.9928666666667,163.918305518596
 "430",430,1530.074,1530.432,"i'm on it.","im on it",3,4187,26,0.00596666666666579,502.79329608946,15.9988333333333,163.776101313311
 "431",431,1538.792,1541.155,"okay, quinn, last building.
 please say it looks familiar.","okay quinn last building please say it looks familiar",9,4196,26,0.0393833333333343,228.523063901814,16.0382166666667,163.647223782037
-"432",432,1541.823,1542.523,"ahh, uh–","ahh uh85",2,4198,26,0.0116666666666636,171.428571428616,16.0498833333333,163.447329440426
+"432",432,1541.823,1542.523,"ahh, uh<85>","ahh uh85",2,4198,26,0.0116666666666636,171.428571428616,16.0498833333333,163.447329440426
 "433",433,1543.143,1544.203,"apparently it doesn't look familiar.","apparently it doesnt look familiar",5,4203,26,0.0176666666666658,283.018867924543,16.06755,163.25267337421
 "434",434,1544.673,1548.454,"no, hold on. hold on. yes. here.","no hold on hold on yes here",7,4210,26,0.0630166666666658,111.081724411533,16.1305666666667,163.232115166998
 "435",435,1549.204,1549.856,"this is where she lives.","this is where she lives",5,4215,26,0.0108666666666674,460.122699386472,16.1414333333333,163.191290909399
@@ -784,7 +784,7 @@ my friend here means no harm.","im sorry about the mixup my friend here means no
 and blondes - they don't mix.","he just has to learn that guinness and blondes  they dont mix",12,4317,27,0.0260833333333342,460.063897763562,16.4371833333333,164.120418716862
 "448",448,1577.513,1577.856,"redheads!","redheads",1,4318,27,0.00571666666666791,174.927113702586,16.4429,164.202941310395
 "449",449,1579.306,1582.254,"we sincerely apologize, and we will now leave
-you to finish putting up your p–ster of...","we sincerely apologize and we will now leave you to finish putting up your pf3ster of",16,4334,27,0.0491333333333311,325.644504748997,16.4920333333333,164.24848773932
+you to finish putting up your p<f3>ster of...","we sincerely apologize and we will now leave you to finish putting up your pf3ster of",16,4334,27,0.0491333333333311,325.644504748997,16.4920333333333,164.24848773932
 "450",450,1584.259,1584.912,"this really old guy.","this really old guy",4,4338,27,0.0108833333333337,367.534456355272,16.5029166666667,164.259270134883
 "451",451,1585.695,1588.545,"professor asher fleming.
 - what, they were out of orlando bloom?","professor asher fleming  what they were out of orlando bloom",10,4348,27,0.0475000000000023,210.526315789464,16.5504166666667,164.287798626239
@@ -792,9 +792,9 @@ you to finish putting up your p–ster of...","we sincerely apologize and we wil
 we're throwing him a wake.","professor fleming died last week were throwing him a wake",10,4358,27,0.0399333333333326,250.417362270455,16.59035,164.307689580157
 "453",453,1592,1593.646,"okay, so were you and fleming -
 - no!","okay so were you and fleming   no",7,4365,27,0.0274333333333326,255.164034021878,16.6177833333333,164.429213370637
-"454",454,1594.037,1596.986,"sorry. just you're putting a p–ster
+"454",454,1594.037,1596.986,"sorry. just you're putting a p<f3>ster
 of him up in your hallway.","sorry just youre putting a pf3ster of him up in your hallway",12,4377,27,0.0491500000000012,244.150559511693,16.6669333333333,164.560761830308
-"455",455,1597.362,1599.09,"you can see where i get the impressi–n
+"455",455,1597.362,1599.09,"you can see where i get the impressi<f3>n
 he's a little bit more than a teacher.","you can see where i get the impressif3n hes a little bit more than a teacher",16,4393,27,0.0287999999999973,555.555555555608,16.6957333333333,164.69114368921
 "456",456,1599.464,1602.95,"well, he was more than a teacher.
 he was a great writer","well he was more than a teacher he was a great writer",12,4405,27,0.0581000000000017,206.540447504297,16.7538333333333,164.808576745476
@@ -855,7 +855,7 @@ that's what a servant does.","i hired him i paid him he served thats what a serv
 "488",488,1673.938,1674.59,"some people have to work.","some people have to work",5,4665,28,0.0108666666666636,460.122699386633,17.6139833333333,167.276983449388
 "489",489,1675.061,1677.133,"and i bet if you ask him he'll tell you
 he made excellent tips that night.","and i bet if you ask him hell tell you he made excellent tips that night",16,4681,28,0.0345333333333353,463.320463320437,17.6485166666667,167.437683530928
-"490",490,1677.458,1678.679,"because my friends –
+"490",490,1677.458,1678.679,"because my friends <96>
 they tend to enjoy their re-fills.","because my friends 96 they tend to enjoy their refills",10,4691,28,0.0203500000000001,491.40049140049,17.6688666666667,167.635783185659
 "491",491,1679.024,1681.579,"not the point.
 - to a bartender, tips are very much the point.","not the point  to a bartender tips are very much the point",12,4703,29,0.0425833333333344,281.800391389425,17.71145,167.88210155938
@@ -1049,7 +1049,7 @@ please help yourself to a book.","hi marty thank you for coming please help your
 "600",600,2099.952,2104.436,"i'm very pleased with the turnout. i mean, i
 knew he was beloved, but this is overwhelming.","im very pleased with the turnout i mean i knew he was beloved but this is overwhelming",17,5791,36,0.0747333333333321,227.47546833185,21.6288,165.117422033777
 "601",601,2106.163,2109.65,"you know, it's funny, but asher died right
-at the height of my passi–n for him.","you know its funny but asher died right at the height of my passif3n for him",16,5807,36,0.058116666666668,275.308287926578,21.6869166666667,165.204118307442
+at the height of my passi<f3>n for him.","you know its funny but asher died right at the height of my passif3n for him",16,5807,36,0.058116666666668,275.308287926578,21.6869166666667,165.204118307442
 "602",602,2110.22,2111.751,"i kind of wonder what would have happened
 if he had lived.","i kind of wonder what would have happened if he had lived",12,5819,36,0.0255166666666734,470.280862181457,21.7124333333333,165.298339749315
 "603",603,2112.844,2115.288,"would i have stayed in love with him forever?
@@ -1074,7 +1074,7 @@ order of business.","all right lets move on to the next order of business",11,59
 "613",613,2148.22,2150.828,"hmm. a very serious matter has been
 brought to our attention,","hmm a very serious matter has been brought to our attention",11,5939,36,0.0434666666666696,253.06748466256,22.1592333333333,165.6352752569
 "614",614,2151.237,2155.554,"and i would like to bring to the floor for
-discussi–n the possible negative ramifications","and i would like to bring to the floor for discussif3n the possible negative ramifications",15,5954,36,0.0719500000000001,208.478109798471,22.2311833333333,165.681915826471
+discussi<f3>n the possible negative ramifications","and i would like to bring to the floor for discussif3n the possible negative ramifications",15,5954,36,0.0719500000000001,208.478109798471,22.2311833333333,165.681915826471
 "615",615,2155.977,2159.71,"of the inn owner and diner owner dating.
 - that's us.","of the inn owner and diner owner dating  thats us",10,5964,36,0.0622166666666696,160.728636485393,22.2934,165.721157584069
 "616",616,2160.394,2160.93,"they're talking about us.","theyre talking about us",4,5968,37,0.0089333333333343,447.761194029802,22.3023333333333,165.756929403708
@@ -1087,7 +1087,7 @@ not we can support this.","to carefully consider whether or not we can support t
 "620",620,2171.541,2176.184,"yes, we see you, luke, and, as a member of the
 town, you are welcome to voice your opinion.","yes we see you luke and as a member of the town you are welcome to voice your opinion",19,6022,37,0.0773833333333338,245.530906741329,22.5283333333333,165.963418120597
 "621",621,2176.476,2177.422,"voice my -","voice my ",2,6024,37,0.0157666666666652,126.849894291766,22.5441,166.009490526956
-"622",622,2177.928,2179.313,"i open the floor up for discussi–n.","i open the floor up for discussif3n",7,6031,37,0.023083333333337,303.249097472876,22.5671833333333,166.051879531642
+"622",622,2177.928,2179.313,"i open the floor up for discussi<f3>n.","i open the floor up for discussif3n",7,6031,37,0.023083333333337,303.249097472876,22.5671833333333,166.051879531642
 "623",623,2180.959,2186.351,"all right. i'll start. luke's diner is a staple in
 this town. most of us eat there on a regular basis.","all right ill start lukes diner is a staple in this town most of us eat there on a regular basis",21,6052,37,0.0898666666666713,233.67952522254,22.65705,166.054282437118
 "624",624,2186.826,2191.892,"the dragonfly inn, though newer than luke's diner,
@@ -1102,7 +1102,7 @@ happen when the relationship goes sour,","think of the consequences what will ha
 - hey!","as lets face it most of lorelais relationships do  hey",10,6120,37,0.0491166666666686,203.596878181193,23.00225,166.250479256308
 "629",629,2209.721,2213.615,"we'll have to choose. suddenly you'll either
 be a 'luke' or a 'lorelai', or,","well have to choose suddenly youll either be a luke or a lorelai or",14,6134,37,0.0648999999999963,215.71648690294,23.06715,166.284539577695
-"630",630,2214.756,2217.868,"if you're kirk and you can't make a decisi–n
+"630",630,2214.756,2217.868,"if you're kirk and you can't make a decisi<f3>n
 to save your life, you'll be neither.","if youre kirk and you cant make a decisif3n to save your life youll be neither",16,6150,37,0.051866666666668,308.483290488424,23.1190166666666,166.339062509797
 "631",631,2218.34,2218.909,"he's probably right.","hes probably right",3,6153,37,0.00948333333333267,316.344463971903,23.1285,166.411844959891
 "632",632,2219.415,2222.462,"that's bad for the economy, bad for
@@ -1265,7 +1265,7 @@ yale is full of excellent teachers.","oh now theres no need to cry yale is full 
 you've been such a huge help tonight.","yeah thanks marty for everything youve been such a huge help tonight",12,7066,42,0.0640833333333376,187.256176853044,26.6755666666666,169.884135144668
 "722",722,2496.36,2500.305,"for you, anything. hey, rory?
 - hmm?","for you anything hey rory  hmm",6,7072,42,0.0657499999999951,91.2547528517178,26.7413166666666,169.803406095579
-"723",723,2501.004,2503.434,"do you –
+"723",723,2501.004,2503.434,"do you <96>
 i mean, how come you don't have a-a -","do you 96 i mean how come you dont have aa ",11,7083,42,0.0405000000000049,271.604938271572,26.7818166666666,169.743779449484
 "724",724,2505.128,2505.877,"do you have a boyfriend?","do you have a boyfriend",5,7088,42,0.0124833333333299,400.534045393967,26.7943,169.706979337442
 "725",725,2506.725,2507.052,"what?","what",1,7089,42,0.00545000000000376,183.486238531984,26.79975,169.745795491095
@@ -1275,7 +1275,7 @@ you don't mention anyone.","im just curious you dont mention anyone",7,7096,42,0
 so i was just wondering what the deal was.","theres no one here you seem to be with so i was just wondering what the deal was",18,7114,42,0.0488833333333332,368.223661779749,26.8727833333333,169.728894708503
 "728",728,2514.89,2515.801,"i don't know.","i dont know",3,7117,42,0.0151833333333343,197.585071350152,26.8879666666666,169.726945403175
 "729",729,2516.454,2517.74,"you - okay.","you  okay",2,7119,42,0.0214333333333267,93.3125972006509,26.9093999999999,169.711359570742
-"730",730,2518.946,2521.343,"so, what exactly does that mean –
+"730",730,2518.946,2521.343,"so, what exactly does that mean <96>
 ""i don't know""?","so what exactly does that mean 96 i dont know",10,7129,43,0.0399499999999989,250.312891113899,26.9493499999999,169.661387992643
 "731",731,2522.386,2522.81,"i don't know.","i dont know",3,7132,43,0.0070666666666663,424.528301886814,26.9564166666666,169.644990691781
 "732",732,2523.639,2526.591,"okay. i mean, 'cause that's usually

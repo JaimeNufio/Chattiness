@@ -47,8 +47,8 @@ fight or flight.","yeah fight or flight you know fight or flight",9,174,1,0.0320
 "29",29,51.429,52.901,"- flight.
 - flight."," flight  flight",3,184,1,0.0245333333333334,122.282608695652,0.8479,186.310112893574
 "30",30,53.28,54.615,"wow.","wow",1,185,1,0.02225,44.9438202247191,0.87015,165.093311895414
-"31",31,112.203,115.429,"oö est la station de
-métro la plus proche ?","of9 est la station de me9tro la plus proche ",9,194,2,0.0537666666666667,167.389956602604,0.923916666666667,143.028322243111
+"31",31,112.203,115.429,"o<f9> est la station de
+m<e9>tro la plus proche ?","of9 est la station de me9tro la plus proche ",9,194,2,0.0537666666666667,167.389956602604,0.923916666666667,143.028322243111
 "32",32,115.618,118.357,"""where is the nearest
 subway station?""","where is the nearest subway station",6,200,2,0.0456500000000001,131.434830230011,0.969566666666667,121.768799769681
 "33",33,118.368,119.43,"yeah.","yeah",1,201,2,0.0177000000000002,56.4971751412423,0.987266666666667,102.253755385491
@@ -58,8 +58,8 @@ acheter un billet ?","ou estce que je peux acheter un billet ",8,209,3,0.0465500
 - the hunter and gatherer has returned."," where can i buy a ticket  the hunter and gatherer has returned",13,222,3,0.0594333333333331,218.732473359507,1.09325,105.159906591495
 "36",36,126.069,127.995,"hey. listen to how
 good i've gotten.","hey listen to how good ive gotten",7,229,3,0.0321,218.068535825545,1.12535,107.162494527732
-"37",37,128.008,131.064,"pouvez-vous me donner un plan de métro,
-s'il vous plaöt ?","pouvezvous me donner un plan de me9tro sil vous plaeet ",10,239,3,0.0509333333333331,196.335078534033,1.17628333333333,109.09109239685
+"37",37,128.008,131.064,"pouvez-vous me donner un plan de m<e9>tro,
+s'il vous pla<ee>t ?","pouvezvous me donner un plan de me9tro sil vous plaeet ",10,239,3,0.0509333333333331,196.335078534033,1.17628333333333,109.09109239685
 "38",38,131.075,134.063,"""could i have a map of
 the subway, please?""","could i have a map of the subway please",9,248,3,0.0498,180.722891566265,1.22608333333333,110.432625181996
 "39",39,134.328,137.633,"could i have a map of
@@ -75,13 +75,13 @@ coffee and croissant.","thank you for the coffee and croissant",7,270,3,0.038950
 "46",46,147.868,149.918,"i thought our stomachs should
 start adjusting to french cuisine,","i thought our stomachs should start adjusting to french cuisine",10,285,3,0.0341666666666669,292.682926829267,1.47473333333333,114.261569797529
 "47",47,149.95,152.344,"so i got croissants
-and café au lait.","so i got croissants and cafe9 au lait",8,293,3,0.0399000000000001,200.501253132832,1.51463333333333,115.539814197607
-"48",48,152.358,153.761,"i thought café au
+and caf<e9> au lait.","so i got croissants and cafe9 au lait",8,293,3,0.0399000000000001,200.501253132832,1.51463333333333,115.539814197607
+"48",48,152.358,153.761,"i thought caf<e9> au
 lait was spanish.","i thought cafe9 au lait was spanish",7,300,3,0.0233833333333332,299.358517462582,1.53801666666667,117.043207506508
 "49",49,153.777,156.122,"no, it's french for ""coffee
 and milk."" ""lait"" is ""milk.""","no its french for coffee and milk lait is milk",10,310,3,0.0390833333333338,255.863539445626,1.5771,118.074827340965
-"50",50,156.136,161.098,"really? i thought it was ""café
-olé,"" like, ""coffee! all right!""","really i thought it was cafe9 ole9 like coffee all right",11,321,3,0.0827000000000003,133.010882708585,1.6598,119.019067393687
+"50",50,156.136,161.098,"really? i thought it was ""caf<e9>
+ol<e9>,"" like, ""coffee! all right!""","really i thought it was cafe9 ole9 like coffee all right",11,321,3,0.0827000000000003,133.010882708585,1.6598,119.019067393687
 "51",51,161.114,162.556,"you're kidding.","youre kidding",2,323,3,0.024033333333333,83.217753120667,1.68383333333333,119.903754486368
 "52",52,162.573,164.838,"you're not kidding.
 you are. you're kidding.","youre not kidding you are youre kidding",7,330,3,0.0377499999999998,185.43046357616,1.72158333333333,120.527836705714
@@ -101,7 +101,7 @@ me just another uncouth american,","that way if the parisians find me just anoth
 "61",61,177.206,178.965,"i can tell them my sad story.","i can tell them my sad story",7,396,3,0.0293166666666664,238.772029562253,1.95383333333333,132.105916138098
 "62",62,178.98,181.067,"""i was born in marseille,","i was born in marseille",5,401,4,0.0347833333333336,143.747005270722,1.98861666666667,132.901246025349
 "63",63,181.081,185.113,"""and my parents were killed
-in a trös tragique accident.","and my parents were killed in a tre8s tragique accident",10,411,4,0.0672000000000002,148.809523809523,2.05581666666667,133.394251793339
+in a tr<e8>s tragique accident.","and my parents were killed in a tre8s tragique accident",10,411,4,0.0672000000000002,148.809523809523,2.05581666666667,133.394251793339
 "64",64,185.129,187.714,"""and so i was sent
 to the states","and so i was sent to the states",8,419,4,0.0430833333333335,185.68665377176,2.0989,133.779700386142
 "65",65,187.726,190.035,"""and adopted by
@@ -196,7 +196,7 @@ me a nice head massage","and youll have to give me a nice head massage",10,810,5
 - done."," and blow it out  done",6,825,5,0.0179999999999997,333.333333333338,3.89351666666667,166.605594081826
 "117",117,296.76,298.473,"- and braid it.
 - i'll french-braid it."," and braid it  ill frenchbraid it",7,832,5,0.0285500000000004,245.183887915934,3.92206666666667,166.88315313316
-"118",118,298.488,300.082,"ooh lö lö. hello?","ooh le0 le0 hello",4,836,6,0.0265666666666666,150.564617314932,3.94863333333333,167.123095374909
+"118",118,298.488,300.082,"ooh l<e0> l<e0>. hello?","ooh le0 le0 hello",4,836,6,0.0265666666666666,150.564617314932,3.94863333333333,167.123095374909
 "119",119,300.099,301.808,"- mom?
 - bonjour, rory."," mom  bonjour rory",4,840,6,0.0284833333333334,140.433001755412,3.97711666666667,167.293401834805
 "120",120,301.825,303.928,"well, if it isn't the
@@ -588,7 +588,7 @@ f. scott and zelda?","antony and cleopatra f scott and zelda",7,2454,13,0.031066
 "344",344,765.333,766.506,"zinf and del?","zinf and del",3,2457,13,0.01955,153.452685421995,11.1428,192.313207362352
 "345",345,766.522,768.769,"i think i'll stick
 with my own name.","i think ill stick with my own name",8,2465,13,0.0374499999999993,213.618157543395,11.18025,192.224273035072
-"346",346,768.785,771.591,"pbht! seöor boring pants?
+"346",346,768.785,771.591,"pbht! se<f1>or boring pants?
 mr. stick-in-the-mud?","pbht sef1or boring pants mr stickinthemud",6,2471,13,0.0467666666666673,128.296507483961,11.2270166666667,192.154433851108
 "347",347,771.603,774.277,"""a cappella,"" ""a
 cappella."" hmm-hmm.","a cappella a cappella hmmhmm",5,2476,13,0.0445666666666682,112.191473448014,11.2715833333333,192.094087817012
@@ -904,7 +904,7 @@ out to dinner.","and then take rory out to dinner",7,3768,20,0.0224333333333334,
 "535",535,1145.763,1148.127,"we're going to chez
 zinjustin this year,","were going to chez zinjustin this year",7,3780,20,0.0394000000000005,177.664974619287,17.3316,197.541040048922
 "536",536,1148.142,1149.902,"a fabulous french restaurant.","a fabulous french restaurant",4,3784,20,0.0293333333333332,136.363636363637,17.3609333333333,197.557734552862
-"537",537,1149.916,1152.214,"they have a cröme brölée
+"537",537,1149.916,1152.214,"they have a cr<e8>me br<fb>l<e9>e
 that is to die for.","they have a cre8me brfble9e that is to die for",10,3794,20,0.0383,261.096605744125,17.3992333333333,197.600445700828
 "538",538,1152.23,1153.21,"well, that sounds like fun.","well that sounds like fun",5,3799,20,0.0163333333333336,306.122448979586,17.4155666666667,197.683928952082
 "539",539,1153.244,1156.041,"too bad you're gonna miss the
@@ -992,7 +992,7 @@ call ""dark energy.""","and thats what we call dark energy",7,4141,22,0.03780000
 "586",586,1264.704,1268.189,"hey, you know what?
 we should have lunch at chez zinjustin.","hey you know what we should have lunch at chez zinjustin",11,4152,22,0.0580833333333355,189.383070301284,19.2601833333333,196.508789221701
 "587",587,1268.205,1270.06,"i hear they have a
-cröme brölée to die for.","i hear they have a cre8me brfble9e to die for",10,4162,22,0.030916666666667,323.450134770886,19.2911,196.511910043331
+cr<e8>me br<fb>l<e9>e to die for.","i hear they have a cre8me brfble9e to die for",10,4162,22,0.030916666666667,323.450134770886,19.2911,196.511910043331
 "588",588,1270.074,1272.076,"- sure. sounds good.
 - okay."," sure sounds good  okay",5,4167,22,0.0333666666666659,149.850149850153,19.3244666666667,196.546548793376
 "589",589,1273.287,1274.826,"you can't make a
@@ -1171,8 +1171,8 @@ big question-asking geek.","and that your dad is a big questionasking geek",9,49
 "696",696,1522.473,1525.74,"hey, we have come to take you
 to lunch at chez zinjustin.","hey we have come to take you to lunch at chez zinjustin",12,4923,26,0.0544500000000009,220.385674931126,23.1103833333333,193.546476571585
 "697",697,1525.754,1526.959,"wow. fancy.","wow fancy",2,4925,26,0.0200833333333359,99.5850622406511,23.1304666666667,193.591353947522
-"698",698,1526.97,1528.954,"apparently, the cröme
-brölée is to die for.","apparently the cre8me brfble9e is to die for",8,4933,26,0.0330666666666654,241.935483870977,23.1635333333333,193.643442226328
+"698",698,1526.97,1528.954,"apparently, the cr<e8>me
+br<fb>l<e9>e is to die for.","apparently the cre8me brfble9e is to die for",8,4933,26,0.0330666666666654,241.935483870977,23.1635333333333,193.643442226328
 "699",699,1528.968,1530.42,"since when do you
 say ""to die for""?","since when do you say to die for",8,4941,26,0.0242,330.578512396695,23.1877333333333,193.680035407916
 "700",700,1530.435,1531.868,"since he got addicted
@@ -1203,7 +1203,7 @@ to what you're wearing.","i hear they match your napkin to what youre wearing",1
 napkin into an origami swan","i hear they fold your napkin into an origami swan",10,5061,27,0.0431000000000002,232.018561484918,23.72475,194.313623053817
 "717",717,1563.032,1564.255,"every time you leave the table.","every time you leave the table",6,5067,27,0.0203833333333364,294.358135731763,23.7451333333333,194.468230646545
 "718",718,1564.268,1566.958,"i don't know for the napkins, but i
-hear the cröme brölée is to die for.","i dont know for the napkins but i hear the cre8me brfble9e is to die for",16,5083,27,0.0448333333333342,356.877323420067,23.7899666666667,194.594537996373
+hear the cr<e8>me br<fb>l<e9>e is to die for.","i dont know for the napkins but i hear the cre8me brfble9e is to die for",16,5083,27,0.0448333333333342,356.877323420067,23.7899666666667,194.594537996373
 "719",719,1566.991,1569.147,"- i heard that, too.
 - you know what? you should all come along."," i heard that too  you know what you should all come along",13,5096,27,0.0359333333333325,361.781076066799,23.8259,194.758924503526
 "720",720,1569.18,1570.431,"- who? us?
@@ -1225,8 +1225,8 @@ the wine is wonderful.","ah thank you the wine is wonderful",7,5160,27,0.0405000
 "728",728,1592.856,1594.888,"i'm so glad you're enjoying it.","im so glad youre enjoying it",6,5166,27,0.0338666666666654,177.165354330715,24.1277,194.630696319073
 "729",729,1594.902,1597.34,"hey, this is a french restaurant.
 shouldn't all the servers be french?","hey this is a french restaurant shouldnt all the servers be french",12,5178,27,0.0406333333333312,295.324036095175,24.1683333333334,194.464236811113
-"730",730,1597.374,1600.335,"je ne suis pas franöais, mais je peux
-parler franöais, si vous préférez.","je ne suis pas frane7ais mais je peux parler frane7ais si vous pre9fe9rez",13,5191,27,0.0493500000000002,263.424518743667,24.2176833333334,194.441732987807
+"730",730,1597.374,1600.335,"je ne suis pas fran<e7>ais, mais je peux
+parler fran<e7>ais, si vous pr<e9>f<e9>rez.","je ne suis pas frane7ais mais je peux parler frane7ais si vous pre9fe9rez",13,5191,27,0.0493500000000002,263.424518743667,24.2176833333334,194.441732987807
 "731",731,1600.348,1603.614,"uh, where is the
 nearest subway station?","uh where is the nearest subway station",7,5198,27,0.0544333333333346,128.597672994486,24.2721166666667,194.428338619805
 "732",732,1604.397,1607.047,"- another bottle, sir?
@@ -1259,15 +1259,15 @@ everyone's invited.","you are  this winter everyones invited",6,5300,28,0.035716
 people outside the paper, do you?","you dont hang out with any of these people outside the paper do you",14,5316,28,0.037033333333333,378.037803780381,24.8185666666667,194.657403882592
 "749",749,1637.442,1638.714,"not so much.","not so much",3,5319,28,0.0211999999999989,141.509433962271,24.8397666666667,194.676943978286
 "750",750,1638.727,1641.19,"okay. who wants dessert?","okay who wants dessert",4,5323,28,0.0410499999999994,97.4421437271634,24.8808166666667,194.720237422876
-"751",751,1641.205,1643.548,"i'd love a cröme brölée.
-i've never had cröme brölée.","id love a cre8me brfble9e ive never had cre8me brfble9e",10,5333,28,0.0390500000000012,256.081946222783,24.9198666666667,194.730637952355
+"751",751,1641.205,1643.548,"i'd love a cr<e8>me br<fb>l<e9>e.
+i've never had cr<e8>me br<fb>l<e9>e.","id love a cre8me brfble9e ive never had cre8me brfble9e",10,5333,28,0.0390500000000012,256.081946222783,24.9198666666667,194.730637952355
 "752",752,1643.562,1644.756,"i could do with a cognac.","i could do with a cognac",6,5339,28,0.0199000000000031,301.507537688395,24.9397666666667,194.74816906936
 "753",753,1644.771,1646.213,"i wouldn't say no
 to a digestif.","i wouldnt say no to a digestif",7,5346,28,0.0240333333333335,291.262135922329,24.9638,194.828777865877
-"754",754,1646.23,1648.447,"cröme brölée for me.
+"754",754,1646.23,1648.447,"cr<e8>me br<fb>l<e9>e for me.
 and a cognac.","cre8me brfble9e for me and a cognac",7,5353,28,0.0369499999999978,189.445196211107,25.00075,194.885246066468
 "755",755,1648.462,1651.336,"you know, i think we'd like to get
-cröme brölée and cognac all around.","you know i think wed like to get cre8me brfble9e and cognac all around",14,5367,28,0.0479000000000004,292.275574112732,25.04865,194.940273040832
+cr<e8>me br<fb>l<e9>e and cognac all around.","you know i think wed like to get cre8me brfble9e and cognac all around",14,5367,28,0.0479000000000004,292.275574112732,25.04865,194.940273040832
 "756",756,1651.348,1652.862,"- sorry.
 - why sorry?"," sorry  why sorry",4,5371,28,0.0252333333333354,158.520475561414,25.0738833333334,194.970073790309
 "757",757,1652.875,1654.741,"- sorry if this lunch is weird.
@@ -1332,10 +1332,10 @@ i can make a flip book.","i want so many photos of this thing i can make a flip 
 "789",789,1719.901,1723.185,"bill and a.k., get back to the office so
 you can proof the stories or emailing it in.","bill and ak get back to the office so you can proof the stories or emailing it in",18,5662,29,0.0547333333333313,328.867235079184,26.2074166666667,197.043116297969
 "790",790,1723.202,1724.213,"everyone else, you're with me.","everyone else youre with me",5,5667,29,0.0168499999999995,296.73590504452,26.2242666666667,197.196210400146
-"791",791,1724.246,1726.054,"- what about the cröme brölée?
+"791",791,1724.246,1726.054,"- what about the cr<e8>me br<fb>l<e9>e?
 - and our cognac?"," what about the cre8me brfble9e  and our cognac",9,5676,29,0.0301333333333332,298.672566371683,26.2544,197.330344197791
 "792",792,1726.067,1728.316,"i have yet to taste the
-sweet nectar of cröme brölée.","i have yet to taste the sweet nectar of cre8me brfble9e",11,5687,29,0.0374833333333337,293.463761671851,26.2918833333334,197.405777894525
+sweet nectar of cr<e8>me br<fb>l<e9>e.","i have yet to taste the sweet nectar of cre8me brfble9e",11,5687,29,0.0374833333333337,293.463761671851,26.2918833333334,197.405777894525
 "793",793,1728.33,1729.536,"this is going to
 be our front page.","this is going to be our front page",8,5695,29,0.0201000000000022,398.009950248713,26.3119833333334,197.508318361029
 "794",794,1729.569,1730.83,"front page? really?","front page really",3,5698,29,0.0210166666666661,142.743854084064,26.333,197.583497154761
@@ -1350,16 +1350,16 @@ for attention.","come on we all know these rabblerousers are just looking for at
 "799",799,1736.549,1739.146,"i want to go.
 i want to report this story.","i want to go i want to report this story",10,5737,29,0.043283333333333,231.035810550637,26.4698666666667,197.988633061251
 "800",800,1739.158,1741.439,"i just want to do it after
-i eat my cröme brölée.","i just want to do it after i eat my cre8me brfble9e",12,5749,30,0.0380166666666696,315.651030249866,26.5078833333334,198.054254457739
+i eat my cr<e8>me br<fb>l<e9>e.","i just want to do it after i eat my cre8me brfble9e",12,5749,30,0.0380166666666696,315.651030249866,26.5078833333334,198.054254457739
 "801",801,1741.45,1743.067,"i mean, what if tonight
 i get hit by lightning","i mean what if tonight i get hit by lightning",10,5759,30,0.0269499999999994,371.057513914666,26.5348333333334,198.093123593121
-"802",802,1743.102,1745.294,"and die a cröme-brölée virgin?","and die a cre8mebrfble9e virgin",5,5764,30,0.0365333333333335,136.861313868613,26.5713666666667,198.13427815087
-"803",803,1745.307,1746.951,"a cröme-brölée virgin?","a cre8mebrfble9e virgin",3,5767,30,0.0274000000000001,109.48905109489,26.5987666666667,198.18202664886
+"802",802,1743.102,1745.294,"and die a cr<e8>me-br<fb>l<e9>e virgin?","and die a cre8mebrfble9e virgin",5,5764,30,0.0365333333333335,136.861313868613,26.5713666666667,198.13427815087
+"803",803,1745.307,1746.951,"a cr<e8>me-br<fb>l<e9>e virgin?","a cre8mebrfble9e virgin",3,5767,30,0.0274000000000001,109.48905109489,26.5987666666667,198.18202664886
 "804",804,1746.967,1749.453,"you know what? enough.
 this is a major political protest.","you know what enough this is a major political protest",10,5777,30,0.0414333333333313,241.351568785209,26.6402,198.212119130818
 "805",805,1749.471,1751.747,"it's a big story,
 and it's going to go on our front page.","its a big story and its going to go on our front page",13,5790,30,0.0379333333333345,342.706502636194,26.6781333333334,198.264991778304
-"806",806,1751.763,1754.145,"now get your drunk, cröme-brölée-craving
+"806",806,1751.763,1754.145,"now get your drunk, cr<e8>me-br<fb>l<e9>e-craving
 asses out of these chairs,","now get your drunk cre8mebrfble9ecraving asses out of these chairs",10,5800,30,0.039700000000001,251.889168765737,26.7178333333334,198.351001834896
 "807",807,1754.179,1755.669,"and let's get to work, okay?","and lets get to work okay",6,5806,30,0.0248333333333335,241.610738255032,26.7426666666667,198.459797612171
 "808",808,1755.685,1757.675,"besides the lead,
@@ -1377,7 +1377,7 @@ who's not a little tipsy?","okay is there anyone whos not a little tipsy",9,5847
 "815",815,1766.356,1768.378,"- great meeting you.
 - see you later."," great meeting you  see you later",7,5864,30,0.0336999999999989,207.715133531164,26.9519166666667,198.804491843028
 "816",816,1770.771,1773.998,"well, i hope you're hungry
-for some cröme brölée.","well i hope youre hungry for some cre8me brfble9e",9,5873,30,0.0537833333333348,167.338084908579,27.0057,198.755938928451
+for some cr<e8>me br<fb>l<e9>e.","well i hope youre hungry for some cre8me brfble9e",9,5873,30,0.0537833333333348,167.338084908579,27.0057,198.755938928451
 "817",817,1775.515,1777.908,"are you sure you want to
 fianchetto that bishop so early?","are you sure you want to fianchetto that bishop so early",11,5884,30,0.03988333333333,275.804429586316,27.0455833333334,198.726081982992
 "818",818,1777.921,1779.844,"i don't know,
@@ -1829,7 +1829,7 @@ that you guys were free.","but i accidentally told them that you guys were free"
 had a reservation there, too?","isnt that a coincidence that they had a reservation there too",11,7689,40,0.0586166666666713,187.659937446673,36.0139833333333,193.434088115198
 "1086",1086,2385.544,2386.508,"oh, don't eat that doughnut,","oh dont eat that doughnut",5,7694,40,0.0160666666666657,311.203319502094,36.03005,193.462176631091
 "1087",1087,2386.543,2388.062,"'cause i hear they have
-a cröme brölée that is --","cause i hear they have a cre8me brfble9e that is ",10,7704,40,0.025316666666663,394.996708360821,36.0553666666666,193.498294263104
+a cr<e8>me br<fb>l<e9>e that is --","cause i hear they have a cre8me brfble9e that is ",10,7704,40,0.025316666666663,394.996708360821,36.0553666666666,193.498294263104
 "1088",1088,2388.097,2388.906,"don't.","dont",1,7705,40,0.013483333333329,74.1656365884044,36.0688499999999,193.564693165072
 "1089",1089,2388.92,2390.939,"come on, get your lame-o-parent
 selves out the door.","come on get your lameoparent selves out the door",9,7714,40,0.0336499999999963,267.459138187251,36.1024999999999,193.621026711677

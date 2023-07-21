@@ -9,7 +9,7 @@
 "7",7,82.84,85.737,"i am the uber-trump-murdoch-maximus. oop. apple down.","i am the ubertrumpmurdochmaximus oop apple down",7,68,2,0.0482833333333332,144.977562996203,0.327516666666666,48.2330303376843
 "8",8,85.794,91.38,"apple down. apple down! hold it, everybody! apple down! okay, roll her over. have a nice day.","apple down apple down hold it everybody apple down okay roll her over have a nice day",17,85,2,0.0931,182.599355531686,0.420616666666666,49.7049096217693
 "9",9,91.528,94.887,"big parade, free cider for one and all.","big parade free cider for one and all",8,93,2,0.0559833333333335,142.899672521583,0.4766,50.473632673864
-"10",10,148.734,152.436,"öand two eggs over easy, got it. just be a couple minutes. caesar, order.","85and two eggs over easy got it just be a couple minutes caesar order",14,107,3,0.0617,226.904376012966,0.5383,51.8537673515321
+"10",10,148.734,152.436,"<85>and two eggs over easy, got it. just be a couple minutes. caesar, order.","85and two eggs over easy got it just be a couple minutes caesar order",14,107,3,0.0617,226.904376012966,0.5383,51.8537673515321
 "11",11,152.493,156.097,"since they were both actually royalty, their child would have a real claim to the judean throne, see?","since they were both actually royalty their child would have a real claim to the judean throne see",18,125,3,0.0600666666666669,299.66703662597,0.598366666666667,52.5172145322216
 "12",12,156.138,159.668,"so mary magdalene goes to gaul to have the kid. she's also supposed to run the church after his death,","so mary magdalene goes to gaul to have the kid shes also supposed to run the church after his death",20,145,3,0.0588333333333334,339.943342776204,0.6572,53.5026473338052
 "13",13,159.714,163.374,"but that's not what peter wants, right? but all that got covered up later by constantine","but thats not what peter wants right but all that got covered up later by constantine",16,161,3,0.0609999999999999,262.295081967213,0.7182,58.6207796931726
@@ -415,7 +415,7 @@
 - i have no one to hang out with."," go home and relax  i have no one to hang out with",13,3079,19,0.0467666666666635,277.975766215272,13.96305,165.044250809543
 "322",322,1119.969,1122.652,"i'll hang out with you sometime this week. i need a break, too.","ill hang out with you sometime this week i need a break too",13,3092,19,0.0447166666666665,290.719344017891,14.0077666666666,165.194616963066
 "323",323,1122.792,1126.697,"we'll have a girlfriend day. we'll get manicures and jump rope and talk about boys.","well have a girlfriend day well get manicures and jump rope and talk about boys",15,3107,19,0.0650833333333367,230.4737516005,14.07285,165.387317162975
-"324",324,1126.763,1130.05,"the whole cliché thing. now go! go and don't stop for nothing.","the whole cliche9 thing now go go and dont stop for nothing",12,3119,19,0.0547833333333339,219.044721630664,14.1276333333333,165.493768031141
+"324",324,1126.763,1130.05,"the whole clich<e9> thing. now go! go and don't stop for nothing.","the whole cliche9 thing now go go and dont stop for nothing",12,3119,19,0.0547833333333339,219.044721630664,14.1276333333333,165.493768031141
 "325",325,1130.102,1131.07,"okay, okay, i promise.","okay okay i promise",4,3123,19,0.0161333333333308,247.93388429756,14.1437666666666,165.543196842208
 "326",326,1132.541,1134.444,"do it again! do it again!","do it again do it again",6,3129,19,0.031716666666667,189.174986862846,14.1754833333333,165.271816180942
 "327",327,1134.526,1138.74,"hold it. hold it! good girl. now, get your things and go.","hold it hold it good girl now get your things and go",12,3141,19,0.0702333333333324,170.859041290937,14.2457166666666,164.807021410855
@@ -604,7 +604,7 @@
 "456",456,1595.249,1597.543,"that's caesar salad. mine's got an apostrophe ""s.""","thats caesar salad mines got an apostrophe s",8,4304,27,0.0382333333333311,209.241499564092,19.9255833333333,161.654620788416
 "457",457,1597.61,1599.504,"i don't think that makes it less confusing.","i dont think that makes it less confusing",8,4312,27,0.0315666666666668,253.431890179514,19.95715,161.713580612647
 "458",458,1599.878,1601.798,"- customers.
-- ögreatest book i've ever read."," customers  85greatest book ive ever read",7,4319,27,0.0320000000000012,218.749999999992,19.98915,161.771796117774
+- <85>greatest book i've ever read."," customers  85greatest book ive ever read",7,4319,27,0.0320000000000012,218.749999999992,19.98915,161.771796117774
 "459",459,1602.029,1604.916,"- keep going, zach.
 - yeah, this is da bomb."," keep going zach  yeah this is da bomb",9,4328,27,0.0481166666666657,187.045375822657,20.0372666666666,161.83320770712
 "460",460,1604.983,1607.887,"so, mary magdalene goes to gaul to have the kid.","so mary magdalene goes to gaul to have the kid",10,4338,27,0.0483999999999999,206.611570247934,20.0856666666666,161.891933432517
@@ -809,7 +809,7 @@
 "603",603,2066.982,2069.716,"i'm gonna go now. lane's here. she'll bring you your root beer.","im gonna go now lanes here shell bring you your root beer",12,5739,35,0.0455666666666654,263.3504023409,26.2618666666666,166.378275604603
 "604",604,2069.773,2073.024,"- hey, lane, i got to run down to the pharmacy! got an errand.
 - okay!"," hey lane i got to run down to the pharmacy got an errand  okay",15,5754,35,0.0541833333333291,276.837896032012,26.31605,166.438102603852
-"605",605,2073.078,2074.708,"soö i'll be back in a bit.","so85 ill be back in a bit",7,5761,35,0.0271666666666685,257.668711656424,26.3432166666666,166.468472177644
+"605",605,2073.078,2074.708,"so<85> i'll be back in a bit.","so85 ill be back in a bit",7,5761,35,0.0271666666666685,257.668711656424,26.3432166666666,166.468472177644
 "606",606,2076.864,2078.466,"- rory?!
 - hey, you!"," rory  hey you",4,5765,35,0.0266999999999977,149.81273408241,26.3699166666666,166.477234890436
 "607",607,2078.655,2081.548,"- you're back! our girl's back.
@@ -839,7 +839,7 @@
 - hi."," hey there you are  hi",6,5937,36,0.0273166666666687,219.646125686378,27.1131666666666,167.106167750872
 "625",625,2134.894,2137.234,"so - oh, you really ran an errand.","so  oh you really ran an errand",7,5944,36,0.0390000000000024,179.487179487168,27.1521666666666,167.069086056086
 "626",626,2137.3,2141.986,"i didn't run an errand, but i sort of kept up the pretense. so i went in the pharmacy.","i didnt run an errand but i sort of kept up the pretense so i went in the pharmacy",19,5963,36,0.0780999999999949,243.277848911668,27.2302666666666,167.051659180046
-"627",627,2142.036,2144.524,"so, i was in the pharmacy, so i had to buy something, so iö","so i was in the pharmacy so i had to buy something so i85",14,5977,36,0.0414666666666638,337.620578778158,27.2717333333333,167.124210177159
+"627",627,2142.036,2144.524,"so, i was in the pharmacy, so i had to buy something, so i<85>","so i was in the pharmacy so i had to buy something so i85",14,5977,36,0.0414666666666638,337.620578778158,27.2717333333333,167.124210177159
 "628",628,2145.15,2147.295,"- i feel kind of dumb.
 - yeah."," i feel kind of dumb  yeah",7,5984,36,0.0357499999999997,195.804195804197,27.3074833333333,167.223486746061
 "629",629,2147.577,2149.113,"but you didn't really have an errand, right?","but you didnt really have an errand right",8,5992,36,0.0255999999999934,312.500000000081,27.3330833333332,167.274215296064
@@ -853,7 +853,7 @@
 - perfect match."," oh yeah look at that perfect match  perfect match",10,6045,37,0.0497666666666646,200.937709310122,27.6256833333332,166.67273015678
 "637",637,2181.008,2182.906,"i don't believe it. what the hell is this?","i dont believe it what the hell is this",9,6054,37,0.0316333333333356,284.510010537387,27.6573166666666,166.554973797989
 "638",638,2183.285,2184.298,"cider mill.","cider mill",2,6056,37,0.016883333333332,118.460019743346,27.6741999999999,166.435168757093
-"639",639,2184.776,2186.299,"oh for the love ofö","oh for the love of85",5,6061,37,0.0253833333333356,196.97964543662,27.6995833333332,166.34149920328
+"639",639,2184.776,2186.299,"oh for the love of<85>","oh for the love of85",5,6061,37,0.0253833333333356,196.97964543662,27.6995833333332,166.34149920328
 "640",640,2188.311,2190.58,"- hurry up, michel!
 - what are you doing here?"," hurry up michel  what are you doing here",9,6070,37,0.037816666666663,237.990304098745,27.7373999999999,166.330656804365
 "641",641,2190.729,2193.539,"- what are you doing here?
@@ -886,7 +886,7 @@
 "661",661,2279.636,2282.741,"um... let's see. how do i feel?","um lets see how do i feel",7,6236,39,0.0517500000000003,135.265700483091,28.6711166666666,163.823946607501
 "662",662,2283.735,2288.086,"- actually... i feel like an idiot.
 - why?"," actually i feel like an idiot  why",8,6244,39,0.072516666666661,110.319466789253,28.7436333333332,163.809082441456
-"663",663,2288.127,2292.479,"why? because i was married, ö rory. married.","why because i was married 85 rory married",8,6252,39,0.072533333333331,110.294117647062,28.8161666666666,163.789962512685
+"663",663,2288.127,2292.479,"why? because i was married, <85> rory. married.","why because i was married 85 rory married",8,6252,39,0.072533333333331,110.294117647062,28.8161666666666,163.789962512685
 "664",664,2292.781,2296.508,"and i threw it all away for someone who dumped me once and then just bailed on me.","and i threw it all away for someone who dumped me once and then just bailed on me",18,6270,39,0.0621166666666644,289.777300778116,28.8782833333332,163.814282062384
 "665",665,2296.565,2299.132,"- i didn't just bail. i...
 - i hurt everybody."," i didnt just bail i  i hurt everybody",9,6279,39,0.0427833333333335,210.362290611608,28.9210666666666,163.894785326081

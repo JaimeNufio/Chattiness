@@ -133,7 +133,7 @@ obsession with boho chic,","about everybodys asinine obsession with boho chic",7
 "80",80,219.191,220.872,"but rory had the
 guts to tell me","but rory had the guts to tell me",8,561,4,0.0280166666666669,285.544318857821,2.67246666666667,152.492705112697
 "81",81,220.887,223.271,"that the idea for my
-article was trite and passé,","that the idea for my article was trite and passe9",10,571,4,0.0397333333333336,251.677852348992,2.7122,152.966449555297
+article was trite and pass<e9>,","that the idea for my article was trite and passe9",10,571,4,0.0397333333333336,251.677852348992,2.7122,152.966449555297
 "82",82,223.285,224.679,"because that's who rory is --","because thats who rory is ",5,576,4,0.0232333333333334,215.208034433285,2.73543333333333,153.583318858126
 "83",83,224.695,227.068,"honest, direct,
 and to the point.","honest direct and to the point",6,582,4,0.0395499999999998,151.706700379267,2.77498333333333,154.181843233946
@@ -351,7 +351,7 @@ we are on paris time.","no sleeping we are in paris now we are on paris time",12
 - fighting the jet lag."," fight the jet lag  fighting the jet lag",9,1520,9,0.0342833333333336,262.518230432667,7.10898333333333,172.498323807898
 "206",206,527.723,529.107,"jet lag strong.","jet lag strong",3,1523,9,0.0230666666666669,130.057803468207,7.13205,172.368990089514
 "207",207,529.123,534.239,"yes, i'm sorry, sir. could i make
-a 8:30 reservation at l'arpöge?","yes im sorry sir could i make a 830 reservation at larpe8ge",12,1535,9,0.0852666666666664,140.734949179047,7.21731666666666,172.067495975365
+a 8:30 reservation at l'arp<e8>ge?","yes im sorry sir could i make a 830 reservation at larpe8ge",12,1535,9,0.0852666666666664,140.734949179047,7.21731666666666,172.067495975365
 "208",208,536.286,537.547,"yes...","yes",1,1536,9,0.0210166666666661,47.581284694688,7.23833333333333,171.656236732817
 "209",209,537.869,540.098,"uh-huh, i-i understand.","uhhuh ii understand",3,1539,10,0.0371499999999988,80.7537012113081,7.27548333333333,171.240817097118
 "210",210,540.115,541.443,"thank you.","thank you",2,1541,10,0.0221333333333329,90.3614457831343,7.29761666666666,170.900956728457
@@ -574,9 +574,9 @@ put a minibar in here?","but would it kill them to put a minibar in here",11,245
 "342",342,851.121,852.956,"- i'm starving.
 - me too."," im starving  me too",5,2462,15,0.0305833333333339,163.487738419615,11.4665666666666,173.220515661372
 "343",343,853.229,856.315,"you don't think they're still holding
-our table at l'arpöge, do you?","you dont think theyre still holding our table at larpe8ge do you",12,2474,15,0.0514333333333335,233.311730395333,11.518,173.364857970769
+our table at l'arp<e8>ge, do you?","you dont think theyre still holding our table at larpe8ge do you",12,2474,15,0.0514333333333335,233.311730395333,11.518,173.364857970769
 "344",344,856.329,858.844,"i'm guessing our table at
-l'arpöge smells of disinfectant","im guessing our table at larpe8ge smells of disinfectant",9,2483,15,0.0419166666666683,214.711729622258,11.5599166666667,173.412899763232
+l'arp<e8>ge smells of disinfectant","im guessing our table at larpe8ge smells of disinfectant",9,2483,15,0.0419166666666683,214.711729622258,11.5599166666667,173.412899763232
 "345",345,858.862,860.868,"and has two chairs
 on top of it.","and has two chairs on top of it",8,2491,15,0.0334333333333348,239.282153539372,11.59335,173.489792656447
 "346",346,861.719,864.457,"it's okay, it's okay!
@@ -724,11 +724,11 @@ in seven different restaurants,","you know after seeing this sign in seven diffe
 "434",434,1073.619,1075.513,"it's no longer informative--
 it's just mocking.","its no longer informative its just mocking",7,3106,18,0.0315666666666668,221.752903907074,14.29245,173.225301625318
 "435",435,1075.526,1076.748,"this place looks good, too.","this place looks good too",5,3111,18,0.0203666666666663,245.499181669398,14.3128166666666,173.368018498062
-"436",436,1076.762,1078.848,"even the sound of it -- fermé.","even the sound of it  ferme9",6,3117,18,0.0347666666666669,172.579098753594,14.3475833333333,173.457311476456
+"436",436,1076.762,1078.848,"even the sound of it -- ferm<e9>.","even the sound of it  ferme9",6,3117,18,0.0347666666666669,172.579098753594,14.3475833333333,173.457311476456
 "437",437,1078.863,1080.72,"- let's try around the corner.
 - it has a mocking tone."," lets try around the corner  it has a mocking tone",11,3128,19,0.0309499999999995,355.411954765757,14.3785333333333,173.556514708526
 "438",438,1080.754,1083.262,"""ha ha,
-fermé."" do you hear that?","ha ha ferme9 do you hear that",7,3135,19,0.0418000000000006,167.464114832533,14.4203333333333,173.68238474613
+ferm<e9>."" do you hear that?","ha ha ferme9 do you hear that",7,3135,19,0.0418000000000006,167.464114832533,14.4203333333333,173.68238474613
 "439",439,1083.277,1085.909,"i hear a woman who's delusional
 with hunger. come on.","i hear a woman whos delusional with hunger come on",10,3145,19,0.0438666666666677,227.963525835861,14.4642,173.832238995928
 "440",440,1085.922,1087.682,"see, this is why french
@@ -736,8 +736,8 @@ people are so skinny --","see this is why french people are so skinny ",9,3154,1
 "441",441,1087.716,1089.024,"'cause they have no
 late-night snacks.","cause they have no latenight snacks",6,3160,19,0.0217999999999999,275.229357798167,14.5153333333333,174.062615485971
 "442",442,1089.059,1090.347,"how do you explain
-gérard depardieu?","how do you explain ge9rard depardieu",6,3166,19,0.0214666666666668,279.50310559006,14.5368,174.135828812539
-"443",443,1090.383,1093.687,"oh, that's obvious. gérard
+g<e9>rard depardieu?","how do you explain ge9rard depardieu",6,3166,19,0.0214666666666668,279.50310559006,14.5368,174.135828812539
+"443",443,1090.383,1093.687,"oh, that's obvious. g<e9>rard
 depardieu has hogged all the food.","oh thats obvious ge9rard depardieu has hogged all the food",10,3176,19,0.0550666666666643,181.598062954003,14.5918666666666,174.158827763522
 "444",444,1095.704,1097.753,"- did you see that?
 - yeah. oh, i saw that."," did you see that  yeah oh i saw that",10,3186,19,0.0341499999999996,292.825768667646,14.6260166666666,174.236042933916
@@ -1018,7 +1018,7 @@ ready to graduate college.","and then here you are when youre ready to graduate 
 "618",618,1481.463,1483.357,"oh! there's the cake pan.","oh theres the cake pan",5,4356,25,0.0315666666666668,158.394931362196,20.0981333333333,176.149860288656
 "619",619,1483.371,1485.197,"let's get cookin'!","lets get cookin",3,4359,25,0.0304333333333337,98.576122672507,20.1285666666666,176.065771058775
 "620",620,1486.507,1489.113,"well, well,
-what do you know? fermé.","well well what do you know ferme9",7,4366,25,0.0434333333333332,161.166538756716,20.172,176.057912488402
+what do you know? ferm<e9>.","well well what do you know ferme9",7,4366,25,0.0434333333333332,161.166538756716,20.172,176.057912488402
 "621",621,1489.876,1491.988,"listen, honey,
 if they weren't open at 11:00,","listen honey if they werent open at 1100",8,4374,25,0.0352000000000013,227.272727272719,20.2072,176.050061597919
 "622",622,1492.004,1493.696,"i don't think they're gonna be
@@ -1032,7 +1032,7 @@ closed restaurants feel--","not standing in front of closed restaurants feel",8,
 "627",627,1502.641,1504.187,"monsieur hayden...","monsieur hayden",2,4410,26,0.0257666666666637,77.6196636481331,20.3978166666666,175.958035277664
 "628",628,1504.204,1505.511,"mademoiselle gilmore.","mademoiselle gilmore",2,4412,26,0.0217833333333336,91.8133129303738,20.4196,175.853150977658
 "629",629,1505.525,1506.72,"that's us.","thats us",2,4414,26,0.0199166666666656,100.418410041846,20.4395166666666,175.755440309717
-"630",630,1506.735,1508.696,"welcome to l'arpöge.","welcome to larpe8ge",3,4417,26,0.0326833333333335,91.7899031106572,20.4722,175.685359313271
+"630",630,1506.735,1508.696,"welcome to l'arp<e8>ge.","welcome to larpe8ge",3,4417,26,0.0326833333333335,91.7899031106572,20.4722,175.685359313271
 "631",631,1508.825,1510.25,"please come in.","please come in",3,4420,26,0.0237499999999992,126.315789473688,20.49595,175.591525165635
 "632",632,1510.263,1511.974,"your table is ready.","your table is ready",4,4424,26,0.0285166666666669,140.268848626533,20.5244666666666,175.299183632171
 "633",633,1512.785,1514.671,"after you, mademoiselle.","after you mademoiselle",3,4427,26,0.0314333333333328,95.4400848356326,20.5559,174.992157849665
